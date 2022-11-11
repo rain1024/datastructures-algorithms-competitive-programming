@@ -59,12 +59,8 @@ printPairs(4); // (1, 2) (1, 3) (1, 4)
                // O(n^2)
 ```
 
-```math
-f(n) = n * (n-1) * 1
-```
+$f(n) = n * (n-1) * 1$
 
-```math
-O(f(n)) = O(n^2)
-```
+$O(f(n)) = O(n^2)$
 
 Run time for `printPairs()` is O(n^2) 
