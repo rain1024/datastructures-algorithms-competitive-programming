@@ -1,12 +1,12 @@
 # Array
 
-Time Complexity 
+## Time Complexity 
 
 |       | Access  | Insertion | Delete   | Search   |
 |-------|---------|-----------|----------|----------|
 | Array | $O(1)$  | $O(n)$    | $O(n)$   | $O(n)$   |
 
-Array implementation in Typescript
+## Array implementation in Typescript
 
 ```js
 let nums: number[] = [1, 2, 3, 4];  // [1, 2, 3, 4]
