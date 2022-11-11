@@ -46,9 +46,9 @@ console.log(contains(8, [1, 2, 100, 200, 300, 5000]));   // false
 
 ```js
 const printPairs = (n: number) => {
-    for(let i=1; i<=n; i++){
-        for(let j=i+1; j<=n; j++){
-            console.log(`(${i}, ${j})`);
+    for(let i=1; i<=n; i++){ // n times 
+        for(let j=i+1; j<=n; j++){ // n - i times
+            console.log(`(${i}, ${j})`); // 1 operation
         }
     }
 }
@@ -60,5 +60,9 @@ printPairs(4); // (1, 2) (1, 3) (1, 4)
 ```
 
 ```math
-$f(n) = n * (n-1) * 1
+$f(n) = n * (n-1) * 1$
+
+$O(f(n)) = O(n^2)$
 ```
+
+Run time for `printPairs()` is O(n^2) 
