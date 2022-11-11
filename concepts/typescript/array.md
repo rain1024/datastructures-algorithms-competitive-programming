@@ -48,3 +48,8 @@ nums.find((e) => e == 3)     // 3
 nums.find((e) => e == 5)     // undefined
 nums.filter((e) => e == 3)   // [3]
 ```
+
+## References
+
+* [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), developer.mozilla.org
+* 2022, [Data Structures in Typescript #4 - Static and Dynamic Arrays](https://www.youtube.com/watch?v=SycPba7pYR0&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang
