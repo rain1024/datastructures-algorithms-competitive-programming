@@ -63,4 +63,4 @@ $f(n) = n * (n-1) * 1$
 
 $O(f(n)) = O(n^2)$
 
-Run time for `printPairs()` is O(n^2) 
+Run time for `printPairs()` is $O(n^2)$
