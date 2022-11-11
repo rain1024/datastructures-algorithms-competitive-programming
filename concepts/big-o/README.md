@@ -107,3 +107,22 @@ $O(f(n)) = O(log(n))$
 
 Run time for `contains` is $O(log(n))$
 
+## Combined Run Time
+
+```js
+const combine = (nums: number[]) => {
+    foo(nums);  // O(1)
+    fuu(nums);  // O(log(n))
+    bar(nums);  // O(n)
+    baz(nums);  // O(n^2)
+}
+
+combine([1, 2, 3, 4, 5, 6]); // O(n^2)
+```
+
+$f(n) = 1 + log(n) + n + n^2$
+
+$O(f(n)) = O(n^2)$
+
+Runtime for `combine()` is $O(n^2)$
+
