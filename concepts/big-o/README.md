@@ -32,10 +32,13 @@ const contains = (target: number, nums: number[]) => {
     return false;
 }
 
-console.log(contains(8, [1, 2, 3, 4, 5, 8, 10])); // O(n)
-// true
-console.log(contains(8, [1, 2, 3, 4, 5, 6, 7, 9, 10])); // O(n)
-// false
-console.log(contains(8, [1, 2, 100, 200, 300, 5000])); // O(n)
-// false
+console.log(contains(8, [1, 2, 3, 4, 5, 8, 10]));         // true
+                                                          // O(n)
+
+console.log(contains(8, [1, 2, 3, 4, 5, 6, 7, 9, 10]));  // false
+                                                         // O(n)
+
+console.log(contains(8, [1, 2, 100, 200, 300, 5000]));   // false
+                                                         // O(n)
+
 ```
