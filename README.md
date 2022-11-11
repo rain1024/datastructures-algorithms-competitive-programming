@@ -6,4 +6,7 @@
 
 ## 📙 Concepts
 
+* [Big-O](concepts/typescript/big-o.md)
+* [Array](concepts/typescript/array.md)
+
 ## 💪 Exercises
