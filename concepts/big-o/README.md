@@ -100,3 +100,10 @@ console.log(contains(8, [8, 9, 10, 11]));   // true
 console.log(contains(8, [4, 5, 6, 7, 8]));  // true
                                             // O(log(n))
 ```
+
+$f(n) = 1 + 1 + 1 + 3log(n)= 3 + 3log(n)$
+
+$O(f(n)) = O(log(n))$
+
+Run time for `contains` is $O(log(n))$
+
