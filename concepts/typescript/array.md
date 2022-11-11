@@ -1,10 +1,10 @@
 # Array
 
-## Time Complexity 
+## Time Complexity Analysis of Array
 
-|       | Access  | Insertion | Deletion   | Search   |
-|-------|---------|-----------|------------|----------|
-| Array | $O(1)$  | $O(n)$    | $O(n)$     | $O(n)$   |
+| Operation       | Access  | Insertion | Deletion   | Search   |
+|-----------------|---------|-----------|------------|----------|
+| Time Complexity | $O(1)$  | $O(n)$    | $O(n)$     | $O(n)$   |
 
 ## Array implementation in Typescript
 
