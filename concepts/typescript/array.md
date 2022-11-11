@@ -9,6 +9,7 @@
 ## Array implementation in Typescript
 
 ```js
+// INITIALIZE
 let nums: number[] = [1, 2, 3, 4];                // [1, 2, 3, 4]
 
 // ACCESS: O(1)
