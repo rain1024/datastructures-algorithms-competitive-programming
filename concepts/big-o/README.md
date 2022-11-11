@@ -64,3 +64,39 @@ $f(n) = n * (n-1) * 1$
 $O(f(n)) = O(n^2)$
 
 Run time for `printPairs()` is $O(n^2)$
+
+## Logarithm Run Time
+
+
+```js
+// binaray search - nums is sorted array
+const contains = (target:number, nums: number[]) => {
+    let lo = 0; // 1 operation 
+    let hi = nums.length - 1; // 1 operation 
+
+    while(lo <= hi){ // log(n) times
+        let mid = Math.floor((lo + hi) / 2);
+        // console.log(mid);
+        if(target == nums[mid]){ // 1 operation 
+            return true;
+        } else if (target > nums[mid]) { // 1 operation 
+            lo = mid + 1;
+        } else { // 1 operation
+            hi = mid - 1;
+        }
+    }
+    return false;
+}
+
+console.log(contains(8, [1, 2, 5, 8, 10])); // true
+                                            // O(log(n))
+
+console.log(contains(8, [1, 2, 5, 9, 10])); // false
+                                            // O(log(n))
+
+console.log(contains(8, [8, 9, 10, 11]));   // true
+                                            // O(log(n))
+
+console.log(contains(8, [4, 5, 6, 7, 8]));  // true
+                                            // O(log(n))
+```
