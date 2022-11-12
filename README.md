@@ -8,5 +8,6 @@
 
 * [Big-O](concepts/typescript/big-o.md)
 * [Array](concepts/typescript/array.md)
+* [Linked List](concepts/typescript/linked-list.md)
 
 ## 💪 Exercises
