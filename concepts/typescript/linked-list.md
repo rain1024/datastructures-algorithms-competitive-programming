@@ -35,6 +35,7 @@ class LinkedListNode<T> {
 
 class LinkedList<T> implements Iterable<LinkedListNode<T>> {
     public head: LinkedListNode<T> | undefined;
+    public tail: LinkedListNode<T> | undefined;
 
     constructor(){}
 
@@ -44,16 +45,14 @@ class LinkedList<T> implements Iterable<LinkedListNode<T>> {
     addBack(node: LinkedListNode<T>) {
         if(this.head == undefined){
             this.head = node;
+            this.tail = node;
             return;
         }
-        let lastItem: LinkedListNode<T> | null = null;
-        for(let item of this){
-            if(item.next == null){
-                lastItem = item;
-            }
-        }
-        if(lastItem != null){
-            lastItem.next = node;
+        if(this.tail == undefined){
+            return;    
+        } else {
+            this.tail.next = node;
+            this.tail = node;
         }
     }
 
@@ -109,3 +108,4 @@ console.log(linked_list_2.toString());
 
 * 2022, [Data Structures in Typescript #5 - Linked List Intro](https://www.youtube.com/watch?v=oXXLFvtG6-Q&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang
 * 2017, [LinkedList implementation in Typescript](https://stackoverflow.com/questions/42588925/linkedlist-implementation-in-typescript), stackoverflow.com
+
