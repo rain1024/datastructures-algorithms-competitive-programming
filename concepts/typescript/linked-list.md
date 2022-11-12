@@ -60,17 +60,12 @@ class LinkedList<T> implements Iterable<LinkedListNode<T>> {
                     ITERATOR
     ****************************************/
     *[Symbol.iterator](): Iterator<LinkedListNode<T>> {
-        if (!this.head) return;
         if(this.head == null) return;
 
         let iter: LinkedListNode<T> | null;
 
         for (iter = this.head; iter != null; iter = iter.next) {
-            if(iter == null){
-                return
-            } else {
-                yield iter;
-            }
+           yield iter;
         }
     }
 
