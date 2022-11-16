@@ -6,8 +6,15 @@
 
 ## 📙 Concepts
 
-* [Big-O](concepts/typescript/big-o.md)
-* [Array](concepts/typescript/array.md)
-* [Linked List](concepts/typescript/linked-list.md)
+* Big-O
+  * [`typescript`]((concepts/typescript/big-o.md))
+* Array
+  * [`typescript`](concepts/typescript/array.md)
+* Linked List
+  * [`typescript`](concepts/typescript/linked-list.md)
+
+**Graph**
+
+* Graph representations
 
 ## 💪 Exercises
