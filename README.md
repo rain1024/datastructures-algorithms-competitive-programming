@@ -16,5 +16,6 @@
 **Graph**
 
 * Graph representations
+  * [`java`](concepts/java/graph.md)
 
 ## 💪 Exercises
