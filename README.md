@@ -7,7 +7,7 @@
 ## 📙 Concepts
 
 * Big-O
-  * [`typescript`]((concepts/typescript/big-o.md))
+  * [`typescript`](concepts/typescript/big-o.md)
 * Array
   * [`typescript`](concepts/typescript/array.md)
 * Linked List
