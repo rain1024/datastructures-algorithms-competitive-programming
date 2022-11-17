@@ -159,6 +159,56 @@ Remove vertex
 2 -> null
 ```
 
+## Graph Traversal
+
+Graph Traversal Implemetation in Java
+
+DFS
+
+```java
+public void dfs(Vertex v) {
+    HashSet<Vertex> visited = new HashSet<Vertex>();
+    Stack<Vertex> s = new Stack();
+    s.push(v);
+
+    while (!s.isEmpty()) {
+        Vertex vertex = s.pop();
+        System.out.println(vertex.getData());
+        if (!visited.contains(vertex)){
+            for(Edge e: vertex.getEdges()){
+                Vertex target = e.getTarget();
+                if(!visited.contains(target)){
+                    s.push(target);
+                }
+            }
+        }
+    }
+}
+```
+
+BFS
+
+```java
+public void bfs(Vertex v){
+    HashSet<Vertex> visited = new HashSet<Vertex>();
+    Queue<Vertex> q = new LinkedList();
+    q.add(v);
+
+    while (!q.isEmpty()) {
+        Vertex vertex = q.remove();
+        System.out.println(vertex.getData());
+        if (!visited.contains(vertex)){
+            for(Edge e: vertex.getEdges()){
+                Vertex target = e.getTarget();
+                if(!visited.contains(target)){
+                    q.add(target);
+                }
+            }
+        }
+    }
+  }
+```
+
 ### UML
 
 ![](uml/graph_representation.png)
