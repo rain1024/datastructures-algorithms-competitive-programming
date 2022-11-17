@@ -53,6 +53,24 @@ class Vertex {
     }
 }
 
+class Graph {
+    private ArrayList<Vertex> vertices;
+    private boolean isWeighted;
+    private boolean isDirected;
+    
+    public Graph(boolean isWeighted, boolean isDirected){
+        this.vertices = new ArrayList<Vertex>();
+        this.isWeighted = isWeighted;
+        this.isDirected = isDirected;
+    }
+    
+    public Vertex addVertex(String data){
+        Vertex v = new Vertex(data);
+        this.vertices.add(v);
+        return v;
+    }
+}
+
 class Main {
     public static void main(String[] args) {
         System.out.println("Graph Tutorial");
@@ -68,6 +86,9 @@ class Main {
         v1.removeEdge(v2);
         System.out.println("After\n");
         System.out.println(v1.getEdges());
+        
+        Graph g = new Graph(false, true);
+        g.add(v1);
     }
 }
 ```
