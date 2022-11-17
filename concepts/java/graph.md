@@ -1,6 +1,11 @@
 # Graph
 
 A graph consists `nodes` and `edges`.
+
+## Graph Representation
+
+Graph Representation Implemetation in Java
+
 ```java
 import java.util.ArrayList; 
 
@@ -48,7 +53,7 @@ class Vertex {
     }
 }
 
-class HelloWorld {
+class Main {
     public static void main(String[] args) {
         System.out.println("Graph Tutorial");
         Vertex v1 = new Vertex("1");
