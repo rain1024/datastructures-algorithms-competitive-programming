@@ -51,6 +51,20 @@ class Vertex {
     public void removeEdge(Vertex target){
         this.edges.removeIf(edge -> edge.getTarget().equals(target));
     }
+    
+    public String toString(){
+        String s = "";
+        s += this.getData();
+        if (this.edges.size() == 0){
+            s += " -> null";
+        } else {
+            s += " -> ";
+            for(Edge e: this.edges){
+                s += e.getTarget().getData() + " ";
+            }
+        }
+        return s;
+    }
 }
 
 class Graph {
@@ -69,28 +83,80 @@ class Graph {
         this.vertices.add(v);
         return v;
     }
+    
+    public void addEdge(Vertex v1, Vertex v2){
+        v1.addEdge(v2);
+        if (!this.isDirected){
+            v2.addEdge(v1);
+        }
+    }
+    
+    public void removeEdge(Vertex v1, Vertex v2){
+        v1.removeEdge(v2);
+        if (!this.isDirected){
+            v2.removeEdge(v1);
+        }
+    }
+    
+    public void removeVertex(Vertex v){
+        this.vertices.remove(v);
+        for(Vertex v0: this.vertices){
+            v0.removeEdge(v);
+        }
+    }
+    
+    public String toString(){
+        String s = "";
+        for(Vertex v: this.vertices){
+            s +=  v.toString() + "\n";
+        }
+        return s;
+    }
+
 }
 
 class Main {
     public static void main(String[] args) {
-        System.out.println("Graph Tutorial");
-        Vertex v1 = new Vertex("1");
-        System.out.println("Data");
-        System.out.println(v1.getData());
-        Vertex v2 = new Vertex("2");
-        Vertex v3 = new Vertex("3");
-        v1.addEdge(v2);
-        v1.addEdge(v3);
-        System.out.println("Before\n");
-        System.out.println(v1.getEdges());
-        v1.removeEdge(v2);
-        System.out.println("After\n");
-        System.out.println(v1.getEdges());
+        System.out.println("Graph Representation");
         
         Graph g = new Graph(false, true);
-        g.add(v1);
+        Vertex v1 = g.addVertex("1");
+        Vertex v2 = g.addVertex("2");
+        Vertex v3 = g.addVertex("3");
+        g.addEdge(v1, v2);
+        g.addEdge(v1, v3);
+        g.addEdge(v2, v3);
+        System.out.println(g);
+        
+        // Remove Edge
+        g.removeEdge(v2, v3);
+        System.out.println("Remove edge");
+        System.out.println(g);
+        
+        // Remove Vertex
+        g.removeVertex(v3);
+        System.out.println("Remove vertex");
+        System.out.println(g);
     }
 }
+```
+
+Output
+
+```
+Graph Representation
+1 -> 2 3 
+2 -> 3 
+3 -> null
+
+Remove edge
+1 -> 2 3 
+2 -> null
+3 -> null
+
+Remove vertex
+1 -> 2 
+2 -> null
 ```
 
 ### UML
