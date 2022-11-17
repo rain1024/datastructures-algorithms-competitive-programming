@@ -96,6 +96,10 @@ class Graph {
         }
     }
     
+    public void dfs(){
+      System.out.println("DFS");
+    }
+
     public String toString(){
         String s = "";
         for(Vertex v: this.vertices){
@@ -103,10 +107,9 @@ class Graph {
         }
         return s;
     }
-
 }
 
-class Main {
+class GraphTraversal {
     public static void main(String[] args) {
         System.out.println("Graph Representation");
         
@@ -114,19 +117,14 @@ class Main {
         Vertex v1 = g.addVertex("1");
         Vertex v2 = g.addVertex("2");
         Vertex v3 = g.addVertex("3");
-        g.addEdge(v1, v2);
+        Vertex v4 = g.addVertex("4");
+        Vertex v5 = g.addVertex("5");
         g.addEdge(v1, v3);
-        g.addEdge(v2, v3);
-        System.out.println(g);
-        
-        // Remove Edge
-        g.removeEdge(v2, v3);
-        System.out.println("Remove edge");
-        System.out.println(g);
-        
-        // Remove Vertex
-        g.removeVertex(v3);
-        System.out.println("Remove vertex");
-        System.out.println(g);
+        g.addEdge(v1, v4);
+        g.addEdge(v3, v2);
+        g.addEdge(v2, v5);
+        System.out.println(g.toString());
+
+        g.dfs();
     }
 }
