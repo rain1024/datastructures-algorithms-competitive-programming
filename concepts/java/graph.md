@@ -71,3 +71,7 @@ class Main {
     }
 }
 ```
+
+### UML
+
+![](uml/graph_representation.png)
