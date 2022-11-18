@@ -10,7 +10,7 @@ From official typescript document
 
 ## Visualization
 
-![](https://raw.githubusercontent.com/rain1024/learn-datastructures-algorithms-competitive-programming/main/concepts/abstract/data-structures/set.png)
+![](../abstract/data-structures/set.png)
 
 
 ## Set Design
