@@ -6,18 +6,13 @@
 
 ## 📙 Concepts
 
-* Big-O
-  * [`typescript`](concepts/typescript/big-o.md)
-* Array
-  * [`typescript`](concepts/typescript/array.md)
-* Linked List
-  * [`typescript`](concepts/typescript/linked-list.md)
-* Set
-  * [`typescript`](concepts/typescript/set.md)
+* Big-O [`TS`](concepts/typescript/big-o.md)
+* Array [`TS`](concepts/typescript/array.md)
+* Linked List [`TS`](concepts/typescript/linked-list.md)
+* Set [`TS`](concepts/typescript/set.md)
 
 **Graph**
 
-* Graph representations
-  * [`java`](concepts/java/graph.md)
+* Graph representations [`JAVA`](concepts/java/graph.md) [`TS`](concepts/java/graph.md)
 
 ## 💪 Exercises

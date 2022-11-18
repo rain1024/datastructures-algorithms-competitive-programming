@@ -15,13 +15,13 @@ From official typescript document
 
 ![](uml/set.png)
 
-Properties
+**Properties**
 
 |             | Definition                              |
 |-------------|-----------------------------------------|
 | size        | the number of (unique) elements in Set |
 
-Methods
+**Methods**
 
 |                 | Definition                                                         |
 |-----------------|--------------------------------------------------------------------|
