@@ -1,5 +1,9 @@
 # Graph Traversal
 
+From neo4j document
+
+> Graph search (or graph traversal) algorithms explore a graph for general discovery or explicit search. They will try to visit as much of the graph as they can reach, but there is no expectation that the paths they explore are computationally optimal.
+
 ## Depth-first search (DFS)
 
 From wikipedia
