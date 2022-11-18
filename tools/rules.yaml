@@ -1,0 +1,9 @@
+- name: File must start with Heading 1
+  type: regex
+  search: "^# .*\n"
+- name: From must have "From wikipedia" line
+  type: regex
+  search: "From wikipedia\n"  
+- name: From must have "From wikipedia"
+  type: regex
+  search: "From wikipedia\n"  
