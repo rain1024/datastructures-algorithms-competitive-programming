@@ -57,4 +57,4 @@ nums.filter((e) => e == 3)   // [3]
 
 * [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), developer.mozilla.org
 * 2022, [Data Structures in Typescript #4 - Static and Dynamic Arrays](https://www.youtube.com/watch?v=SycPba7pYR0&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang
-* [CS50 2020 - Lecture 2 - Arrays](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s&ab_channel=CS50), CS50
+* ▶️ [CS50 2020 - Lecture 2 - Arrays](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s&ab_channel=CS50), CS50

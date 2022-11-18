@@ -14,4 +14,4 @@ From wikipedia
 
 * [Graph traversal](https://en.wikipedia.org/wiki/Graph_traversal), wikipedia
 * [Graph Algorithms for Technical Interviews - Full Course](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), freeCodeCamp.org
-* [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk&t=328s&ab_channel=WilliamFiset), WilliamFiset
+* ▶️ [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk&t=328s&ab_channel=WilliamFiset), WilliamFiset

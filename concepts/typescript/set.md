@@ -60,4 +60,4 @@ console.log(s)             // Set (3) {"2", "3", "4"}
 
 * 2022, [Standard built-in objects > Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set), developer.mozilla.org
 * [Set (abstract data type)](https://en.wikipedia.org/wiki/Set_(abstract_data_type)), wikipedia
-* [ES6 and Typescript Tutorial - 29 - Sets & Maps](https://www.youtube.com/watch?v=4FJrP6aAwSs&ab_channel=Codevolution), Codevolution
+* ▶️ [ES6 and Typescript Tutorial - 29 - Sets & Maps](https://www.youtube.com/watch?v=4FJrP6aAwSs&ab_channel=Codevolution), Codevolution

@@ -221,4 +221,4 @@ public void bfs(Vertex v){
 
 * [Graph (discrete_mathematics)](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), wikipedia
 * [Graph and its representations | GeeksforGeeks](https://www.geeksforgeeks.org/graph-and-its-representations/), GeeksforGeeks
-* [Graph Algorithms for Technical Interviews - Full Course](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), freeCodeCamp.org
+* ▶️ [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=1s&ab_channel=freeCodeCamp.org), freeCodeCamp.org

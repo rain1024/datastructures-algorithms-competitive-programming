@@ -2,8 +2,8 @@
 """
 from os.path import dirname, join
 import re
-import yaml
 import glob
+import yaml
 
 
 def check_content(file, rules):
@@ -12,7 +12,7 @@ def check_content(file, rules):
 
     for rule in rules:
         search = rule['search']
-        result = re.search(search, content)
+        result = re.search(search, content, re.UNICODE | re.MULTILINE)
         if not result:
             print(f"File: {file}")
             message = f"[❌] {rule['name']}\n{rule}"

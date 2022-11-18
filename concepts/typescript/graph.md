@@ -145,4 +145,4 @@ Output
 
 * [Graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), wikipedia.com
 * [Graph Data Structure, CSE 373 -- Lecture 10, Fall 2020](https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=11&ab_channel=StevenSkiena), University of Washington
-* [Graph Algorithms for Technical Interviews - Full Course](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), freeCodeCamp.org
+* ▶️ [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=1s&ab_channel=freeCodeCamp.org), freeCodeCamp.org
