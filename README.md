@@ -59,7 +59,7 @@
 <tr>
 <td>Graph traversal (DFS)</td>
 <td>
-<a href="/concepts/typescript/graph_traversal.md"><code>TS</code></a>
+<a href="/concepts/typescript/graph_traversal.md#depth-first-search-dfs"><code>TS</code></a>
 </td>
 </tr>
 </tbody>
