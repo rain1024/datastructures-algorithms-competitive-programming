@@ -55,6 +55,8 @@ From wikipedia
 
 Here are the implementation of Graph in typescript from scratch.
 
+File **`graph_representation.ts`**
+
 ```ts
 class Graph {
     vertices: Vertex[];
