@@ -12,6 +12,8 @@
   * [`typescript`](concepts/typescript/array.md)
 * Linked List
   * [`typescript`](concepts/typescript/linked-list.md)
+* Set
+  * [`typescript`](concepts/typescript/set.md)
 
 **Graph**
 
