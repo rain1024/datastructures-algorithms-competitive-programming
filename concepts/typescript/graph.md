@@ -17,22 +17,36 @@ From wikipedia
 
 |             | Definition                             |
 |-------------|----------------------------------------|
-| size        | the number of (unique) elements in Set |
+| vertices    | all the vertices of graph              |
 
 **Methods**
 
-|                 | Definition                                                         |
-|-----------------|--------------------------------------------------------------------|
-| add             | Appends a new element with a specified value to the end of the Set.|
-| has             | a boolean indicating whether an element with the specified value exists in the Set or not. |
-| delete          |  Returns true if an element in the Set existed and has been removed, or false if the element does not exist. |
+|                 | Definition                                      |
+|-----------------|-------------------------------------------------|
+| addVertex       | Add the new vertex to the graph                 |
+| removeVertex    | Remove vertex from the graph                    |
+| addEdge         | Add the new edge to the graph                   |
 
-### Class Edge
+### Class Vertex
+
+**Properties**
+
+|             | Definition                             |
+|-------------|----------------------------------------|
+| data        | all the vertices of graph              |
+
+**Methods**
+
+|                 | Definition                                      |
+|-----------------|-------------------------------------------------|
+| addVertex       | Add the new vertex to the graph                 |
+| removeVertex    | Remove vertex from the graph                    |
+| addEdge         | Add the new edge to the graph                   |
 
 ### Class Vertex
 
 
-## 💻 Set Implementation in Typescript
+## 💻 Graph Implementation in Typescript
 
 Typescript has standard built-in object [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
