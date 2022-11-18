@@ -1,17 +1,13 @@
-# Set
+# Graph
 
-From wikipedia
+From [wikipedia]()
 
-> In computer science, a set is an abstract data type that can store unique values, without any particular order. It is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.
-
-From official typescript document 
-
-> The Set object lets you store unique values of any type, whether primitive values or object references.
+> In graph theory, a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge (also called link or line).
 
 ![](../abstract/data-structures/set.png)
 
 
-## 🎨 Set Design
+## 🎨 Graph Design
 
 ![](uml/set.png)
 
@@ -31,7 +27,7 @@ From official typescript document
 
 ## 💻 Set Implementation in Typescript
 
-ℹ️ Typescript has standard built-in object [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+Typescript has standard built-in object [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
 ```ts
 let s = new Set();  
