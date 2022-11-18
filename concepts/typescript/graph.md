@@ -33,7 +33,7 @@ From wikipedia
 
 |             | Definition                             |
 |-------------|----------------------------------------|
-| data        | all the vertices of graph              |
+| data        | Construct a new Vertex from data       |
 
 **Methods**
 
@@ -43,8 +43,13 @@ From wikipedia
 | removeVertex    | Remove vertex from the graph                    |
 | addEdge         | Add the new edge to the graph                   |
 
-### Class Vertex
+### Class Edge
 
+**Methods**
+
+|                 | Definition                                      |
+|-----------------|-------------------------------------------------|
+| constructor     | Construct an edge from two vertices             |
 
 ## 💻 Graph Implementation in Typescript
 
