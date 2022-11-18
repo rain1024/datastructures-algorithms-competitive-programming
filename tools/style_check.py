@@ -4,4 +4,4 @@
 import sys
 
 print("Okie")
-sys.exit(-1)
+sys.exit(0)
