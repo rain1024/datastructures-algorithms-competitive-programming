@@ -131,10 +131,10 @@ Output
 3 -> null
 ```
 
-## 📈 Complexity Analysis of Set
+## 📈 Complexity Analysis of Graph
 
 
-| Operation       | Set                 |
+| Operation       | Complexity          |
 |-----------------|---------------------|
 | Add vertex      | $O(1)$              |
 | Add edge        | $O(1)$              |

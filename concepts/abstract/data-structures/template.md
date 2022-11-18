@@ -46,7 +46,7 @@ Example
 
 | Operation       | Complexity          |
 |-----------------|---------------------|
-| Operation       | $O(log(n))$              |
+| Operation       | $O(log(n))$         |
 
 ## 🔗 References
 
