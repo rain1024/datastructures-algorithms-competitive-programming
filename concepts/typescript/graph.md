@@ -51,30 +51,95 @@ From wikipedia
 
 ## 💻 Graph Implementation in Typescript
 
-Typescript has standard built-in object [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+⚠️ Typescript hasn't has built-in object `Graph`.
+
+Here are the implmentation of Graph in typescript from scratch.
 
 ```ts
-let s = new Set();  
-s.add('2');
-s.add('3')
-s.add('5')
-console.log(s);            // Set (3) {"2", "3", "5"} 
-console.log(s.has('1'));   // false
-console.log(s.has('2'));   // true
-s.delete('5')    
-console.log(s);            // Set (2) {"2", "3"} 
-s.add('4');
-console.log(s)             // Set (3) {"2", "3", "4"} 
+class Graph {
+    vertices: Vertex[];
+
+    constructor() {
+        this.vertices = [];
+    };
+
+    addVertex(data: string): Vertex {
+        const vertex = new Vertex(data);
+        this.vertices.push(vertex);
+        return vertex;
+    }
+
+    addEdge(v1: Vertex, v2: Vertex): void {
+        v1.addEdge(v2);
+    }
+
+    toString() {
+        let s = '';
+        this.vertices.forEach(v => {
+            s += v.toString() + ' -> ';
+            if (v.edges.length == 0){
+                s += 'null\n';
+            } else {
+                v.edges.forEach((e) => {
+                  s += e.target.toString() + ' ';
+                });
+                s += '\n';
+            }
+        })
+        return s;
+    }
+}
+
+class Vertex {
+    data: string;
+    edges: Edge[];
+
+    constructor(data: string){
+        this.data = data;
+        this.edges = [];
+    }
+
+    addEdge(target: Vertex) {
+        this.edges.push(new Edge(this, target));
+    }
+
+    toString(): string {
+        return this.data;
+    }
+}
+
+class Edge {
+    constructor(public source: Vertex, public target: Vertex) {
+    }
+}
+Insert
+const g = new Graph();
+const v1: Vertex = g.addVertex("1");
+const v2: Vertex = g.addVertex("2");
+const v3: Vertex = g.addVertex("3");
+g.addEdge(v1, v2);
+g.addEdge(v1, v3);
+g.addEdge(v2, v3);
+console.log(g.toString());
 ```
+
+Output
+
+```
+1 -> 2 3 
+2 -> 3 
+3 -> null
+```
+
+
 
 ## 📈 Complexity Analysis of Set
 
 
 | Operation       | Set                 |
 |-----------------|---------------------|
-| Insert          | $O(1)$              |
-| Delete          | $O(1)$              |
-| Check exist     | $O(1)$              |
+| Add vertex      | $O(1)$              |
+| Add edge        | $O(1)$              |
 
 ## 🔗 References
 
