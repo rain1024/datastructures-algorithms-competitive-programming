@@ -13,7 +13,7 @@ From official typescript document
 
 ## 🎨 Set Design
 
-![](uml/set.png)
+![](images/set.png)
 
 **Properties**
 
