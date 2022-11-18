@@ -53,7 +53,7 @@ From wikipedia
 
 ⚠️ Typescript hasn't has built-in object `Graph`.
 
-Here are the implmentation of Graph in typescript from scratch.
+Here are the implementation of Graph in typescript from scratch.
 
 ```ts
 class Graph {
