@@ -52,4 +52,4 @@ Example
 
 * yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
 * yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
-* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* yyyy, ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference

@@ -11,3 +11,6 @@
 - name: Section "Further Reading" should contains at least 3 items
   type: regex
   search: "## 🔗 Further Reading\n\n(.*\n){3,}"
+- name: Section "Further Reading" should contains at least 1 video
+  type: regex
+  search: "## 🔗 Further Reading\n\n(.*.*)"
