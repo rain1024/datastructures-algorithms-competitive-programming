@@ -35,13 +35,16 @@ Typescript has standard built-in object [`Set`](https://developer.mozilla.org/en
 
 ```ts
 let s = new Set();  
-s.add("1");
-s.add("2")
-s.add("3")
-console.log(s);
-console.log(s.has("1"));
-s.delete("2")
-console.log(s);
+s.add('2');
+s.add('3')
+s.add('5')
+console.log(s);            // Set (3) {"2", "3", "5"} 
+console.log(s.has('1'));   // false
+console.log(s.has('2'));   // true
+s.delete('5')    
+console.log(s);            // Set (2) {"2", "3"} 
+s.add('4');
+console.log(s)             // Set (3) {"2", "3", "4"} 
 ```
 
 ## 📈 Complexity Analysis of Set
