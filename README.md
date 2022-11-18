@@ -10,8 +10,8 @@
 
 <table>
 <thead>
-<td>Concept</td>
-<td>Programming Languages</td>
+<th>Concept</th>
+<th>Programming Languages</th>
 </thead>
 <tbody>
 <tr>
@@ -45,8 +45,8 @@
 
 <table>
 <thead>
-<td>Concept</td>
-<td>Programming Languages</td>
+<th>Concept</th>
+<th>Programming Languages</th>
 </thead>
 <tbody>
 <tr>
