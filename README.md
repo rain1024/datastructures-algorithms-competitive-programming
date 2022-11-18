@@ -77,7 +77,7 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td>Dijkastra</td>
+<td>Dijkstra</td>
 <td>
 </td>
 </tr>
