@@ -1,6 +1,8 @@
-<h3 align="center">Learn</h3>
+# Data Structures & Algorithms - Competitive Programming
 
-<h3 align="center">Data Structures & Algorithms - Competitive Programming</h3>
+This repository contains introductions and examples of many popular data structures and algorithms.
+
+Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
 
 ## ⚡ Getting Started
 
