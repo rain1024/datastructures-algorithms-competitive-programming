@@ -8,26 +8,30 @@ From official typescript document
 
 > The Set object lets you store unique values of any type, whether primitive values or object references.
 
-## Visualization
-
 ![](../abstract/data-structures/set.png)
 
 
-## Set Design
+## 🎨 Set Design
 
 ![](uml/set.png)
 
-## Time Complexity Analysis of Array
+Properties
 
+|             | Definition                              |
+|-------------|-----------------------------------------|
+| size        | the number of (unique) elements in Set |
 
-| Operation       | Singly Linked List  |
-|-----------------|---------------------|
-| Insert          | $O(1)$              |
-| Delete          | $O(1)$              |
-| Check exist     | $O(1)$              |
+Methods
 
-## Set Implementation in Typescript
+|                 | Definition                                                         |
+|-----------------|--------------------------------------------------------------------|
+| add             | Appends a new element with a specified value to the end of the Set.|
+| has             | a boolean indicating whether an element with the specified value exists in the Set or not. |
+| delete          |  Returns true if an element in the Set existed and has been removed, or false if the element does not exist. |
 
+## 💻 Set Implementation in Typescript
+
+Typescript has standard built-in object [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 ```ts
 let s = new Set();  
 s.add("1");
@@ -39,6 +43,15 @@ s.delete("2")
 console.log(s);
 ```
 
-## References
+## 📈 Complexity Analysis of Set
+
+
+| Operation       | Set                 |
+|-----------------|---------------------|
+| Insert          | $O(1)$              |
+| Delete          | $O(1)$              |
+| Check exist     | $O(1)$              |
+
+## 🔗 References
 
 * 2022, [Standard built-in objects > Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set), developer.mozilla.org
