@@ -4,11 +4,9 @@ This repository contains introductions and examples of many popular data structu
 
 Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
 
-## ⚡ Getting Started
+## 📙 Data Structures
 
-## 📙 Concepts
-
-**Data Structures**
+A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.  More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
 <table>
 <thead>
@@ -75,4 +73,4 @@ Each data structures and algorithm has its own separate article with related exp
 </tbody>
 </table>
 
-## 💪 Exercises
+### 💪 Exercises
