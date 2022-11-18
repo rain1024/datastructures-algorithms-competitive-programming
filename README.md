@@ -52,7 +52,7 @@ A data structure is a data organization, management, and storage format that is 
 </tbody>
 </table>
 
-**Graph**
+### Graph
 
 <table>
 <thead>
