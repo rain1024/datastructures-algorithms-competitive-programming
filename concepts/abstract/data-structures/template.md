@@ -13,7 +13,7 @@ From official document
 
 ## 🎨 [Awesome Data structure] Design
 
-![](uml/set.png)
+![](images/set.png)
 
 **Properties**
 

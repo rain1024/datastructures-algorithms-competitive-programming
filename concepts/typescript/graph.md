@@ -9,7 +9,9 @@ From wikipedia
 
 ## 🎨 Graph Design
 
-![](uml/graph.png)
+![](images/graph.png)
+
+### Class Graph
 
 **Properties**
 
@@ -24,6 +26,11 @@ From wikipedia
 | add             | Appends a new element with a specified value to the end of the Set.|
 | has             | a boolean indicating whether an element with the specified value exists in the Set or not. |
 | delete          |  Returns true if an element in the Set existed and has been removed, or false if the element does not exist. |
+
+### Class Edge
+
+### Class Vertex
+
 
 ## 💻 Set Implementation in Typescript
 
