@@ -56,6 +56,6 @@ console.log(s)             // Set (3) {"2", "3", "4"}
 | Delete          | $O(1)$              |
 | Check exist     | $O(1)$              |
 
-## 🔗 References
+## 🔗 Further Reading
 
 * 2022, [Standard built-in objects > Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set), developer.mozilla.org

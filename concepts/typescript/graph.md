@@ -141,6 +141,6 @@ Output
 | Add vertex      | $O(1)$              |
 | Add edge        | $O(1)$              |
 
-## 🔗 References
+## 🔗 Further Reading
 
 * [Graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), wikipedia.com

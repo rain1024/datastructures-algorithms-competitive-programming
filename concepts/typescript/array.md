@@ -1,5 +1,9 @@
 # Array
 
+From wikipedia
+
+> In computer science, an array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
+
 ## Time Complexity Analysis of Array
 
 | Operation       | Access  | Insertion | Deletion   | Search   |
@@ -49,7 +53,7 @@ nums.find((e) => e == 5)     // undefined
 nums.filter((e) => e == 3)   // [3]
 ```
 
-## References
+## 🔗 Further Reading
 
 * [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), developer.mozilla.org
 * 2022, [Data Structures in Typescript #4 - Static and Dynamic Arrays](https://www.youtube.com/watch?v=SycPba7pYR0&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang

@@ -48,6 +48,6 @@ Example
 |-----------------|---------------------|
 | Operation       | $O(log(n))$         |
 
-## 🔗 References
+## 🔗 Further Reading
 
 * yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference

@@ -1,5 +1,9 @@
 # Linked List
 
+From wikipedia
+
+> In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory.
+
 ## Time Complexity Analysis of Linked List
 
 INSERTION
@@ -101,8 +105,7 @@ linked_list_2.addBack(new LinkedListNode("c"));
 console.log(linked_list_2.toString());
 // outputs: a -> b -> c
 ```
-## References
-
+## 🔗 Further Reading
 
 * 2022, [Data Structures in Typescript #5 - Linked List Intro](https://www.youtube.com/watch?v=oXXLFvtG6-Q&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang
 * 2017, [LinkedList implementation in Typescript](https://stackoverflow.com/questions/42588925/linkedlist-implementation-in-typescript), stackoverflow.com

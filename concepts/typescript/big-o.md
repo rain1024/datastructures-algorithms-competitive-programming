@@ -1,5 +1,9 @@
 # Big O
 
+From wikipedia
+
+> In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform.
+
 ## Constant Run Time
 
 ```js
@@ -125,4 +129,6 @@ $f(n) = 1 + log(n) + n + n^2$
 $O(f(n)) = O(n^2)$
 
 Runtime for `combine()` is $O(n^2)$
+
+## 🔗 Further Reading
 

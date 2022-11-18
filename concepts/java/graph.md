@@ -1,6 +1,10 @@
 # Graph
 
-A graph consists `nodes` and `edges`.
+From wikipedia
+
+> In graph theory, a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge (also called link or line).
+
+![](../abstract/data-structures/graph.png)
 
 ## Graph Representation
 
@@ -212,3 +216,5 @@ public void bfs(Vertex v){
 ### UML
 
 ![](uml/graph_representation.png)
+
+## 🔗 Further Reading
