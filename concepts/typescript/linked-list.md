@@ -18,8 +18,11 @@ DELETION
 | Delete middle   | $O(n)$              | $O(n)$              |
 | Delete tail     | $O(n)$              | $O(1)$              |
 
-## Linked List Implementation in Typescript (from Scratch)
+## Linked List Implementation in Typescript
 
+⚠️ Typescript hasn't has built-in object `Linked List`.
+
+Here are the implmentation of liked list in typescript from Scratch
 ```ts
 class LinkedListNode<T> {
     val: T;
