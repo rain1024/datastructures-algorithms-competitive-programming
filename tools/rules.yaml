@@ -13,4 +13,4 @@
   search: "## 🔗 Further Reading\n\n(.*\n){3,}"
 - name: Section "Further Reading" should contains at least 1 video
   type: regex
-  search: "## 🔗 Further Reading\n\n(.*.*)"
+  search: "## 🔗 Further Reading\n\n(.*▶️ .*)"
