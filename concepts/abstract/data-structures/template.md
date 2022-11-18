@@ -8,7 +8,7 @@ From official document
 
 > OFFICIAL DOCUMENT
 
-![](../abstract/data-structures/set.png)
+![](../abstract/data-structures/image.png)
 
 
 ## 🎨 [Awesome Data structure] Design

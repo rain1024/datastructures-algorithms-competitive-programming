@@ -31,7 +31,15 @@
 <td>
 <a href="/concepts/typescript/linked-list.md"><code>TS</code></a>
 </td>
+<tr>
+<td>Stack</td>
+<td>
+</td>
 </tr>
+<tr>
+<td>Queue</td>
+<td>
+</td>
 <tr>
 <td>Set</td>
 <td>
