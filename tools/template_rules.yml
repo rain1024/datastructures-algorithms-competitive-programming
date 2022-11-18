@@ -1,1 +1,3 @@
-rule
+- name: File must have a heading
+  type: regex
+  search: ".*\n"
