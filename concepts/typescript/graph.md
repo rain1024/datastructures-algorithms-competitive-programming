@@ -37,11 +37,9 @@ From wikipedia
 
 **Methods**
 
-|                 | Definition                                      |
-|-----------------|-------------------------------------------------|
-| addVertex       | Add the new vertex to the graph                 |
-| removeVertex    | Remove vertex from the graph                    |
-| addEdge         | Add the new edge to the graph                   |
+|                 | Definition                              |
+|-----------------|-----------------------------------------|
+| addEdge         | Add the new edge from the vertex        |
 
 ### Class Edge
 
