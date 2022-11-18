@@ -19,7 +19,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Big-O</td>
 <td>
-<a href="/concepts/typescript/array.md"><code>TS</code></a>
+<a href="/concepts/typescript/big-o.md"><code>TS</code></a>
 </td>
 </tr>
 <tr>
