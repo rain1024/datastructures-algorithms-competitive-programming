@@ -66,9 +66,19 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td>Graph traversal (DFS)</td>
+<td>Graph traversal - Depth First Search (DFS)</td>
 <td>
 <a href="/concepts/typescript/graph_traversal.md#depth-first-search-dfs"><code>TS</code></a>
+</td>
+</tr>
+<tr>
+<td>Graph traversal - Breath First Search (BFS)</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Dijkastra</td>
+<td>
 </td>
 </tr>
 </tbody>
