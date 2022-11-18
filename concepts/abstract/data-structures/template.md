@@ -17,8 +17,8 @@ From official document
 
 **Properties**
 
-|                 | Definition                              |
-|-----------------|-----------------------------------------|
+|                | Definition                              |
+|----------------|-----------------------------------------|
 | property       | Definition                              |
 
 **Methods**

@@ -13,8 +13,8 @@ From [wikipedia]()
 
 **Properties**
 
-|             | Definition                              |
-|-------------|-----------------------------------------|
+|             | Definition                             |
+|-------------|----------------------------------------|
 | size        | the number of (unique) elements in Set |
 
 **Methods**
