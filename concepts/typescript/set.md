@@ -8,7 +8,12 @@ From official typescript document
 
 > The Set object lets you store unique values of any type, whether primitive values or object references.
 
-## Class Diagrams
+## Visualization
+
+![](../abstract/data structures/set.png)
+
+
+## Set Design
 
 ![](uml/set.png)
 
