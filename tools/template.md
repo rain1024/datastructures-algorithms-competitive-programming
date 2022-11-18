@@ -11,7 +11,7 @@ From official document
 ![](../abstract/data-structures/image.png)
 
 
-## 🎨 [Awesome Data structure] Design
+## 🎨 [Awesome Data Structure] Design
 
 ![](images/set.png)
 
