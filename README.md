@@ -59,7 +59,7 @@
 <tr>
 <td>Graph traversal (DFS)</td>
 <td>
-<a href="/concepts/java/graph_tranversal.md"><code>TS</code></a>
+<a href="/concepts/typescript/graph_tranversal.md"><code>TS</code></a>
 </td>
 </tr>
 </tbody>
