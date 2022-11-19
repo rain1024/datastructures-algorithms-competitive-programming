@@ -1,0 +1,13 @@
+name: "\U0001F31F New article addition"
+description: Submit a proposal/request to implement a new article
+labels: [ "New article" ]
+
+body:
+  - type: textarea
+    id: description-request
+    validations:
+      required: true
+    attributes:
+      label: Article description
+      description: |
+        Put any and all important information relative to the article
