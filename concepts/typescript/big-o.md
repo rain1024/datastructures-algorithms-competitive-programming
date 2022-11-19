@@ -135,3 +135,4 @@ Runtime for `combine()` is $O(n^2)$
 * [Time complexity](https://en.wikipedia.org/wiki/Time_complexity), wikipedia
 * [Space complexity](https://en.wikipedia.org/wiki/Space_complexity), wikipedia
 * ▶️ [Asymptotic Notation](https://www.youtube.com/watch?v=iOq5kSKqeR4&ab_channel=CS50), CS50
+* ▶️ 2020, [Data Structures in Typescript #3 - Big-O Algorithm Analysis](https://www.youtube.com/watch?v=F2wwpDgoSoc&ab_channel=JeffZhang), Jeff Zhang
