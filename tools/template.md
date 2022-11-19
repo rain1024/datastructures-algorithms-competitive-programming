@@ -11,7 +11,7 @@ From official document
 ![](../abstract/data-structures/image.png)
 
 
-## 🎨 [Awesome Data structure] Design
+## 🎨 [Awesome Data Structure] Design
 
 ![](images/set.png)
 
@@ -48,6 +48,8 @@ Example
 |-----------------|---------------------|
 | Operation       | $O(log(n))$         |
 
-## 🔗 References
+## 🔗 Further Reading
 
 * yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* yyyy, ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference
