@@ -19,20 +19,20 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Big-O</td>
 <td>
-<a href="/concepts/typescript/big-o.md"><code>TS</code></a>
+<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </td>
 </tr>
 <tr>
 <td>Array</td>
 <td>
-<a href="/concepts/python/array.md"><code>PY</code></a>
-<a href="/concepts/typescript/array.md"><code>TS</code></a>
+<a href="/concepts/python/array.md"><code>py</code></a>
+<a href="/concepts/typescript/array.md"><code>ts</code></a>
 </td>
 </tr>
 <tr>
 <td>Linked List</td>
 <td>
-<a href="/concepts/typescript/linked-list.md"><code>TS</code></a>
+<a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
 </td>
 <tr>
 <td>Stack</td>
@@ -46,7 +46,13 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Set</td>
 <td>
-<a href="/concepts/typescript/set.md"><code>TS</code></a>
+<a href="/concepts/typescript/set.md"><code>ts</code></a>
+</td>
+</tr>
+<tr>
+<td>Tree</td>
+<td>
+<a href="/concepts/cpp/set.md"><code>cpp</code></a>
 </td>
 </tr>
 </tbody>
@@ -63,14 +69,14 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Graph representations</td>
 <td>
-<a href="/concepts/java/graph.md"><code>JAVA</code></a>
-<a href="/concepts/typescript/graph.md"><code>TS</code></a>
+<a href="/concepts/java/graph.md"><code>java</code></a>
+<a href="/concepts/typescript/graph.md"><code>ts</code></a>
 </td>
 </tr>
 <tr>
 <td>Graph traversal - Depth First Search (DFS)</td>
 <td>
-<a href="/concepts/typescript/graph_traversal.md#depth-first-search-dfs"><code>TS</code></a>
+<a href="/concepts/typescript/graph_traversal.md#depth-first-search-dfs"><code>ts</code></a>
 </td>
 </tr>
 <tr>
