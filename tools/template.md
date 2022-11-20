@@ -46,7 +46,7 @@ File [**`example.cpp`**](code/example.cpp)
 
 | Operation       | Complexity          |
 |-----------------|---------------------|
-| setParent       | $O(1)$              |
+| Operation 1     | $O(log(n))$         |
 
 ## 🔗 Further Reading
 

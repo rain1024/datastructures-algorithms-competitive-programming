@@ -77,7 +77,7 @@ int main()
 
 | Operation       | Complexity          |
 |-----------------|---------------------|
-| Operation       | $O(log(n))$         |
+| setParent       | $O(1)$              |
 
 ## 🔗 Further Reading
 
