@@ -11,7 +11,12 @@ body:
       label: Article description
       description: |
         Put any and all important information relative to the article
-  - type: checkboxes
+      value: |
+        Description of the article (such as Stack in C++, Queue in Typescript)
+        **References**
+        * Reference 1
+        * Reference 2
+  - type: dropdown
     id: article-topics
     validations:
       required: true
@@ -19,6 +24,7 @@ body:
       label: Topic 
       description: |
         Select one or more topics for the article
+      multiple: true
       options:
         - label: Big-O
         - label: Array
@@ -42,3 +48,11 @@ body:
         - Python (py)
         - Rust (rs)
         - Typescript (ts)
+
+## Article Checklist 
+
+- [ ] ℹ️ Definition
+- [ ] 🎨 Design
+- [ ] 💻 Implementation
+- [ ] 📈 Complexity Analysis
+- [ ] 🔗 Further Reading
