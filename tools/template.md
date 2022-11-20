@@ -32,7 +32,7 @@ From official document
 
 ⚠️ Typescript hasn't has built-in object `Awesome Type`.
 
-Here are the implmentation of [awesome type] in `Awesome Language` from scratch.
+Here are the implementation of [awesome type] in `Awesome Language` from scratch.
 
 ℹ️ Typescript has standard built-in object [`Awesome Type`](awesome-link)
 

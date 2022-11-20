@@ -32,7 +32,7 @@ From wikipedia
 
 ⚠️ C++ hasn't has built-in object `Tree`.
 
-Here are the implmentation of Tree in C++ from scratch.
+Here are the implementation of Tree in C++ from scratch.
 
 Example 
 
