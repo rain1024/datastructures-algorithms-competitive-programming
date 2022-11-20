@@ -11,3 +11,34 @@ body:
       label: Article description
       description: |
         Put any and all important information relative to the article
+  - type: checkboxes
+    id: article-topics
+    validations:
+      required: true
+    attributes:
+      label: Topic 
+      description: |
+        Select one or more topics for the article
+      options:
+        - label: Big-O
+        - label: Array
+        - label: Linked List
+        - label: Stack
+        - label: Queue
+        - label: Set
+        - label: Graph - Graph Representation
+        - label: Graph Traversal - Depth First Search
+        - label: Graph Shortest Paths - Dijkstra's Algorithm
+  - type: dropdown
+    id: article-program-language
+    validations:
+      required: true
+    attributes:
+      label: Select a program language
+      options:
+        - C (c)
+        - C++ (cpp)
+        - Java (java)
+        - Python (py)
+        - Rust (rs)
+        - Typescript (ts)
