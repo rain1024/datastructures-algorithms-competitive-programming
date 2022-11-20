@@ -7,34 +7,69 @@ From wikipedia
 ![](../abstract/data-structures/tree.png)
 
 
-## 🎨 [Awesome Data Structure] Design
+## 🎨 Tree Design
 
-![](images/set.png)
+![](images/design.png)
 
 **Properties**
 
 |                | Definition                              |
 |----------------|-----------------------------------------|
-| property       | Definition                              |
+| key            | value of node                           |
+| parent         | parent of node                          |
+| children       | children of node                        |
 
 **Methods**
 
 |                 | Definition      |
-|-----------------|-----------------|
-| method 1        | Definition 1    |
+|-----------------|--------------------------------|
+| Node()          | Construct node from a value     |
+| setParent       | set parent to the node    |
+| toString        | convert node to string     |
 
 
-## 💻 Implementation in [Awesome Language]
+## 💻 Tree Implementation in C++
 
-⚠️ Typescript hasn't has built-in object `Awesome Type`.
+⚠️ C++ hasn't has built-in object `Tree`.
 
-Here are the implmentation of [awesome type] in `Awesome Language` from scratch.
-
-ℹ️ Typescript has standard built-in object [`Awesome Type`](awesome-link)
+Here are the implmentation of Tree in C++ from scratch.
 
 Example 
 
-```[id]
+```cpp
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Node {
+public:
+    int key;
+    Node* parent;
+    vector<Node*> children;
+    
+    Node(int key){
+        this->parent = NULL;
+        this->key = key;
+    }
+    
+    void setParent(Node* parent){
+        this->parent = parent;
+        parent->children.push_back(this);
+    }
+    
+    string toString(){
+        return to_string(this->key);
+    }
+};
+
+int main()
+{
+    Node* n1 = new Node(1);
+    Node* n2 = new Node(2);
+    n2->setParent(n1);
+    cout << n1->toString() << endl;
+}
 ```
 
 ## 📈 Complexity Analysis of [Awesome Type]

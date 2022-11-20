@@ -13,7 +13,7 @@ From official document
 
 ## 🎨 [Awesome Data Structure] Design
 
-![](images/set.png)
+![](images/design.png)
 
 **Properties**
 
