@@ -33,6 +33,7 @@ body:
         - Stack
         - Queue
         - Set
+        - Tree
         - Graph - Graph Representation
         - Graph Traversal - Depth First Search
         - Graph Shortest Paths - Dijkstra's Algorithm
