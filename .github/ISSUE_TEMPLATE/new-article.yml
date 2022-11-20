@@ -11,30 +11,38 @@ body:
       label: Article description
       description: |
         Put any and all important information relative to the article
-  - type: checkboxes
+      value: |
+        Description of the article (such as Stack in C++, Queue in Typescript)
+        
+        **References**
+        
+        * Reference 1
+        * Reference 2
+  - type: dropdown
     id: article-topics
     validations:
       required: true
     attributes:
       label: Topic 
-      description: |
-        Select one or more topics for the article
+      description: Select one or more topics for the article
+      multiple: true
       options:
-        - label: Big-O
-        - label: Array
-        - label: Linked List
-        - label: Stack
-        - label: Queue
-        - label: Set
-        - label: Graph - Graph Representation
-        - label: Graph Traversal - Depth First Search
-        - label: Graph Shortest Paths - Dijkstra's Algorithm
+        - Big-O
+        - Array
+        - Linked List
+        - Stack
+        - Queue
+        - Set
+        - Graph - Graph Representation
+        - Graph Traversal - Depth First Search
+        - Graph Shortest Paths - Dijkstra's Algorithm
   - type: dropdown
     id: article-program-language
     validations:
       required: true
     attributes:
-      label: Select a program language
+      label: Programming language
+      description: Select a programming language for the article
       options:
         - C (c)
         - C++ (cpp)
@@ -42,3 +50,16 @@ body:
         - Python (py)
         - Rust (rs)
         - Typescript (ts)
+  - type: checkboxes
+    id: article-checklist
+    validations:
+      required: false
+    attributes:
+      label: Article Checklist
+      options:
+        - label: ℹ️ Definition
+        - label: 🎨 Design
+        - label: 💻 Implementation
+        - label: 📈 Complexity Analysis
+        - label: 🔗 Further Reading
+        - label: 🏁 Update README
