@@ -34,8 +34,6 @@ From wikipedia
 
 Here are the implementation of Tree in C++ from scratch.
 
-Example 
-
 File [**`tree.cpp`**](code/tree.cpp)
 
 ```cpp
