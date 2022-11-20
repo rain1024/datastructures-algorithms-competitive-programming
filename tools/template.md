@@ -36,7 +36,7 @@ Here are the implementation of [awesome type] in `Awesome Language` from scratch
 
 ℹ️ Typescript has standard built-in object [`Awesome Type`](awesome-link)
 
-Example 
+File [**`example.cpp`**](code/example.cpp)
 
 ```[id]
 ```
@@ -46,10 +46,10 @@ Example
 
 | Operation       | Complexity          |
 |-----------------|---------------------|
-| setParent       | $O(1)$              |
+| Operation 1     | $O(log(n))$         |
 
 ## 🔗 Further Reading
 
-* [Tree (data structures)](https://en.wikipedia.org/wiki/Tree_(data_structure)), wikipedia
-* ▶️ [Data Structures (Full Course Using C and C++) - Introduction to Trees](https://youtu.be/B31LgI4Y4DQ?t=18855)
-* ▶️ [Data Structures Course - Trees](https://www.coursera.org/lecture/data-structures/trees-95qda)
+* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* yyyy, ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference

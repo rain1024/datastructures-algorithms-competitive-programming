@@ -34,7 +34,7 @@ From wikipedia
 
 Here are the implementation of Tree in C++ from scratch.
 
-Example 
+File [**`tree.cpp`**](code/tree.cpp)
 
 ```cpp
 #include <iostream>
@@ -77,10 +77,10 @@ int main()
 
 | Operation       | Complexity          |
 |-----------------|---------------------|
-| Operation       | $O(log(n))$         |
+| setParent       | $O(1)$              |
 
 ## 🔗 Further Reading
 
-* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
-* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
-* yyyy, ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* [Tree (data structures)](https://en.wikipedia.org/wiki/Tree_(data_structure)), wikipedia
+* ▶️ [Data Structures (Full Course Using C and C++) - Introduction to Trees](https://youtu.be/B31LgI4Y4DQ?t=18855)
+* ▶️ [Data Structures Course - Trees](https://www.coursera.org/lecture/data-structures/trees-95qda)
