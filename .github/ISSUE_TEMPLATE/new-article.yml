@@ -48,11 +48,15 @@ body:
         - Python (py)
         - Rust (rs)
         - Typescript (ts)
-
-## Article Checklist 
-
-- [ ] ℹ️ Definition
-- [ ] 🎨 Design
-- [ ] 💻 Implementation
-- [ ] 📈 Complexity Analysis
-- [ ] 🔗 Further Reading
+  - type: options
+    id: article-checklist
+    validations:
+      required: false
+    attributes:
+      label: Article Checklist
+      options:
+        - ℹ️ Definition
+        - 🎨 Design
+        - 💻 Implementation
+        - 📈 Complexity Analysis
+        - 🔗 Further Reading
