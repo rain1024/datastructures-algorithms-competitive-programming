@@ -36,7 +36,7 @@ Here are the implementation of [awesome type] in `Awesome Language` from scratch
 
 ℹ️ Typescript has standard built-in object [`Awesome Type`](awesome-link)
 
-Example 
+File [**`example.cpp`**](code/example.cpp)
 
 ```[id]
 ```
