@@ -52,7 +52,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Tree</td>
 <td>
-<a href="/concepts/cpp/set.md"><code>cpp</code></a>
+<a href="/concepts/cpp/tree.md"><code>cpp</code></a>
 </td>
 </tr>
 </tbody>
