@@ -3,6 +3,13 @@
 ## 💻 Implementation in Typescript
 
 ```ts
+interface IStack<T> {
+  push(item: T): void;
+  pop(): T | undefined;
+  peek(): T | undefined;
+  size(): number;
+}
+
 class Stack<T> implements IStack<T> {
   private storage: T[] = [];
 
