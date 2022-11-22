@@ -37,6 +37,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Stack</td>
 <td>
+<a href="/concepts/typescript/stack.md"><code>ts</code></a>
 </td>
 </tr>
 <tr>
