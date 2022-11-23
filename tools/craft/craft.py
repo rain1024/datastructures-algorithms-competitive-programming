@@ -10,6 +10,7 @@ print(PROBLEMS_DIR)
 if __name__ == '__main__':
   if len(sys.argv) < 2:
     print("Usage: python crape.py domain problem_id")
+    sys.exit(1)
   domain = sys.argv[1]
   problem_id = sys.argv[2]
   problem_dir = join(PROBLEMS_DIR, f"{domain}{problem_id}")
