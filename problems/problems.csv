@@ -1,4 +1,11 @@
 id;problem;site;date;level;tags
+codeforces1760G;1760G;codeforces;2022-11-20;1700;bitmasks, dfs and similar, graphs
+codeforces1760F;1760F;codeforces;2022-11-20;1500;binary search, greedy, sortings
+codeforces1760E;1760E;codeforces;2022-11-20;1100;data structures, greedy, math
+codeforces1760D;1760D;codeforces;2022-11-20;1000;implementation, two pointers
+codeforces1760C;1760C;codeforces;2022-11-20;800;data structures, implementation, sortings	
+codeforces1760B;1760B;codeforces;2022-11-20;800;greedy, implementation, strings
+codeforces1760A;1760A;codeforces;2022-11-20;800;implementation, sortings
 codeforces1759F;1759F;codeforces;2022-11-17;1800;search, data structures, greedy, math, number theory
 codeforces1759E;1759E;codeforces;2022-11-17;1500;brute force,dp,sortings
 codeforces1759D;1759D;codeforces;2022-11-17;1400;brute force, number theory

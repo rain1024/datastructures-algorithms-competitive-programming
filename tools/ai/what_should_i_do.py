@@ -10,6 +10,7 @@ practice = pd.read_csv(
   delimiter=";",
   header=0)
 success = practice[practice['result'] == 'success']
+n_success = len(success)
 success_problems_id = set(success["problem_id"])
 
 available_problems = problems[~problems["id"].isin(success_problems_id)]
@@ -24,10 +25,11 @@ print(f">>> ... ")
 print("\n" * 2)
 print(f">>> First thing first. Let's known your self.")
 print(f">>> Your rating is {rating}")
+print(f">>> You have solved {n_success} problems. Woohoo!!!")
 print(f">>> ...")
 print("\n" * 2)
 print(f">>> I have a good news. There are {n_problems} problems for you")
-print(f">>> Can you code something, try the following problem:")
+print(f">>> Can you code something? Try solve the following problem:")
 print(available_problems.sample(1))
 print(f">>> ...\n" * 5)
 print(f">>> Or <{n_problems}> is not big enough. Try to find others.")
