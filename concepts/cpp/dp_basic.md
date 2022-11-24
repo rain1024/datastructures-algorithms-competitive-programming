@@ -23,3 +23,22 @@ $F_n = F_{n-1} + F_{n-2}$
 with seed values
 
 $F_0 = 0$ and $F_1 = 1$
+
+### Method 1: Using recursion
+
+```cpp
+#include <vector>
+#include <iostream>
+
+int fib(int n){
+    if(n == 0) return 0;
+    if(n == 1) return 1;
+    return fib(n-1) + fib(n-2);
+}
+using namespace std; 
+int main(){
+    int n = 5;
+    cout << fib(n);
+    return 0;
+}
+```
