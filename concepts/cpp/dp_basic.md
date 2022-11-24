@@ -30,12 +30,14 @@ $F_0 = 0$ and $F_1 = 1$
 #include <vector>
 #include <iostream>
 
+using namespace std; 
+
 int fib(int n){
     if(n == 0) return 0;
     if(n == 1) return 1;
     return fib(n-1) + fib(n-2);
 }
-using namespace std; 
+
 int main(){
     int n = 5;
     cout << fib(n);
