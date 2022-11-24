@@ -44,3 +44,34 @@ int main(){
     return 0;
 }
 ```
+
+**Complexity**: Time: exponential, space: $O(n)$
+
+### Method 2: Using dynamic programming 
+
+```cpp
+#include <vector>
+#include <iostream>
+
+using namespace std; 
+
+int fib(int n){
+    if(n == 0) return 0;
+    if(n == 1) return 1;
+    int dp[n+1];
+    dp[0] = 0;
+    dp[1] = 1;
+    for(int i=2; i<n+1; i++){
+        dp[i] = dp[i-1] + dp[i-2];
+    }
+    return dp[n];
+}
+
+int main(){
+    int n = 5;
+    cout << fib(n);
+    return 0;
+}
+```
+
+**Complexity**: Time: $O(n)$, space: $O(n)$
