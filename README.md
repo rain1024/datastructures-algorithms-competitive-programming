@@ -19,9 +19,6 @@ A data structure is a data organization, management, and storage format that is 
 <td colspan="2"><b>Basic Data Structures</b></td>
 </tr>
 <tr>
-<td>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
-</td>
 <tr>
 <td>Big-O</td>
 <td>
