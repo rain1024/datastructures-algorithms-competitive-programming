@@ -8,7 +8,6 @@ Each data structures and algorithm has its own separate article with related exp
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.  More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
-### Basic Data Structures
 
 <table>
 <thead>
@@ -16,6 +15,13 @@ A data structure is a data organization, management, and storage format that is 
 <th>Programming Languages</th>
 </thead>
 <tbody>
+<tr>
+<td><b>Basic Data Structures</b></td>
+</tr>
+<tr>
+<td>
+<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
+</td>
 <tr>
 <td>Big-O</td>
 <td>
