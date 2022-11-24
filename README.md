@@ -108,9 +108,6 @@ A data structure is a data organization, management, and storage format that is 
 </tbody>
 </table>
 
-
-### 💪 Exercises
-
 ## Contributors
 
 This project exists thanks to all the people who contributed.
