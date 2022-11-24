@@ -37,6 +37,9 @@ body:
         - Graph - Graph Representation
         - Graph Traversal - Depth First Search
         - Graph Shortest Paths - Dijkstra's Algorithm
+        - Dynamic Programming (Basic)
+        - Dynamic Programming (Intermediate)
+        - Dynamic Programming (Advanced)
   - type: dropdown
     id: article-program-language
     validations:
