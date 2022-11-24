@@ -8,7 +8,6 @@ Each data structures and algorithm has its own separate article with related exp
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.  More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
-### Basic Data Structures
 
 <table>
 <thead>
@@ -16,6 +15,10 @@ A data structure is a data organization, management, and storage format that is 
 <th>Programming Languages</th>
 </thead>
 <tbody>
+<tr>
+<td colspan="2" align="center"><b>Basic Data Structures</b></td>
+</tr>
+<tr>
 <tr>
 <td>Big-O</td>
 <td>
@@ -57,17 +60,9 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/cpp/tree.md"><code>cpp</code></a>
 </td>
 </tr>
-</tbody>
-</table>
-
-### Graph
-
-<table>
-<thead>
-<th>Concept</th>
-<th>Programming Languages</th>
-</thead>
-<tbody>
+<tr>
+<td colspan="2" align="center"><b>Graph</b></td>
+</tr>
 <tr>
 <td>Graph representations</td>
 <td>
@@ -91,10 +86,27 @@ A data structure is a data organization, management, and storage format that is 
 <td>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center"><b>Dynamic Programming</b></td>
+</tr>
+<tr>
+<td>Dynamic Programming (Basic)</td>
+<td>
+<a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
+<td>Dynamic Programming (Intermediate)</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Dynamic Programming (Advanced)</td>
+<td>
+</td>
+</tr>
 </tbody>
 </table>
-
-### 💪 Exercises
 
 ## Contributors
 
