@@ -86,21 +86,11 @@ A data structure is a data organization, management, and storage format that is 
 <td>
 </td>
 </tr>
-</tbody>
-</table>
-
-
-
-### Dynamic Programming 
-
-<table>
-<thead>
-<th>Concept</th>
-<th>Dynamic Programing (Basic)</th>
-</thead>
-<tbody>
 <tr>
-<td>Graph representations</td>
+<td colspan="2" align="center"><b>Dynamic Programming</b></td>
+</tr>
+<tr>
+<td>Dynamic Programming (Basic)</td>
 <td>
 <a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
 </td>
