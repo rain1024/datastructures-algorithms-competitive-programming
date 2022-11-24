@@ -8,3 +8,7 @@ The Fibonacci numbers are the numbers in the following integer sequence.
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
 
 $F_n = F_{n-1} + F_{n-2}$
+
+with seed values
+
+$F_0 = 0$ and $F_1 = 1$
