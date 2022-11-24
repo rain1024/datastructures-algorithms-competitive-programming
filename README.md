@@ -60,17 +60,9 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/cpp/tree.md"><code>cpp</code></a>
 </td>
 </tr>
-</tbody>
-</table>
-
-### Graph
-
-<table>
-<thead>
-<th>Concept</th>
-<th>Programming Languages</th>
-</thead>
-<tbody>
+<tr>
+<td colspan="2" align="center"><b>Graph</b></td>
+</tr>
 <tr>
 <td>Graph representations</td>
 <td>
@@ -96,6 +88,8 @@ A data structure is a data organization, management, and storage format that is 
 </tr>
 </tbody>
 </table>
+
+
 
 ### Dynamic Programming 
 
