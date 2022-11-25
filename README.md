@@ -74,6 +74,22 @@ A data structure is a data organization, management, and storage format that is 
 <td colspan="2" align="center"><b>Graph</b></td>
 </tr>
 <tr>
+<td>Dynamic Programming (Basic)</td>
+<td>
+<a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
+<td>Dynamic Programming (Intermediate)</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Dynamic Programming (Advanced)</td>
+<td>
+</td>
+</tr>
+<tr>
 <td>Graph representations</td>
 <td>
 <a href="/concepts/java/graph.md"><code>java</code></a>
@@ -98,22 +114,6 @@ A data structure is a data organization, management, and storage format that is 
 </tr>
 <tr>
 <td colspan="2" align="center"><b>Dynamic Programming</b></td>
-</tr>
-<tr>
-<td>Dynamic Programming (Basic)</td>
-<td>
-<a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
-</td>
-</tr>
-<tr>
-<td>Dynamic Programming (Intermediate)</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>Dynamic Programming (Advanced)</td>
-<td>
-</td>
 </tr>
 </tbody>
 </table>
