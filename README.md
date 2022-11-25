@@ -28,7 +28,6 @@ A data structure is a data organization, management, and storage format that is 
 <td>
 <a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
 </td>
-
 </tr>
 <tr>
 <tr>
@@ -80,6 +79,9 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
+<td colspan="2" align="center"><b>Dynamic Programming</b></td>
+</tr>
+<tr>
 <td>Dynamic Programming (Intermediate)</td>
 <td>
 </td>
@@ -111,9 +113,6 @@ A data structure is a data organization, management, and storage format that is 
 <td>Dijkstra</td>
 <td>
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center"><b>Dynamic Programming</b></td>
 </tr>
 </tbody>
 </table>
