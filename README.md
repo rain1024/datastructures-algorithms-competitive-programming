@@ -8,7 +8,6 @@ Each data structures and algorithm has its own separate article with related exp
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.  More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
-
 <table>
 <thead>
 <th>Concept</th>
@@ -16,7 +15,7 @@ A data structure is a data organization, management, and storage format that is 
 </thead>
 <tbody>
 <tr>
-<td colspan="2" align="center"><b>Basic Data Structures</b></td>
+<td colspan="2" align="center"><b>Basic Concepts</b></td>
 </tr>
 <tr>
 <tr>
@@ -24,7 +23,17 @@ A data structure is a data organization, management, and storage format that is 
 <td>
 <a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </td>
+<tr>
+<td>Brute force, Backtracking</td>
+<td>
+<a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
+</td>
 </tr>
+<tr>
+<tr>
+<td colspan="2" align="center"><b>Basic Data Structures</b></td>
+</tr>
+<tr>
 <tr>
 <td>Array</td>
 <td>
@@ -61,6 +70,25 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
+<td colspan="2" align="center"><b>Dynamic Programming</b></td>
+</tr>
+<tr>
+<td>Dynamic Programming (Basic)</td>
+<td>
+<a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
+<td>Dynamic Programming (Intermediate)</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Dynamic Programming (Advanced)</td>
+<td>
+</td>
+</tr>
+<tr>
 <td colspan="2" align="center"><b>Graph</b></td>
 </tr>
 <tr>
@@ -83,25 +111,6 @@ A data structure is a data organization, management, and storage format that is 
 </tr>
 <tr>
 <td>Dijkstra</td>
-<td>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center"><b>Dynamic Programming</b></td>
-</tr>
-<tr>
-<td>Dynamic Programming (Basic)</td>
-<td>
-<a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
-</td>
-</tr>
-<tr>
-<td>Dynamic Programming (Intermediate)</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>Dynamic Programming (Advanced)</td>
 <td>
 </td>
 </tr>

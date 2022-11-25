@@ -28,18 +28,19 @@ body:
       multiple: true
       options:
         - Big-O
+        - Brute force, Backtracking
         - Array
         - Linked List
         - Stack
         - Queue
         - Set
         - Tree
-        - Graph - Graph Representation
-        - Graph Traversal - Depth First Search
-        - Graph Shortest Paths - Dijkstra's Algorithm
         - Dynamic Programming (Basic)
         - Dynamic Programming (Intermediate)
         - Dynamic Programming (Advanced)
+        - Graph - Graph Representation
+        - Graph Traversal - Depth First Search
+        - Graph Shortest Paths - Dijkstra's Algorithm
   - type: dropdown
     id: article-program-language
     validations:
