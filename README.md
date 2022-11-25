@@ -16,7 +16,7 @@ A data structure is a data organization, management, and storage format that is 
 </thead>
 <tbody>
 <tr>
-<td colspan="2" align="center"><b>Basic Data Structures</b></td>
+<td colspan="2" align="center"><b>Basic Concepts</b></td>
 </tr>
 <tr>
 <tr>
@@ -24,7 +24,18 @@ A data structure is a data organization, management, and storage format that is 
 <td>
 <a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </td>
+<tr>
+<td>Brute force, Backtrack</td>
+<td>
+<a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
+</td>
+
 </tr>
+<tr>
+<tr>
+<td colspan="2" align="center"><b>Basic Data Structures</b></td>
+</tr>
+<tr>
 <tr>
 <td>Array</td>
 <td>

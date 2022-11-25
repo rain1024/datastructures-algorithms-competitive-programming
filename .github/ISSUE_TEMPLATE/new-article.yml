@@ -28,6 +28,7 @@ body:
       multiple: true
       options:
         - Big-O
+        - Brute-force, Backtrack
         - Array
         - Linked List
         - Stack
