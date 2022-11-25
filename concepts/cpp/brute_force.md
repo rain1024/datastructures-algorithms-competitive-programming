@@ -134,3 +134,5 @@ int main(int argc, char *argv[])
 
 ## 🔗 Further Reading
 
+* [Basic Complete Search](https://usaco.guide/bronze/intro-complete?lang=cpp), Darren Yao, Dong Liu, usaco.guide
+
