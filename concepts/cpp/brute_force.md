@@ -1,5 +1,9 @@
 # Bruteforce
 
+From usaco
+
+> In many problems it suffices to check all possible cases in the solution space, whether it be all elements, all pairs of elements, or all subsets, or all permutations. Unsurprisingly, this is called **complete search** (or **brute force**), because it completely searches the entire solution space.
+
 ## Problem: Binary string
 
 ```cpp
@@ -127,3 +131,6 @@ int main(int argc, char *argv[])
   backtrack(0);
 }
 ```
+
+## 🔗 Further Reading
+
