@@ -1,6 +1,6 @@
 # Bruteforce
 
-**Problem**: Binary string
+## Problem: Binary string
 
 ```cpp
 #include <iostream>
