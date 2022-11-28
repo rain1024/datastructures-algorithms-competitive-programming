@@ -1,8 +1,14 @@
 # Bruteforce
 
+alias: `complete search`, `brute-force search`, `exhaustive search`
+
 From usaco
 
 > In many problems it suffices to check all possible cases in the solution space, whether it be all elements, all pairs of elements, or all subsets, or all permutations. Unsurprisingly, this is called **complete search** (or **brute force**), because it completely searches the entire solution space.
+
+From wikipedia
+
+> In computer science, brute-force search or exhaustive search, also known as generate and test, is a very general problem-solving technique and algorithmic paradigm that consists of systematically enumerating all possible candidates for the solution and checking whether each candidate satisfies the problem's statement.
 
 ## 💻 Implementation
 
@@ -136,5 +142,6 @@ int main(int argc, char *argv[])
 
 ## 🔗 Further Reading
 
+* ▶️ [Backtracking Algorithm | Introduction To Backtracking](https://www.youtube.com/watch?v=Lnw2CRLWy5A&ab_channel=Simplilearn), Simplilearn, 2021
+* [Brute-force search](https://en.wikipedia.org/wiki/Brute-force_search), wikipedia
 * [Basic Complete Search](https://usaco.guide/bronze/intro-complete?lang=cpp), Darren Yao, Dong Liu, usaco.guide
-
