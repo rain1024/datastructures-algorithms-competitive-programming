@@ -68,7 +68,7 @@ RS(x,2) = 0001
 | Operation                | Complexity          |
 |--------------------------|---------------------|
 | NOT, AND, OR, XOR        | $O(1)$              |
-| LEFT_SHIFT, RIGHT_SHIFT  | $O(1)$              |
+| LEFT SHIFT, RIGHT SHIFT  | $O(1)$              |
 
 ## 🔗 Further Reading
 
