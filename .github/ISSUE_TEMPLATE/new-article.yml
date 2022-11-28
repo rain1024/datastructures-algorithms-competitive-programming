@@ -28,6 +28,7 @@ body:
       multiple: true
       options:
         - Big-O
+        - Bitwise
         - Brute force, Backtracking
         - Array
         - Linked List

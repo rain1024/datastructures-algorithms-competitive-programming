@@ -117,7 +117,7 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td>Dijkstra</td>
+<td>Graph Shortest Paths - Dijkstra's Algorithm</td>
 <td>
 </td>
 </tr>
