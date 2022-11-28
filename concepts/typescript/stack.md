@@ -1,5 +1,9 @@
 # Stack
 
+From wikipedia
+
+> In computer science, a stack is an abstract data type that serves as a collection of elements, with two main operations: `Push`, which adds an element to the collection, and `Pop`, which removes the most recently added element that was not yet removed.
+
 ## 💻 Implementation in Typescript
 
 ```ts
@@ -48,4 +52,7 @@ stack.size(); // Output: 1
 
 ## 🔗 Further Reading
 
-* https://dev.to/glebirovich/typescript-data-structures-stack-and-queue-hld
+* ▶️ [Stack Introduction](https://youtu.be/L3ud3rXpIxA?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu), Data structures playlist, WilliamFiset, 2017
+* ▶️ [Stack Implementation](https://www.youtube.com/watch?v=RAMqDLI6_1c&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=9&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
+* ▶️ [Stack Code](https://www.youtube.com/watch?v=oiZssCfk4_U&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=10&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
+* [Typescript Data Structures: Stack and Queue](https://dev.to/glebirovich/typescript-data-structures-stack-and-queue-hld), 2021
