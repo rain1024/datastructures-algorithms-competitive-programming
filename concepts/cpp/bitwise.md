@@ -4,13 +4,6 @@ From wikipedia
 
 > In computer programming, a bitwise operation operates on a bit string, a bit array or a binary numeral (considered as a bit string) at the level of its individual bits. It is a fast and simple action, basic to the higher-level arithmetic operations and directly supported by the processor. Most bitwise operations are presented as two-operand instructions where the result replaces one of the input operands.
 
-From official document 
-
-> OFFICIAL DOCUMENT
-
-![](../abstract/data-structures/image.png)
-
-
 ## 🎨 Design
 
 **Bitwise Operators**
@@ -30,7 +23,7 @@ From official document
 | RIGHT SHIFT     | RIGHT_SHIFT(1101) = 11010  |
 
 
-## 💻 Implementation in [Awesome Language]
+## 💻 Implementation in C++
 
 ℹ️ C++ has standard built-in operators for bitwise operators and bit shifts
 
@@ -69,12 +62,13 @@ RS(x,2) = 0001
  int(x) = 4
 ```
 
-## 📈 Complexity Analysis of Tree
+## 📈 Complexity Analysis
 
 
-| Operation       | Complexity          |
-|-----------------|---------------------|
-| Operation 1     | $O(log(n))$         |
+| Operation                | Complexity          |
+|--------------------------|---------------------|
+| NOT, AND, OR, XOR        | $O(1)$              |
+| LEFT_SHIFT, RIGHT_SHIFT  | $O(1)$              |
 
 ## 🔗 Further Reading
 
