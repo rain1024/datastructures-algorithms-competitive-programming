@@ -1,5 +1,9 @@
 # Dynamic Programming (Basic)
 
+From wikipedia
+
+> Dynamic programming is both a mathematical optimization method and a computer programming method. The method was developed by Richard Bellman in the 1950s and has found applications in numerous fields, from aerospace engineering to economics. In both contexts it refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner.
+
 Dynamic programming is a technique that combines the correctness of complete 
 search and the efficiency of greedy algorithms. Dynamic programming can be
 applied if the problem can be divided into overlapping subproblems that can be 
@@ -75,3 +79,9 @@ int main(){
 ```
 
 **Complexity**: Time: $O(n)$, space: $O(n)$
+
+## 🔗 Further Reading
+
+* ▶️ [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw&ab_channel=CSDojo), CS Dojo, 2017
+* ▶️ [Dynamic Programming lecture #1 - Fibonacci, iteration vs recursion](https://www.youtube.com/watch?v=YBSt1jYwVfU&ab_channel=Errichto), Errichto, 2019
+* [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming), wikipedia
