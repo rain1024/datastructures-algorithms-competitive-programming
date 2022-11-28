@@ -25,9 +25,20 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </td>
 <tr>
+<td>Bitwise</td>
+<td>
+<a href="/concepts/cpp/bitwise.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
 <td>Brute force, Backtracking</td>
 <td>
 <a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
+<td>Greedy</td>
+<td>
 </td>
 </tr>
 <tr>
@@ -111,7 +122,7 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td>Dijkstra</td>
+<td>Graph Shortest Paths - Dijkstra's Algorithm</td>
 <td>
 </td>
 </tr>
