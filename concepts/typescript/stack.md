@@ -55,4 +55,4 @@ stack.size(); // Output: 1
 * ▶️ [Stack Introduction](https://youtu.be/L3ud3rXpIxA?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu), Data structures playlist, WilliamFiset, 2017
 * ▶️ [Stack Implementation](https://www.youtube.com/watch?v=RAMqDLI6_1c&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=9&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
 * ▶️ [Stack Code](https://www.youtube.com/watch?v=oiZssCfk4_U&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=10&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
-* [Typescript Data Structures: Stack and Queue](https://dev.to/glebirovich/typescript-data-structures-stack-and-queue-hld), 2021
+* [Typescript Data Structures: Stack and Queue](https://dev.to/glebirovich/typescript-data-structures-stack-and-queue-hld), dev.to, 2021
