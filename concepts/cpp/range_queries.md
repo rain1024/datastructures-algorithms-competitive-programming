@@ -84,6 +84,10 @@ int main(){
 |-----------------|---------------------|
 | Queries         | $O(N+Q)$            |
 
+## Problems
+
+* [Codeforces 1398C](https://codeforces.com/contest/1398/problem/C) `intermediate`
+
 ## 🔗 Further Reading
 
 * ▶️ [Prefix Sum Array Explained](https://www.youtube.com/watch?v=7pJo_rM0z_s&ab_channel=MiketheCoder), MiketheCoder
