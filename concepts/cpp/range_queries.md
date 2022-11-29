@@ -52,8 +52,6 @@ int main(){
 }
 ```
 
-Input 
-
 <table>
 <thead>
 <th>Input</th>
