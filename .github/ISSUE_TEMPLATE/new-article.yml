@@ -29,14 +29,17 @@ body:
       options:
         - Big-O
         - Bitwise
-        - Brute force, Backtracking
-        - Greedy
         - Array
+        - String
         - Linked List
         - Stack
         - Queue
         - Set
+        - Hash Tables
         - Tree
+        - Brute force, Backtracking
+        - Greedy
+        - Range queries (prefix sum)
         - Dynamic Programming (Basic)
         - Dynamic Programming (Intermediate)
         - Dynamic Programming (Advanced)
