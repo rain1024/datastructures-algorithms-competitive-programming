@@ -62,13 +62,14 @@ Input
 <tbody>
 <tr>
 <td>
+<pre>
 <code>
 5 3
 2 4 7 8 10
 0 1
 1 3
 2 4
-</code>
+</pre>
 </td>
 </tr>
 </tbody>
