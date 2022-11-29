@@ -43,6 +43,11 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
+<td>String</td>
+<td>
+</td>
+</tr>
+<tr>
 <td>Linked List</td>
 <td>
 <a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
