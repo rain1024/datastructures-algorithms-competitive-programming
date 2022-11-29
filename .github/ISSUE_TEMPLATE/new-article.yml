@@ -39,6 +39,7 @@ body:
         - Tree
         - Brute force, Backtracking
         - Greedy
+        - Range queries (prefix sum)
         - Dynamic Programming (Basic)
         - Dynamic Programming (Intermediate)
         - Dynamic Programming (Advanced)
