@@ -68,17 +68,14 @@ Input
 1 3
 2 4</pre>
 </td>
+<td>
+<pre>2
+11
+15</pre>
+</td>
 </tr>
 </tbody>
 </table>
-
-Output
-
-```
-2
-11
-15
-```
 
 ## 📈 Complexity Analysis of Tree
 
