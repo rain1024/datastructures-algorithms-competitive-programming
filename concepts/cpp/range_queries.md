@@ -1,5 +1,7 @@
 # Range Queries
 
+**Prefix sum**
+
 From wikipedia
 
 > In computer science, the prefix sum, cumulative sum, inclusive scan, or simply scan of a sequence of numbers $x_0, x_1, x_2, ...$ is a second sequence of numbers $y_0, y_1, y_2, ...$, the sums of prefixes (running totals) of the input sequence: $y_0 = x_0, y_1 = x_0 + x_1, y_2 = x_0 + x_1+ x_2, ...$
