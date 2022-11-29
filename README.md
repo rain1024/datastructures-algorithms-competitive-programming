@@ -31,17 +31,6 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td>Brute force, Backtracking</td>
-<td>
-<a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
-</td>
-</tr>
-<tr>
-<td>Greedy</td>
-<td>
-</td>
-</tr>
-<tr>
 <tr>
 <td colspan="2" align="center"><b>Basic Data Structures</b></td>
 </tr>
@@ -79,6 +68,35 @@ A data structure is a data organization, management, and storage format that is 
 <td>Tree</td>
 <td>
 <a href="/concepts/cpp/tree.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center"><b>Algorithms</b></td>
+</tr>
+<tr>
+<td>Sorting</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Searching</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Brute force, Backtracking</td>
+<td>
+<a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
+</td>
+</tr>
+<tr>
+<td>Greedy</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Range Queries (prefix sum)</td>
+<td>
 </td>
 </tr>
 <tr>
