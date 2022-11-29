@@ -20,7 +20,7 @@ From wikipedia
 | method 1        | Definition 1    |
 
 
-## 💻 Implementation in [Awesome Language]
+## 💻 Implementation
 
 ⚠️ Typescript hasn't has built-in object `Awesome Type`.
 
@@ -42,6 +42,7 @@ File [**`example.cpp`**](code/example.cpp)
 
 ## 🔗 Further Reading
 
-* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
-* yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
-* yyyy, ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* ▶️ [Prefix Sum Array Explained](https://www.youtube.com/watch?v=7pJo_rM0z_s&ab_channel=MiketheCoder), MiketheCoder
+* [Prefix sum](https://en.wikipedia.org/wiki/Prefix_sum), wikipedia
+* [Introduction to Prefix Sums](https://usaco.guide/silver/prefix-sums?lang=cpp), Darren Yao, Dustin Miao, usaco.guide
+
