@@ -54,13 +54,25 @@ int main(){
 
 Input 
 
-```
+<table>
+<thead>
+<th>Input</th>
+<th>Output</th>
+</thead>
+<tbody>
+<tr>
+<td>
+<code>
 5 3
 2 4 7 8 10
 0 1
 1 3
 2 4
-```
+</code>
+</td>
+</tr>
+</tbody>
+</table>
 
 Output
 
