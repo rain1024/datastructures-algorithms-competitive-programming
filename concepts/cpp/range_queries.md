@@ -6,31 +6,68 @@ From wikipedia
 
 ## 🎨 Design
 
-
-**Properties**
-
-|                | Definition                              |
-|----------------|-----------------------------------------|
-| property       | Definition                              |
-
 **Methods**
 
-|                 | Definition      |
-|-----------------|-----------------|
-| method 1        | Definition 1    |
+|                     | Definition                         |
+|---------------------|------------------------------------|
+| Query(left, right)  | Sum of range from left to right    |
 
 
 ## 💻 Implementation
 
-⚠️ Typescript hasn't has built-in object `Awesome Type`.
+ℹ️ Here is the implementation of the prefix sum in C++
 
-Here are the implementation of [awesome type] in `Awesome Language` from scratch.
+```cpp
+#include <iostream>
+#include <vector>
 
-ℹ️ Typescript has standard built-in object [`Awesome Type`](awesome-link)
+using namespace std; 
 
-File [**`example.cpp`**](code/example.cpp)
+using ll = long long;
+using vl = vector<ll>;
 
-```[id]
+vl prefix_sum(const vl a){
+    int n = (int)(size(a));
+    vl output(n + 1);
+    for(int i=0; i<n; i++){
+        output[i+1] = output[i] + a[i];
+    }
+    return output;
+}
+
+int main(){
+    int N, Q;
+    cin >> N >> Q;
+    
+    vector<long long> a(N);
+    for(long long & x: a){
+        cin >> x;
+    }
+    vl p = prefix_sum(a);
+    while(Q--){
+        int l, r;
+        cin >> l >> r;
+        cout << p[r] - p[l] << "\n";
+    }
+}
+```
+
+Input 
+
+```
+5 3
+2 4 7 8 10
+0 1
+1 3
+2 4
+```
+
+Output
+
+```
+2
+11
+15
 ```
 
 ## 📈 Complexity Analysis of Tree
@@ -38,7 +75,7 @@ File [**`example.cpp`**](code/example.cpp)
 
 | Operation       | Complexity          |
 |-----------------|---------------------|
-| Operation 1     | $O(log(n))$         |
+| Queries         | $O(N+Q)$            |
 
 ## 🔗 Further Reading
 
