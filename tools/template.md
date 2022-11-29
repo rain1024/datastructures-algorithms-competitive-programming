@@ -41,7 +41,7 @@ File [**`example.cpp`**](code/example.cpp)
 ```[id]
 ```
 
-## 📈 Complexity Analysis of Tree
+## 📈 Complexity Analysis
 
 
 | Operation       | Complexity          |
