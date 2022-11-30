@@ -28,9 +28,9 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 **Algorithms**
 
 ```cpp
-# algorithm: longest-common-subsequence
-# input    : two sequences
-# output   : length of longest common subsequences
+// algorithm: longest-common-subsequence
+// input    : two sequences
+// output   : length of longest common subsequences
 
 int LCS(m: int, n: int) {
   if(m*n == 0) return 0;
