@@ -20,12 +20,12 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 
 * A subsequence is a sequence that appears in the same relative order, but not necessarily contiguous. For example, “abc”, “abg”, “bdf”, “aeg”, ‘”acefg”, .. etc are subsequences of “abcdefg”. 
 
-**Examples:**
+### Examples
 
 * LCS for input Sequences “ABCDGH” and “AEDFHR” is “ADH” of length 3. 
 * LCS for input Sequences “AGGTAB” and “GXTXAYB” is “GTAB” of length 4. 
 
-**Algorithms**
+### Algorithms
 
 Recursive
 
@@ -58,9 +58,12 @@ if (a[i] == b[j]){
 }
 ```
 
-Complexity: $O(M \times N)$
+**Complexity**
 
-**Implementation**
+* Time: $O(M \times N)$
+* Space: $O(M \times N)$
+
+### Implementation
 
 ```cpp
 #include <iostream>
