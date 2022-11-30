@@ -34,11 +34,11 @@ Recursive
 // Input    : Two sequences
 // Output   : Length of longest common subsequences
 
-int LCS(m: int, n: int) {
-  if(m*n == 0) return 0;
-  if(a[m] == b[n]) return LCS(m-1, n-1) + 1;
+int LCS(n: int, m: int) {
+  if(n*m == 0) return 0;
+  if(a[n] == b[m]) return LCS(n-1, m-1) + 1;
   else
-    return max(LCS(m-1, n), LCS(m, n-1));
+    return max(LCS(n-1, m), LCS(n, m-1));
 }
 ```
 
