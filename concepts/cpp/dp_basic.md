@@ -14,7 +14,7 @@ There are two uses for dynamic programming:
 * Finding an optimal solution: We want to find a solution that is as large as possible or as small as possible.
 * Counting the number of solutions: We want to calculate the total number of possible solutions.
 
-## Fibonnaci Number
+## 💢 Fibonnaci Number Problem
 
 The Fibonacci numbers are the numbers in the following integer sequence.
 
