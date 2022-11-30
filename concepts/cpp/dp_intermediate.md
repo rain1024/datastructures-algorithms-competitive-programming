@@ -1,4 +1,4 @@
-# Dynamic Programming (Basic)
+# Dynamic Programming (Intermediate)
 
 From wikipedia
 
