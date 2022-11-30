@@ -10,7 +10,7 @@
 * Big-O Article for typescript #10
 * Add problem Codeforces 231A #26
 
-## 1.0 (2022-11-20)
+## 1.0 (2022-11-19)
 
 * Make Github Isssue Template #4
 * Create document style check #1
