@@ -31,6 +31,10 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 # algorithm: longest-common-subsequence
 # input    : two sequences
 # output   : length of longest common subsequences
+
+int LCS(m: string, n: string) {
+  
+}
 ```
 
 **Implementation**
