@@ -27,13 +27,13 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 
 **Algorithms**
 
-```python
+```cpp
 # algorithm: longest-common-subsequence
 # input    : two sequences
 # output   : length of longest common subsequences
 
 int LCS(m: string, n: string) {
-  
+
 }
 ```
 
