@@ -42,7 +42,7 @@ int LCS(m: int, n: int) {
 }
 ```
 
-Use dynamic programming
+Use dynamic programming with Memoization
 
 ```cpp
 // Algorithm: Longest Common Subsequence
@@ -57,6 +57,8 @@ if (a[i] == b[j]){
   L[M][N] = max(L[M][N-1], L[N][M-1]);
 }
 ```
+
+Complexity: $O(M x N)$
 
 **Implementation**
 
