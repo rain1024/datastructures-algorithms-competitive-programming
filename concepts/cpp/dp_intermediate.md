@@ -140,8 +140,6 @@ GXTXAYB</pre>
 </tbody>
 </table>
 
-**Complexity**: Time: exponential, space: $O(n)$
-
 ## 🔗 Further Reading
 
 * [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem), wikipedia
