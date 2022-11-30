@@ -11,7 +11,6 @@ int lcs(string a, string b) {
   int n = a.size();
   int m = b.size();
   int dp[n + 1][m + 1];
-  dp[0][0] = 0;
   for (int i = 0; i <= n; i++) {
     dp[i][0] = 0;
   }
