@@ -58,7 +58,7 @@ if (a[i] == b[j]){
 }
 ```
 
-Complexity: $O(M x N)$
+Complexity: $O(M \times N)$
 
 **Implementation**
 
