@@ -27,7 +27,7 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 
 ### Algorithms
 
-Recursive
+Use recursive
 
 ```cpp
 // Algorithm: Longest Common Subsequence
