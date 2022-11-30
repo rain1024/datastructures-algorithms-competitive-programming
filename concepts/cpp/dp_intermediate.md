@@ -50,11 +50,11 @@ Use dynamic programming with Memoization
 // Output   : Length of longest common subsequences
 
 string A, B
-int L[M][N];
-if (a[i] == b[j]){
-  L[M][N] = L[M-1][N-1] + 1
+int dp[N][M];
+if (A[i] == B[j]){
+  dp[N][N] = 1 + dp[N-1][M-1]
 } else {
-  L[M][N] = max(L[M][N-1], L[N][M-1]);
+  dp[N][M] = max(dp[N][M-1], dp[N-1][M]);
 }
 ```
 
