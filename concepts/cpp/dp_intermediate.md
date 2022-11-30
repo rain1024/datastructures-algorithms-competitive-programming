@@ -114,7 +114,7 @@ int main() {
 </thead>
 <tbody>
 <tr>
-<td>
+<td valign="top">
 <pre>5
 aabc
 aa
@@ -127,7 +127,7 @@ AEDFHR
 AGGTAB
 GXTXAYB</pre>
 </td>
-<td>
+<td valign="top">
 <pre>2
 5
 7
