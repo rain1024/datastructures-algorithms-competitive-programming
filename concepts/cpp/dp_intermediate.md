@@ -27,8 +27,10 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 
 **Algorithms**
 
-```pseudo
-**algorithm** longest-common-subsequence
+```python
+# algorithm: longest-common-subsequence
+# input    : two sequences
+# output   : length of longest common subsequences
 ```
 
 **Implementation**
