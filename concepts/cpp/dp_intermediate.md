@@ -27,6 +27,8 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 
 **Algorithms**
 
+Recursive
+
 ```cpp
 // Algorithm: Longest Common Subsequence
 // Input    : Two sequences
@@ -37,6 +39,22 @@ int LCS(m: int, n: int) {
   if(a[m] == b[n]) return LCS(m-1, n-1) + 1;
   else
     return max(LCS(m-1, n), LCS(m, n-1));
+}
+```
+
+Use dynamic programming
+
+```cpp
+// Algorithm: Longest Common Subsequence
+// Input    : Two sequences
+// Output   : Length of longest common subsequences
+
+string A, B
+int L[M][N];
+if (a[i] == b[j]){
+  L[M][N] = L[M-1][N-1] + 1
+} else {
+  L[M][N] = max(L[M][N-1], L[N][M-1]);
 }
 ```
 
