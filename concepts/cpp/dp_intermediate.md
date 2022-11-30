@@ -32,8 +32,11 @@ LCS Problem Statement: Given two sequences, find the length of longest subsequen
 # input    : two sequences
 # output   : length of longest common subsequences
 
-int LCS(m: string, n: string) {
-
+int LCS(m: int, n: int) {
+  if(m*n == 0) return 0;
+  if(a[m] == b[n]) return LCS(m-1, n-1) + 1;
+  else
+    return max(LCS(m-1, n), LCS(m, n-1));
 }
 ```
 
