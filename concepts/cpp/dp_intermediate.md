@@ -217,3 +217,4 @@ Longest Common Subsequence
 Longest Palindromic Subsequence
 
 * [Longest Palindromic Subsequence | DP-12](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/), GeeksforGeeks, 2022
+* ▶️ [DP - 9: Longest Palindrome Subsequence](https://www.youtube.com/watch?v=_AcULHRds3I&ab_channel=CodingSimplified), Coding Simplified, 2020
