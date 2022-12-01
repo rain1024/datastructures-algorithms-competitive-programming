@@ -201,7 +201,7 @@ public:
 };
 ```
 
-### Public Related Problems
+### 🌟 Public Related Problems
 
 * [Leetcode 516. Longest Palindromic Subsequence (medium)](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 
