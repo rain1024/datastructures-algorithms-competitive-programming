@@ -16,7 +16,7 @@ There are two uses for dynamic programming:
 
 ## 💢 Problem: Longest Common Subsequences
 
-LCS Problem Statement: Given two sequences, find the length of longest subsequence present in both of them.
+**Problem Statement**: Given two sequences, find the length of longest subsequence present in both of them.
 
 * A subsequence is a sequence that appears in the same relative order, but not necessarily contiguous. For example, “abc”, “abg”, “bdf”, “aeg”, ‘”acefg”, .. etc are subsequences of “abcdefg”. 
 
@@ -140,9 +140,81 @@ GXTXAYB</pre>
 </tbody>
 </table>
 
+## 💢 Problem: Longest Palindromic Subsequence (LPS)
+
+**Problem Statement**: Given a sequence, find the length of the longest palindromic subsequence in it.
+
+### Examples
+
+* LPS of input sequence "bbbab" is "bbbb" of length 4.
+* LPS of input sequence "cbbd" is "bb" of length 2.
+
+### Algorithms
+
+Use dynamic programming with Memoization
+
+```cpp
+// Algorithm: Longest Palindromic Subsequence
+// Input    : A sequence
+// Output   : Length of longest palindromic subsequence
+
+string s
+int dp[N][N];
+if (s[i] == s[j]){
+  dp[i][j] = 2 + dp[i-1][j-1]
+} else {
+  dp[i][j] = max(dp[i][j-1], dp[i-1][j]);
+}
+```
+
+**Complexity**
+
+* Time: $O(N^2)$
+* Space: $O(N^2)$
+
+### Implementation
+
+```cpp
+class Solution {
+public:
+  int longestPalindromeSubseq(string s) {
+    int n = s.size();
+    int dp[n][n];
+    for(int i=0; i<n; i++){
+        dp[i][i] = 1;
+    }
+    for(int i=n-2; i>=0; i--){
+        for(int j=i+1; j<n; j++){
+            if(j - i == 1) {
+                dp[i][j] = s[i] == s[j] ? 2 : 1;
+            } else {
+                if(s[i] == s[j]){
+                    dp[i][j] = 2 + dp[i+1][j-1];
+                } else {
+                    dp[i][j] = max(dp[i][j-1], dp[i+1][j]);
+                }
+            }
+        }
+    }
+    return dp[0][n-1];
+  }
+};
+```
+
+### 🌟 Public Related Problems
+
+* [Leetcode 516. Longest Palindromic Subsequence (medium)](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+
 ## 🔗 Further Reading
+
+Longest Common Subsequence
 
 * [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem), wikipedia
 * ▶️ [Dynamic Programming | Set 4 (Longest Common Subsequence) | GeeksforGeeks](https://www.youtube.com/watch?v=HgUOWB0StNE&ab_channel=GeeksforGeeks), GeeksforGeeks, 2017
 * [Longest Common Subsequence | DP-4](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/), GeeksforGeeks, 2022
 * ▶️ [Longest Common Subsequence (Dynamic Programming)](https://www.youtube.com/watch?v=Qf5R-uYQRPk&ab_channel=CSDojo), CS Dojo, 2016
+
+Longest Palindromic Subsequence
+
+* [Longest Palindromic Subsequence | DP-12](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/), GeeksforGeeks, 2022
+* ▶️ [DP - 9: Longest Palindrome Subsequence](https://www.youtube.com/watch?v=_AcULHRds3I&ab_channel=CodingSimplified), Coding Simplified, 2020
