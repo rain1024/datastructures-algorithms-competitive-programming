@@ -71,4 +71,6 @@ print(a.index(1))                      # [0]
 ## 🔗 Further Reading
 
 * [Python Arrays](https://www.geeksforgeeks.org/python-arrays/), geeksforgeeks.org
+* [Array](https://docs.python.org/3.8/library/array.html), docs.python.org
+* [Python Array vs List](https://www.upgrad.com/blog/python-array-vs-list-differences-use-cases/), upgrad.com
 * ▶️ [CS50 2020 - Lecture 2 - Arrays](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s&ab_channel=CS50), CS50
