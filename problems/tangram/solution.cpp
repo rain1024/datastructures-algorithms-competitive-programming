@@ -82,47 +82,54 @@ void drawText(std::string text, int x, int y) {
   }
 }
 
+class Game {
+ public:
+  vector<Polygon> polygons;
+  Game(vector<Polygon> polygons) { this->polygons = polygons; };
+  void display() {
+    for (auto p : this->polygons) {
+      p.display();
+    }
+  }
+};
+
 void display() {
   glClear(GL_COLOR_BUFFER_BIT);
+
   std::vector<point> vertices;
 
   vertices = {mp(0.25, 0), mp(0.25, 0.5), mp(0.5, 0.75), mp(0.75, 0.5),
               mp(0.75, 0)};
   Polygon p1 = Polygon(vertices, COLORS::GREEN);
-  p1.display();
 
   vertices = {mp(0, 0), mp(0, 0.25), mp(0.25, 0.5), mp(0.25, 0)};
   Polygon p2 = Polygon(vertices, COLORS::PINK);
-  p2.display();
 
   vertices = {mp(0.75, 0), mp(0.75, 0.5), mp(1, 0.25), mp(1, 0)};
   Polygon p3 = Polygon(vertices, COLORS::RED);
-  p3.display();
 
   vertices = {mp(0.5, 0.75), mp(0.75, 1), mp(1, 0.75), mp(1, 0.25)};
   Polygon p4 = Polygon(vertices, COLORS::BLUE);
-  p4.display();
 
   vertices = {mp(0, 0.25), mp(0, 0.75), mp(0.5, 1.25), mp(0.75, 1)};
   Polygon p5 = Polygon(vertices, COLORS::CYAN);
-  p5.display();
 
   vertices = {mp(0.5, 1.25), mp(1, 1.25), mp(1, 0.75)};
   Polygon p6 = Polygon(vertices, COLORS::YELLOW);
-  p6.display();
 
   vertices = {mp(0, 0.75), mp(0, 1.25), mp(0.5, 1.25)};
   Polygon p7 = Polygon(vertices, COLORS::AMBER);
-  p7.display();
 
+  vector<Polygon> polygons = {p1, p2, p3, p4, p5, p6, p7};
+
+  Game game = Game(polygons);
+  game.display();
   drawText("TANGRAMS", 250.0f, 50.0f);
 
   glFlush();
 }
 
-void reshape(){
-  std::cout << "Reshape " << std::endl;
-}
+void reshape() { std::cout << "Reshape " << std::endl; }
 
 int main(int argc, char** argv) {
   glutInit(&argc, argv);
