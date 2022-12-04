@@ -16,7 +16,7 @@ From wikipedia
 
 We used [OpenGL](https://www.opengl.org/) to draw starting position for Trí Uẩn angram.
 
-## Run 
+**Usage**
 
 Run the following command to start program
 
@@ -24,7 +24,9 @@ Run the following command to start program
 g++ -std=c++17 solution.cpp -o solution -framework GLUT -framework OpenGL -Wno-deprecated-declarations && ./solution
 ```
 
+The program is opened with starting position of `Trí Uẩn` angram.
 
+![](images/triuan_program.png)
 
 ## 🔗 Further Reading
 

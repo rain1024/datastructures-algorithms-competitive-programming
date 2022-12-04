@@ -83,7 +83,6 @@ void drawText(std::string text, int x, int y) {
 }
 
 void display() {
-  std::cout << "hihi " << std::endl;
   glClear(GL_COLOR_BUFFER_BIT);
   std::vector<point> vertices;
 
