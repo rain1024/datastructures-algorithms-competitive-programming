@@ -6,6 +6,12 @@ From wikipedia
 
 ![](images/Tangram_set_00.jpeg)
 
+**Trí Uẩn**
+
+> Tri Uan game is a jigsaw puzzle with seven pieces belonging to a rectangle with dimensions of 8 cm x 10 cm familiar to many Vietnamese students in the 1960s-1970s.
+
+<img src="images/triuan.png"/>
+
 ## Implementation 
 
 We used [OpenGL](https://www.opengl.org/) to draw starting position for Trí Uẩn angram.
