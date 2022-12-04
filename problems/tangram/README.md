@@ -2,13 +2,9 @@
 
 From wikipedia
 
-> The tangram is a dissection puzzle consisting of seven flat polygons, called tans, which are put together to form shapes.
-
-> The objective is to replicate a pattern (given only an outline) generally found in a puzzle book using all seven pieces without overlap.
+> The tangram is a dissection puzzle consisting of seven flat polygons, called tans, which are put together to form shapes. The objective is to replicate a pattern (given only an outline) generally found in a puzzle book using all seven pieces without overlap.
 
 ![](images/Tangram_set_00.jpeg)
-
-
 
 ## Implementation 
 
