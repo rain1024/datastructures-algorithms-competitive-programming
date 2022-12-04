@@ -1,5 +1,16 @@
 # History
 
+## 2.0 (2022-12-04)
+
+* Trí Uẩn Problem #58
+* Array in Python #57
+* Dynamic Programming (Intermediate) in C++ #53
+* Range Queries in C++ #50
+* Dynamic Programming (Basic) in C++ #33
+* Bitwise in C++ #48
+* Big-O in Python #41
+
+
 ## 1.1 (2022-11-26)
 
 * Stack in C++ #16
