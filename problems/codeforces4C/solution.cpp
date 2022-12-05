@@ -2,7 +2,6 @@
 #include <cmath>
 #include <vector>
 #include <map>
-#include <algorithm>
  
 using namespace std;
 
@@ -11,8 +10,18 @@ int main(){
   cin.tie(0);
   int tt;
   cin >> tt;
+  map<string, int> m;
+  string s;
+  int count;
   while(tt--){
-    cout << '\n';
+    cin >> s;
+    if(m.find(s) == m.end()){
+      cout << "OK" << endl;
+      m[s] = 1;
+    } else {
+      cout << s << m[s] << endl;
+      m[s] += 1;
+    }
   }
   return 0;
 }
