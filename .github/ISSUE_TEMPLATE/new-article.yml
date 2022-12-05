@@ -37,6 +37,8 @@ body:
         - Set
         - Hash Tables
         - Tree
+        - Sorting
+        - Searching
         - Brute force, Backtracking
         - Greedy
         - Range queries (prefix sum)
