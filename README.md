@@ -86,6 +86,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Sorting</td>
 <td>
+<a href="/concepts/cpp/sorting.md"><code>cpp</code></a>
 </td>
 </tr>
 <tr>
