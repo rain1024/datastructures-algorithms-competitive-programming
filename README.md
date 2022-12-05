@@ -70,8 +70,9 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td>Hash Tables</td>
+<td>Hash Table</td>
 <td>
+<a href="/concepts/cpp/hash_table.md"><code>cpp</code></a>
 </td>
 </tr>
 <tr>
