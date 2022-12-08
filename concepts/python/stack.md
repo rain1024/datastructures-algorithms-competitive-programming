@@ -51,7 +51,5 @@ stack.peek()  # b
 ## 🔗 Further Reading
 
 * [Stack in Python](https://www.geeksforgeeks.org/stack-in-python/), geeksforgeeks.org, 2022
-* ▶️ [Stack Introduction](https://youtu.be/L3ud3rXpIxA?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu), Data structures
-  playlist, WilliamFiset, 2017
-* ▶️ [Stack Implementation](https://www.youtube.com/watch?v=RAMqDLI6_1c&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=9&ab_channel=WilliamFiset),
-Data structures playlist, WilliamFiset, 2017
+* ▶️ [Stack Introduction](https://youtu.be/L3ud3rXpIxA?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu), Data structures playlist, WilliamFiset, 2017
+* ▶️ [Stack Implementation](https://www.youtube.com/watch?v=RAMqDLI6_1c&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=9&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
