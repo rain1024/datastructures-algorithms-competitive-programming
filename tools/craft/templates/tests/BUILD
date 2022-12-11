@@ -7,4 +7,5 @@ cc_test(
       "//problems/codeforcesAA/src/main:solution",
       "@com_google_googletest//:gtest_main",
     ],
+    data = ["data"]
 )

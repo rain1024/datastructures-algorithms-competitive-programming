@@ -7,18 +7,27 @@ CURRENT_DIR = dirname(__file__)
 PROBLEMS_DIR = join(dirname(dirname(CURRENT_DIR)), "problems")
 print(PROBLEMS_DIR)
 
+def replace_string_in_file(filename, old, new):
+    with open(filename) as f:
+        text = f.read()
+    text = text.replace(old, new)
+    with open(filename, "w") as f:
+        f.write(text)
 
 def task_rename_files(domain, problem_id):
-    # Update tests/BUILD file
     problem_dir = join(PROBLEMS_DIR, f"{domain}{problem_id}")
+
+    # Update tests/BUILD file
     test_build_file = join(problem_dir, "tests/BUILD")
-    with open(test_build_file) as f:
-        text = f.read()
     old = "//problems/codeforcesAA/src/main:solution"
     new = f"//problems/{domain}{problem_id}/src/main:solution"
-    text = text.replace(old, new)
-    with open(test_build_file, "w") as f:
-        f.write(text)
+    replace_string_in_file(test_build_file, old, new)
+    
+    # Update tests/solution_test.cpp
+    test_solution_file = join(problem_dir, "tests/solution_test.cpp")
+    old = "codeforcesAA"
+    new = f"{domain}{problem_id}"
+    replace_string_in_file(test_build_file, old, new)
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
