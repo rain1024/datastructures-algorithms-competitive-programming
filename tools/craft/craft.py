@@ -27,7 +27,7 @@ def task_rename_files(domain, problem_id):
     test_solution_file = join(problem_dir, "tests/solution_test.cpp")
     old = "codeforcesAA"
     new = f"{domain}{problem_id}"
-    replace_string_in_file(test_build_file, old, new)
+    replace_string_in_file(test_solution_file, old, new)
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:

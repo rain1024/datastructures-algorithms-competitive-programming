@@ -27,7 +27,7 @@ void ReadFile(const std::string &filename) {
 std::string RunProgram() {
   std::system("tree -L 4 problems > test111.txt");
   ReadFile("test111.txt");
-  std::system("problems/codeforcesXX/src/main/solution < problems/codeforcesXX/tests/data/1.in > test222.txt");
+  std::system("problems/codeforcesAA/src/main/solution < problems/codeforcesAA/tests/data/1.in > test222.txt");
   ReadFile("test222.txt");
   std::cout << "End Program " << std::endl;
   return "";
