@@ -1,5 +1,24 @@
 # History
 
+## 2.1 (2022-12-11)
+
+* Stack in Python #74
+* Hash Table in C++ #70
+* Sorting in C++ #65
+* Trí Uẩn Problem #58 v1.1
+
+**Problems**
+
+* Codeforces 466A
+* Codeforces 58A
+* Codeforces 112A
+* Codeforces 4C
+* Codeforces 25A
+* Codeforces 492B
+* Codeforces 158B
+* Codeforces 1A
+* Codeforces 158A
+
 ## 2.0 (2022-12-04)
 
 * Trí Uẩn Problem #58
