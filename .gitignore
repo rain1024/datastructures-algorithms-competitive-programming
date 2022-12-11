@@ -1,0 +1,8 @@
+# Bazel
+bazel-Bazel_with_GTest
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
+bazel-*
+*.md2

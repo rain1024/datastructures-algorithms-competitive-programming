@@ -1,10 +1,10 @@
-#include <bits/stdc++.h>
 #include <cmath>
 #include <vector>
 #include <map>
 #include <algorithm>
 #include <string>
- 
+#include <iostream>
+
 using namespace std;
 
 int main(){
@@ -13,7 +13,7 @@ int main(){
   int tt;
   cin >> tt;
   while(tt--){
-    cout << '\n';
+    cout << tt << '\n';
   }
   return 0;
 }
