@@ -99,8 +99,9 @@
     "iterator": "cpp",
     "memory_resource": "cpp",
     "utility": "cpp",
-    "stop_token": "cpp"
+    "stop_token": "cpp",
+    "filesystem": "cpp"
   },
-  "C_Cpp.errorSquiggles": "Disabled",
+  "C_Cpp.errorSquiggles": "disabled",
   "python.formatting.provider": "black"
 }
