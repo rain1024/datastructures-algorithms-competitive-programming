@@ -4,7 +4,7 @@ This repository contains introductions and examples of many popular data structu
 
 Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
 
-[Version 2.1 is out.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
+⭐ [New Version 2.2 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
 
 ## 📙 Data Structures
 
