@@ -62,8 +62,6 @@ print("a >> 2 =", a >> 2) # 1 = int(0b1)
 ## 🔗 Further Reading
 
 * [Bitwise operation](https://en.wikipedia.org/wiki/Bitwise_operation), wikipedia.org
-* [Two complement](https://en.wikipedia.org/wiki/Two%27s_complement),
-wikipedia.org
-* ▶️ [Python Bitwise Operators](hhttps://realpython.com/python-bitwise-operators/),
-realpython.com
+* [Two complement](https://en.wikipedia.org/wiki/Two%27s_complement), wikipedia.org
+* ▶️ [Python Bitwise Operators](hhttps://realpython.com/python-bitwise-operators/),realpython.com
 * ▶️ [Bitwise Operations tutorial #1 | XOR, Shift, Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY&list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80&index=2&t=320s&ab_channel=Errichto), Errichto, 2020
