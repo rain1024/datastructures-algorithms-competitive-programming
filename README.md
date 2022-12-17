@@ -29,6 +29,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Bitwise</td>
 <td>
+<a href="/concepts/python/bitwise.md"><code>py</code>
 <a href="/concepts/cpp/bitwise.md"><code>cpp</code></a>
 </td>
 </tr>

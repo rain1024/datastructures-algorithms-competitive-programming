@@ -40,48 +40,30 @@ From wikipedia
 a = 4   # 0b0100
 b = 14  # 0b1110
 
-# Bitwise NOT operation
-print("~a =", ~a)  # -5 = int(0b
+# Bitwise NOT operation (signed interger)
+print("~a =", ~a)  # -5 = int(0b1011) 
 
 # Bitwise AND operation
-print("a & b =", a & b)
+print("a & b =", a & b)  # 4 = int(0b0100)
 
 # Bitwise OR operation
-print("a | b =", a | b)
+print("a | b =", a | b)  # 14 = int(0b1110)
 
 # Bitwise XOR operation
-print("a ^ b =", a ^ b)
+print("a ^ b =", a ^ b)  # 10 = int(0b1010)
 
-    cout << "LS(x,1) = " << (x << 1) << endl;
-    cout << "LS(x,2) = " << (x << 2) << endl;
-    cout << "RS(x,1) = " << (x >> 1) << endl;
-    cout << "RS(x,2) = " << (x >> 2) << endl;
-    cout << " int(x) = " << int(x.to_ulong()) << endl;
-}
+# Left Shifting
+print("a << 3 =", a << 3) # 32 = int(0b100000)
+
+# Right Shifting
+print("a >> 2 =", a >> 2) # 1 = int(0b1)
 ```
-
-**Results**
-
-```
- NOT(x) = 1011
-x AND y = 0100
-x OR  y = 1110
-x XOR y = 1010
-LS(x,1) = 1000
-LS(x,2) = 0000
-RS(x,1) = 0010
-RS(x,2) = 0001
- int(x) = 4
-```
-
-
 
 ## 🔗 Further Reading
 
-*
-▶️ [Bitwise Operations tutorial #1 | XOR, Shift, Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY&list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80&index=2&t=320s&ab_channel=Errichto),
-Errichto, 2020
-*
-▶️ [C++ Bitsets in Competitive Programming](https://www.youtube.com/watch?v=jqJ5s077OKo&list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80&index=2&ab_channel=Errichto),
-Errichto, 2020
 * [Bitwise operation](https://en.wikipedia.org/wiki/Bitwise_operation), wikipedia.org
+* [Two complement](https://en.wikipedia.org/wiki/Two%27s_complement),
+wikipedia.org
+* ▶️ [Python Bitwise Operators](hhttps://realpython.com/python-bitwise-operators/),
+realpython.com
+* ▶️ [Bitwise Operations tutorial #1 | XOR, Shift, Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY&list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80&index=2&t=320s&ab_channel=Errichto), Errichto, 2020
