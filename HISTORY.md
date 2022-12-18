@@ -1,5 +1,16 @@
 # History
 
+## 2.2 (2022-12-18)
+
+* Add bazel for build and test #78
+* Bitwise in Python #82
+
+**💢 Problems**
+
+* Codeforces 489C
+* Codeforces 489B
+* Codeforces 520B
+
 ## 2.1 (2022-12-11)
 
 * Stack in Python #74
