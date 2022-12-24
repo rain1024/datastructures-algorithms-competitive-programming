@@ -1,4 +1,4 @@
-# AoC Problem 
+# Problem 
 
 ## Usage
 

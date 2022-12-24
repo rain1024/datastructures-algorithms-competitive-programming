@@ -6,7 +6,7 @@ Each data structures and algorithm has its own separate article with related exp
 
 ⭐ [New Version 2.2 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
 
-## 📙 Data Structures
+## 📙 Data Structures & Algorithms
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.  More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
@@ -164,6 +164,12 @@ A data structure is a data organization, management, and storage format that is 
 </tr>
 </tbody>
 </table>
+
+## 🔆 Collections
+
+Events of competitive programming
+
+* [Advent of Code 2022](collections/advent-of-code-2022/)
 
 ## Contributors
 

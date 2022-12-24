@@ -15,16 +15,13 @@ int main(int argc, char* argv[]){
   fstream f(input);
   long long max_c = 0;
   long long sum_c = 0;
-  vector<long long> v;
   while(getline(f, line)){
     if(line.size() == 0){
-      v.push_back(sum_c);
+      max_c = max(max_c, sum_c);
       sum_c = 0;
     } else {
       sum_c += stoi(line);
     }
   }
-  sort(v.begin(), v.end(), greater<long long>());
-  long long total = v[0] + v[1] + v[2];
-  cout << "max_c = " << total << endl;
+  cout << "max_c = " << max_c << endl;
 }
