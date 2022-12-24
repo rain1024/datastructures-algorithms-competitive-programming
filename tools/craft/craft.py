@@ -7,6 +7,9 @@ CURRENT_DIR = dirname(__file__)
 PROBLEMS_DIR = join(dirname(dirname(CURRENT_DIR)), "problems")
 print(PROBLEMS_DIR)
 
+class CodeforcesGenerator:
+  pass
+
 def replace_string_in_file(filename, old, new):
     with open(filename) as f:
         text = f.read()
