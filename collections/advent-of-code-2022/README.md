@@ -22,7 +22,9 @@
 <td>
 <a href="../../problems/aoc2022day1a/src/main/solution1.cpp"><code>cpp</code></a>
 </td>
-<td></td>
+<td>
+<a href="../../problems/aoc2022day1a/src/main/solution2.cpp"><code>cpp</code></a>
+</td>
 </tr>
 </tbody>
 </table>
