@@ -16,7 +16,8 @@
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Day 1</td>
+<td><a href="https://adventofcode.com/2022/day/1">Link</a></td>
 </tr>
 </tbody>
 </table>
