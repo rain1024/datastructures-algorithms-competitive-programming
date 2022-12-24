@@ -12,12 +12,17 @@
 <thead>
 <th></th>
 <th>Statement</th>
-<th></th>
+<th>Part 1</th>
+<th>Part 2</th>
 </thead>
 <tbody>
 <tr>
 <td>Day 1</td>
 <td><a href="https://adventofcode.com/2022/day/1">Link</a></td>
+<td>
+<a href="../../problems/"><code>cpp</code></a>
+</td>
+<td></td>
 </tr>
 </tbody>
 </table>

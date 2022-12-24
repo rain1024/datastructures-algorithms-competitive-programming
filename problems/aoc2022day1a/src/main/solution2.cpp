@@ -13,7 +13,6 @@ int main(int argc, char* argv[]){
   string input = argv[1];
   string line;
   fstream f(input);
-  long long max_c = 0;
   long long sum_c = 0;
   vector<long long> v;
   while(getline(f, line)){
