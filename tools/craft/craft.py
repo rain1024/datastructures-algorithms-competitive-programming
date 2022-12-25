@@ -64,6 +64,7 @@ if __name__ == "__main__":
         print("Examples:\n")
         print("\tpython crapy.py codeforces 100A\n")
         print("\tpython crapy.py aoc 2022day2\n")
+        print("\tpython crapy.py codejam 2022PunchedCards\n")
         sys.exit(1)
     domain = sys.argv[1]
     problem_id = sys.argv[2]
