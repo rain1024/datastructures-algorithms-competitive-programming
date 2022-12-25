@@ -27,6 +27,16 @@
 </td>
 </tr>
 <tr>
+<td>Day 4</td>
+<td><a href="https://adventofcode.com/2022/day/4">Link</a></td>
+<td>
+<a href="../../problems/aoc2022day4/src/main/solution1.cpp"><code>cpp🐀</code></a>
+</td>
+<td>
+<a href="../../problems/aoc2022day4/src/main/solution1.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+<tr>
 <td>Day 3</td>
 <td><a href="https://adventofcode.com/2022/day/3">Link</a></td>
 <td>
