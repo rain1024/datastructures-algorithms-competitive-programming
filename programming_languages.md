@@ -27,8 +27,8 @@
 <td>PHP</td>
 <td>php</td>
 <td>
-<a href="https://emojipedia.org/elephant/">🐘<a>
-<sup>[<a href="https://en.wikipedia.org/wiki/PHP#ELEPHPANT">1</a>,<a href="https://en.wikipedia.org/wiki/Java_(software_platform)#Mascot">2</a>]</sup>
+<a href="https://emojipedia.org/elephant/">🐘</a>
+<sup>[<a href="https://en.wikipedia.org/wiki/PHP#ELEPHPANT">1</a>]</sup>
 </td>
 <td>php🐘</td>
 </tr>
