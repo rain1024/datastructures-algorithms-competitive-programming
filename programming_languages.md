@@ -21,13 +21,13 @@
 <a href="https://emojipedia.org/hot-beverage/">☕</a>
 <sup>[<a href="https://www.javatpoint.com/java-logo">1</a>,<a href="https://en.wikipedia.org/wiki/Java_(software_platform)#Mascot">2</a>]</sup>
 </td>
-<td>java☕</td>
+<td><code>java☕</code></td>
 </tr>
 <tr>
 <td>Javascript</td>
 <td>js</td>
 <td></td>
-<td>js</td>
+<td><code>js</code></td>
 </tr>
 <tr>
 <td>PHP</td>
@@ -36,25 +36,25 @@
 <a href="https://emojipedia.org/elephant/">🐘</a>
 <sup>[<a href="https://en.wikipedia.org/wiki/PHP#ELEPHPANT">1</a>]</sup>
 </td>
-<td>php🐘</td>
+<td><code>php🐘</code></td>
 </tr>
 <tr>
 <td>Python</td>
 <td>py</td>
 <td><a href="https://emojipedia.org/snake/">🐍<a></td>
-<td>py🐍</td>
+<td><code>py🐍</code></td>
 </tr>
 <tr>
 <td>Rust</td>
 <td>rs</td>
 <td><a href="https://emojipedia.org/crab/">🦀<a></td>
-<td>rs🦀</td>
+<td><code>rs🦀</code></td>
 </tr>
 <tr>
 <td>Typescript</td>
 <td>ts</td>
 <td></td>
-<td>ts</td>
+<td><code>ts</code></td>
 </tr>
 </tbody>
 </table>
