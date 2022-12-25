@@ -17,7 +17,7 @@
 <tr>
 <td>Java</td>
 <td>java</td>
-<td><a href="https://emojipedia.org/hot-beverage/">☕</a> (<a href="https://www.javatpoint.com/java-logo">[1]</a>)</td>
+<td><a href="https://emojipedia.org/hot-beverage/">☕</a> <sup><a href="https://www.javatpoint.com/java-logo">[1]</a></sup>)</td>
 <td>java☕</td>
 </tr>
 <tr>
