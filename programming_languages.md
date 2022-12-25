@@ -28,3 +28,7 @@
 </tr>
 </tbody>
 </table>
+
+## References
+
+* [List of computing mascots](https://en.wikipedia.org/wiki/List_of_computing_mascots)
