@@ -38,6 +38,12 @@
 <td><a href="https://emojipedia.org/snake/">🐍<a></td>
 <td>py🐍</td>
 </tr>
+<tr>
+<td>Typescript</td>
+<td>ts</td>
+<td></td>
+<td>ts</td>
+</tr>
 </tbody>
 </table>
 
