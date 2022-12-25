@@ -1,5 +1,21 @@
 # History
 
+## 0.12.3 (2022-12-25)
+
+* GH-42: Solve codeforces 1762A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/89
+* GH-42: solve codeforces 282A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/91
+* GH-42: Solve codeforces 339A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/92
+* GH-42: Solve codeforces 281A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/93
+* GH-42: Solve codeforces 122A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/94
+* GH-42: Add codeforces 1592B by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/95
+* GH-96: Solve AoC Day1 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/97
+* GH-96: Create template for AoC by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/98
+* GH-96: Add problem aoc2022day24 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/99
+* GH-96 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/100
+* GH-96: Solve problem aoc2022day3 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/101
+* GH-96: Solve problem aoc2022day4 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/102
+* GH-90: Add Python Linked List by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/103
+
 ## 2.2 (2022-12-18)
 
 * Add bazel for build and test #78
