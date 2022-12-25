@@ -11,14 +11,9 @@
 using namespace std;
 
 int main(int argc, char* argv[]){
-  string input = argv[1];
-  string line;
-  fstream f(input);
-  int result = 0;
-  while(getline(f, line)){
-    if(line.size() != 0){
-      cout << line << endl;
-    }
+  int tt;
+  cin >> tt;
+  for(int i=0; i<tt; i++){
+    cout << "Case #" << i+1 << ":" << endl;
   }
-  cout << "result = " << result << endl;
 }
