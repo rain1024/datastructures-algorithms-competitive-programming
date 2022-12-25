@@ -21,6 +21,7 @@
 <a href="https://emojipedia.org/hot-beverage/">☕</a>
 <sup>[<a href="https://www.javatpoint.com/java-logo">1</a>,<a href="https://en.wikipedia.org/wiki/Java_(software_platform)#Mascot">2</a>]</sup>
 </td>
+<td>java☕</td>
 </tr>
 <tr>
 <td>Javascript</td>
