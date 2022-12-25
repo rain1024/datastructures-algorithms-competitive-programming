@@ -6,3 +6,4 @@ bazel-out
 bazel-testlogs
 bazel-*
 *.md2
+test_data
