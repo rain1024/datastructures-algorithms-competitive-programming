@@ -16,7 +16,7 @@
 * GH-96: Solve problem aoc2022day4 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/102
 * GH-90: Add Python Linked List by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/103
 
-## 2.2 (2022-12-18)
+## 0.12.2 (2022-12-18)
 
 * Add bazel for build and test #78
 * Bitwise in Python #82
@@ -27,7 +27,7 @@
 * Codeforces 489B
 * Codeforces 520B
 
-## 2.1 (2022-12-11)
+## 0.12.1 (2022-12-11)
 
 * Stack in Python #74
 * Hash Table in C++ #70
@@ -46,7 +46,7 @@
 * Codeforces 1A
 * Codeforces 158A
 
-## 2.0 (2022-12-04)
+## 0.12.0 (2022-12-04)
 
 * Trí Uẩn Problem #58
 * Array in Python #57
@@ -57,7 +57,7 @@
 * Big-O in Python #41
 
 
-## 1.1 (2022-11-26)
+## 0.11.1 (2022-11-26)
 
 * Stack in C++ #16
 * Queue in C++ #20
@@ -67,7 +67,7 @@
 * Big-O Article for typescript #10
 * Add problem Codeforces 231A #26
 
-## 1.0 (2022-11-19)
+## 0.11.0 (2022-11-19)
 
 * Make Github Isssue Template #4
 * Create document style check #1
