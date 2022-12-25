@@ -20,20 +20,20 @@
 <td>Day 24 (!)</td>
 <td><a href="https://adventofcode.com/2022/day/24">Link</a></td>
 <td>
-<a href="../../problems/aoc2022day24/src/main/solution1.cpp"><code>cpp 🐀</code></a>
+<a href="../../problems/aoc2022day24/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
 <td>
-<a href="../../problems/aoc2022day24/src/main/solution1.cpp"><code>cpp 🐀</code></a>
+<a href="../../problems/aoc2022day24/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
 <td>Day 2</td>
 <td><a href="https://adventofcode.com/2022/day/1">Link</a></td>
 <td>
-<a href="../../problems/aoc2022day2/src/main/solution1.cpp"><code>cpp 🐀</code></a>
+<a href="../../problems/aoc2022day2/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
 <td>
-<a href="../../problems/aoc2022day2/src/main/solution1.cpp"><code>cpp 🐀</code></a>
+<a href="../../problems/aoc2022day2/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
