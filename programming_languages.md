@@ -12,7 +12,7 @@
 <td>C++</td>
 <td>cpp</td>
 <td><a href="https://emojipedia.org/rat/">🐀</a></td>
-<td>cpp🐀</td>
+<td><code>cpp🐀</code></td>
 </tr>
 <tr>
 <td>Java</td>
