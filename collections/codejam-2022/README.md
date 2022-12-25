@@ -1,0 +1,24 @@
+# 🎃 Google Code Jam 2022
+
+* Website: https://codingcompetitions.withgoogle.com/codejam/archive/2022
+
+## Problems
+
+Qualification Round
+
+<table>
+<thead>
+<th></th>
+<th>Statement</th>
+<th>Code</th>
+</thead>
+<tbody>
+<tr>
+<td>Punched Cards</td>
+<td><a href="https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b">Link</a></td>
+<td>
+<a href="../../problems/codejam2022PunchedCards/src/main/solution.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+</tbody>
+</table>
