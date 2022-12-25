@@ -27,8 +27,18 @@
 </td>
 </tr>
 <tr>
+<td>Day 3</td>
+<td><a href="https://adventofcode.com/2022/day/3">Link</a></td>
+<td>
+<a href="../../problems/aoc2022day3/src/main/solution1.cpp"><code>cpp🐀</code></a>
+</td>
+<td>
+<a href="../../problems/aoc2022day3/src/main/solution2.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+<tr>
 <td>Day 2</td>
-<td><a href="https://adventofcode.com/2022/day/1">Link</a></td>
+<td><a href="https://adventofcode.com/2022/day/2">Link</a></td>
 <td>
 <a href="../../problems/aoc2022day2/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
@@ -40,10 +50,10 @@
 <td>Day 1</td>
 <td><a href="https://adventofcode.com/2022/day/1">Link</a></td>
 <td>
-<a href="../../problems/aoc2022day1/src/main/solution1.cpp"><code>cpp 🐀</code></a>
+<a href="../../problems/aoc2022day1/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
 <td>
-<a href="../../problems/aoc2022day1/src/main/solution2.cpp"><code>cpp 🐀</code></a>
+<a href="../../problems/aoc2022day1/src/main/solution2.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 </tbody>

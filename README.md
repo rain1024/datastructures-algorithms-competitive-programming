@@ -30,7 +30,7 @@ A data structure is a data organization, management, and storage format that is 
 <td>Bitwise</td>
 <td>
 <a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
-<a href="/concepts/cpp/bitwise.md"><code>cpp</code></a>
+<a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
@@ -76,13 +76,13 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Hash Table</td>
 <td>
-<a href="/concepts/cpp/hash_table.md"><code>cpp</code></a>
+<a href="/concepts/cpp/hash_table.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
 <td>Tree</td>
 <td>
-<a href="/concepts/cpp/tree.md"><code>cpp</code></a>
+<a href="/concepts/cpp/tree.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Sorting</td>
 <td>
-<a href="/concepts/cpp/sorting.md"><code>cpp</code></a>
+<a href="/concepts/cpp/sorting.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Brute force, Backtracking</td>
 <td>
-<a href="/concepts/cpp/brute_force.md"><code>cpp</code></a>
+<a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Range Queries (prefix sum)</td>
 <td>
-<a href="/concepts/cpp/range_queries.md"><code>cpp</code></a>
+<a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
@@ -122,13 +122,13 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Dynamic Programming (Basic)</td>
 <td>
-<a href="/concepts/cpp/dp_basic.md"><code>cpp</code></a>
+<a href="/concepts/cpp/dp_basic.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
 <td>Dynamic Programming (Intermediate)</td>
 <td>
-<a href="/concepts/cpp/dp_intermediate.md"><code>cpp</code></a>
+<a href="/concepts/cpp/dp_intermediate.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Graph representations</td>
 <td>
-<a href="/concepts/java/graph.md"><code>java</code></a>
+<a href="/concepts/java/graph.md"><code>java☕</code></a>
 <a href="/concepts/typescript/graph.md"><code>ts</code></a>
 </td>
 </tr>
