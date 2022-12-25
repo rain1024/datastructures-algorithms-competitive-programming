@@ -169,7 +169,7 @@ A data structure is a data organization, management, and storage format that is 
 
 Events of competitive programming
 
-* [Advent of Code 2022](collections/advent-of-code-2022/)
+* [🎃 Advent of Code 2022](collections/advent-of-code-2022/)
 
 ## Contributors
 

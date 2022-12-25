@@ -1,4 +1,4 @@
-# Advent of Code 2022
+# 🎃 Advent of Code 2022
 
 > Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 
@@ -24,6 +24,16 @@
 </td>
 <td>
 <a href="../../problems/aoc2022day24/src/main/solution1.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+<tr>
+<td>Day 4</td>
+<td><a href="https://adventofcode.com/2022/day/4">Link</a></td>
+<td>
+<a href="../../problems/aoc2022day4/src/main/solution1.cpp"><code>cpp🐀</code></a>
+</td>
+<td>
+<a href="../../problems/aoc2022day4/src/main/solution1.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 <tr>
