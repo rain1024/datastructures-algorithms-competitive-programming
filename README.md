@@ -29,8 +29,8 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Bitwise</td>
 <td>
-<a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
 <a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Linked List</td>
 <td>
-<a href="/concepts/python/linked-list.md"><code>py</code></a>
+<a href="/concepts/python/linked-list.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
 </td>
 <tr>
