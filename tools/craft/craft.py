@@ -62,9 +62,10 @@ if __name__ == "__main__":
         print("Boilderplate to generate workspace for solving problem.\n")
         print("Usage: python crape.py domain problem_id\n\n")
         print("Examples:\n")
-        print("\tpython crapy.py codeforces 100A\n")
-        print("\tpython crapy.py aoc 2022day2\n")
-        print("\tpython crapy.py codejam 2022PunchedCards\n")
+        print("\tpython craft.py codeforces 100A")
+        print("\tpython craft.py aoc 2022day2")
+        print("\tpython craft.py codejam 2022PunchedCards")
+        print("\tpython craft.py dsas _aog_week1_graph_decomposition1_1_finding_exit_from_maze")
         sys.exit(1)
     domain = sys.argv[1]
     problem_id = sys.argv[2]
