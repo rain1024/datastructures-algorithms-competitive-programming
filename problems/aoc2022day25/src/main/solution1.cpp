@@ -21,19 +21,14 @@ string encrypt(long long num){
     {-2, "="}
   };
   while(num > 0){
-    
-  }
-  
-  
-  cout << "value = " << value << endl;
-  s = s + m[value];
-  while(k > 0){
-    num = num - value * pow(5, k);
-    k--;
-    cout << "k = " << k << ", num = " << num << endl;
-   
-    cout << "vf = " << vf << ", value = " << value << endl;
-    s = s + m[value];
+    int d = num % 5;
+    if(d == 3 || d == 4){
+      d = d - 5;
+    }
+    // cout << "num = " << num << endl;
+    // cout << "d = " << d << endl;
+    s = m[d] + s;
+    num = (num - d)/5;
   }
   return s;
 }
@@ -51,7 +46,7 @@ long long decrypt(string line){
   for(int i=0; i<n; i++){
     num += m[line[i]] * pow(5, n-1-i);
   }
-  cout << num << endl;
+  // cout << num << endl;
   return num;
 }
 int main(int argc, char* argv[]){
@@ -59,14 +54,14 @@ int main(int argc, char* argv[]){
   string line;
   fstream f(input);
   long long result = 0;
-  // while(getline(f, line)){
-  //   if(line.size() != 0){
-  //     cout << line << endl;
-  //     result += decrypt(line);
-  //   }
-  // }
-  // cout << "result = " << result << endl;
-  // string s = encrypt(result);
-  string s = encrypt(4890);
+  while(getline(f, line)){
+    if(line.size() != 0){
+      cout << line << endl;
+      result += decrypt(line);
+    }
+  }
+  cout << "result = " << result << endl;
+  string s = encrypt(result);
+  // string s = encrypt(4890);
   cout << "decrypt = " << s << endl;
 }
