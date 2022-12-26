@@ -22,7 +22,7 @@
 <td colspan="3" align="left"><b>Week 1: Graph Decomposition</b></td>
 </tr>
 <tr>
-<td>1 Finding Exit From Maze</td>
+<td>1. Finding Exit From Maze</td>
 <td><a href="../../problems/dsas_aog_week1_graph_decomposition1_1_finding_exit_from_maze/doc/week1_graph_decomposition1.pdf">Link</a></td>
 <td>
 <a href="../../problems/dsas_aog_week1_graph_decomposition1_1_finding_exit_from_maze/src/main/reachability.cpp"><code>cpp🐀</code></a>
