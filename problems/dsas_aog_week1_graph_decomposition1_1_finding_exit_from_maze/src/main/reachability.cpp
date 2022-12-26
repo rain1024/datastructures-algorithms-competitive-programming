@@ -1,9 +1,9 @@
 #include <iostream>
-#include <vector>
 #include <queue>
+#include <vector>
 
-using std::vector;
 using std::pair;
+using std::vector;
 
 #define MAX_N 1000
 
@@ -13,11 +13,11 @@ using namespace std;
 int cc[MAX_N];
 bool visited[MAX_N];
 
-void dfs(vector<vector<int>> adj, int i, int cci){
+void dfs(vector<vector<int>> adj, int i, int cci) {
   visited[i] = true;
   cc[i] = cci;
-  for(auto j: adj[i]){
-    if(!visited[j]){
+  for (auto j : adj[i]) {
+    if (!visited[j]) {
       dfs(adj, j, cci);
     }
   }
@@ -25,8 +25,8 @@ void dfs(vector<vector<int>> adj, int i, int cci){
 
 int reach(vector<vector<int>> adj, int x, int y, int n) {
   int cci = 1;
-  for(int i=0; i<n; i++){
-    if(!visited[i]){
+  for (int i = 0; i < n; i++) {
+    if (!visited[i]) {
       dfs(adj, i, cci++);
     }
   }
@@ -36,7 +36,7 @@ int reach(vector<vector<int>> adj, int x, int y, int n) {
 int main() {
   size_t n, m;
   std::cin >> n >> m;
-  vector<vector<int> > adj(n, vector<int>());
+  vector<vector<int>> adj(n, vector<int>());
   for (size_t i = 0; i < m; i++) {
     int x, y;
     std::cin >> x >> y;
