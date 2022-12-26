@@ -8,9 +8,6 @@ From wikipedia
 
 ## 💻 Queue Implementation in C++
 
-
-Here are the implementation of [awesome type] in `Awesome Language` from scratch.
-
 ℹ️ C++ has standard built-in [queue](https://en.cppreference.com/w/cpp/container/queue) in `std` library.
 
 
