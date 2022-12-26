@@ -28,6 +28,13 @@
 <a href="../../problems/dsas_aog_week1_graph_decomposition1_1_finding_exit_from_maze/src/main/reachability.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
+<tr>
+<td>2. Adding Exits To Maze</td>
+<td><a href="../../problems/dsas_aog_week1_graph_decomposition1_2_adding_exits_to_maze/doc/week1_graph_decomposition1.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week1_graph_decomposition1_2_adding_exits_to_maze/src/main/connected_components.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
 </tbody>
 </table>
 
