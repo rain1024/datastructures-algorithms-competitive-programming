@@ -11,8 +11,6 @@
 
 ### [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms)
 
-* [x] Week 1: Graph Decomposition - 1 Finding Exit From Maze
-
 <table>
 <thead>
 <th></th>
@@ -21,10 +19,13 @@
 </thead>
 <tbody>
 <tr>
-<td>d1000000</td>
-<td><a href="https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471">Link</a></td>
+<td colspan="2" align="center"><b>Week 1: Graph Decomposition</b></td>
+</tr>
+<tr>
+<td>1 Finding Exit From Maze</td>
+<td><a href="../../problems/dsas_aog_week1_graph_decomposition1_1_finding_exit_from_maze/doc/week1_graph_decomposition1.pdf">Link</a></td>
 <td>
-<a href="../../problems/codejam2022d1000000/src/main/solution.cpp"><code>cpp🐀</code></a>
+<a href="../../problems/dsas_aog_week1_graph_decomposition1_1_finding_exit_from_maze/src/main/reachability.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 </tbody>
