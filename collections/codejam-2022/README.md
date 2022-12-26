@@ -1,10 +1,8 @@
-# 🎃 Google Code Jam 2022
+# 🔰 Google Code Jam 2022
 
 * Website: https://codingcompetitions.withgoogle.com/codejam/archive/2022
 
-## Problems
-
-Qualification Round
+### Qualification Round
 
 <table>
 <thead>
