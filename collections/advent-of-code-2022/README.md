@@ -17,6 +17,15 @@
 </thead>
 <tbody>
 <tr>
+<td>Day 25 (Part 1)</td>
+<td><a href="https://adventofcode.com/2022/day/25">Link</a></td>
+<td>
+<a href="../../problems/aoc2022day25/src/main/solution1.cpp"><code>cpp🐀</code></a>
+</td>
+<td>
+</td>
+</tr>
+<tr>
 <td>Day 24 (!)</td>
 <td><a href="https://adventofcode.com/2022/day/24">Link</a></td>
 <td>
