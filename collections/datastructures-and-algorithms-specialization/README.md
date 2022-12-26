@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr>
-<td colspan="2" align="center"><b>Week 1: Graph Decomposition</b></td>
+<td colspan="3" align="left"><b>Week 1: Graph Decomposition</b></td>
 </tr>
 <tr>
 <td>1 Finding Exit From Maze</td>
