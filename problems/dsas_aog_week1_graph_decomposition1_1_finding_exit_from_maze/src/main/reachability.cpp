@@ -13,34 +13,23 @@ using namespace std;
 int cc[MAX_N];
 bool visited[MAX_N];
 
-int reach(vector<vector<int> > &adj, int x, int y, int n) {
-  int current_cc = 1;
-  queue<int> q;
-  q.push(1);
-  while(!q.empty()){
-    int node = q.front();
-    q.pop();
-    visited[node] = true;
-    cc[node] = current_cc;
-    for(auto neighbor : adj[node]){
-      if(!visited[neighbor]){
-        q.push(neighbor);
-      };
-    }
-    
-    if(q.empty()){
-      for(int i=0; i<n; i++){
-        if(!visited[i]){
-          q.push(i);
-          current_cc++;
-        }
-      }
+void dfs(vector<vector<int>> adj, int i, int cci){
+  visited[i] = true;
+  cc[i] = cci;
+  for(auto j: adj[i]){
+    if(!visited[j]){
+      dfs(adj, j, cci);
     }
   }
-  // for(int i=0; i<n; i++){
-  //   cout << "cc[" << i << "] = " << cc[i] << endl;
-  // }
-  //write your code here
+}
+
+int reach(vector<vector<int>> adj, int x, int y, int n) {
+  int cci = 1;
+  for(int i=0; i<n; i++){
+    if(!visited[i]){
+      dfs(adj, i, cci++);
+    }
+  }
   return cc[x] == cc[y];
 }
 
