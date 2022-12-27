@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr>
-<td colspan="3" align="left"><b>Week 1: Graph Decomposition</b></td>
+<td colspan="3" align="left"><b>Week 1: Decomposition of Graph 1</b></td>
 </tr>
 <tr>
 <td>1. Finding Exit From Maze</td>
@@ -33,6 +33,16 @@
 <td><a href="../../problems/dsas_aog_week1_graph_decomposition1_2_adding_exits_to_maze/doc/week1_graph_decomposition1.pdf">Link</a></td>
 <td>
 <a href="../../problems/dsas_aog_week1_graph_decomposition1_2_adding_exits_to_maze/src/main/connected_components.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="left"><b>Week 2: Decomposition of Graph 2</b></td>
+</tr>
+<tr>
+<td>1. Checking Consistency of CS Curriculum</td>
+<td><a href="../../problems/dsas_aog_week2_graph_decomposition2_1_cs_curriculum/doc/week2_graph_decomposition2.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week2_graph_decomposition2_1_cs_curriculum/src/main/acyclicity.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 </tbody>
