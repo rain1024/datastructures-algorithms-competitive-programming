@@ -164,6 +164,11 @@ A data structure is a data organization, management, and storage format that is 
 <td>
 </td>
 </tr>
+<tr>
+<td>Topology Sort</td>
+<td>
+</td>
+</tr>
 </tbody>
 </table>
 
