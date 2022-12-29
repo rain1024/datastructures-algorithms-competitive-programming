@@ -176,7 +176,7 @@ A data structure is a data organization, management, and storage format that is 
 
 **Courses & Specialization**
 
-* [🍨 Data Structures and Algorithms Specialization](collections/datastructures-and-algorithms-specialization/)
+* [🍨 Data Structures and Algorithms Specialization](collections/datastructures-and-algorithms-specialization/), University of California San Diego
 
 
 ## Contributors

@@ -6,7 +6,7 @@ Run program with an example
 
 ```
 bazel run src/main:acyclicity < tests/data/1.in
-bazel run src/main:acyclicity < tests/data/1.in
+bazel run src/main:acyclicity < tests/data/2.in
 ```
 
 Test program
