@@ -59,6 +59,16 @@
 <a href="../../problems/dsas_aog_week2_graph_decomposition2_3_intersection_reachability/src/main/strongly_connected.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
+<tr>
+<td colspan="3" align="left"><b>Week 3: Paths in Graphs</b></td>
+</tr>
+<tr>
+<td>1 Flight Segments</td>
+<td><a href="../../problems/dsas_aog_week3_paths_in_graphs1_1_flight_segments/doc/week3_paths_in_graphs1.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week3_paths_in_graphs1_1_flight_segments/src/main/bfs.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
 </tbody>
 </table>
 
