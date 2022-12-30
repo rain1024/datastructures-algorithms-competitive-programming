@@ -63,10 +63,17 @@
 <td colspan="3" align="left"><b>Week 3: Paths in Graphs</b></td>
 </tr>
 <tr>
-<td>1 Flight Segments</td>
+<td>1. Flight Segments</td>
 <td><a href="../../problems/dsas_aog_week3_paths_in_graphs1_1_flight_segments/doc/week3_paths_in_graphs1.pdf">Link</a></td>
 <td>
 <a href="../../problems/dsas_aog_week3_paths_in_graphs1_1_flight_segments/src/main/bfs.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+<tr>
+<td>2. Bipartite</td>
+<td><a href="../../problems/dsas_aog_week3_paths_in_graphs1_2_bipartite/doc/week3_paths_in_graphs1.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week3_paths_in_graphs1_2_bipartite/src/main/bipartite.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
 </tbody>
