@@ -45,6 +45,20 @@
 <a href="../../problems/dsas_aog_week2_graph_decomposition2_1_cs_curriculum/src/main/acyclicity.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
+<tr>
+<td>2. Determining an Order of Courses</td>
+<td><a href="../../problems/dsas_aog_week2_graph_decomposition2_2_order_of_courses/doc/week2_graph_decomposition2.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week2_graph_decomposition2_2_order_of_courses/src/main/toposort.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
+<tr>
+<td>3. Intersection Reachability</td>
+<td><a href="../../problems/dsas_aog_week2_graph_decomposition2_3_intersection_reachability/doc/week2_graph_decomposition2.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week2_graph_decomposition2_3_intersection_reachability/src/main/strongly_connected.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
 </tbody>
 </table>
 
