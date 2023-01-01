@@ -1,5 +1,24 @@
 # History
 
+## 1.0.0 (2023-01-01)
+
+* GH-13: Solve problem codejam2022PunchedCards by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/107
+* GH-13: Solve problem codejam20223DPrinting by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/108
+* GH-13: Solve problem codejam2022d1000000 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/109
+* GH-96: Solve problem aoc2022day5 part 1 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/110
+* GH-20: Queue in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/112
+* GH-111: Solve problem dsas_aog_week1_graph_decomposition1_1_finding_exit_from_maze by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/113
+* GH-111: Solve problem dsas_aog_week1_graph_decomposition1_2_adding_exits_to_maze by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/114
+* GH-111: Solve problem dsas_aog_week2_graph_decomposition2_1_cs_curriculum by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/115
+* GH-111: Solve problem dsas_aog_week2_graph_decomposition2_1_cs_curriculum by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/116
+* GH-117: Topology Sort in C++ (initial) by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/118
+* GH-111: Solve problem dsas_aog_week2_graph_decomposition2_3_intersection_reachability by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/119
+* GH-111: Solve problem dsas_aog_week3_paths_in_graphs1_1_flight_segments by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/121
+* GH-111: Solve problem dsas_aog_week3_paths_in_graphs1_2_bipartite by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/122
+* GH-88: add python hash table by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/123
+* GH-111: Solve problem dsas_aog_week4_paths_in_graphs2_1_minimum_flight_cost by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/124
+
+
 ## 0.12.3 (2022-12-25)
 
 * GH-42: Solve codeforces 1762A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/89
