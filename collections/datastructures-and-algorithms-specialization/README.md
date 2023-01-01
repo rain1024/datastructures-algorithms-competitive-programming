@@ -76,6 +76,16 @@
 <a href="../../problems/dsas_aog_week3_paths_in_graphs1_2_bipartite/src/main/bipartite.cpp"><code>cpp🐀</code></a>
 </td>
 </tr>
+<tr>
+<td colspan="3" align="left"><b>Week 4: Paths in Graphs 2</b></td>
+</tr>
+<tr>
+<td>1. Minimum Flight Cost</td>
+<td><a href="../../problems/dsas_aog_week4_paths_in_graphs2_1_minimum_flight_cost/week4_paths_in_graphs2.pdf">Link</a></td>
+<td>
+<a href="../../problems/dsas_aog_week4_paths_in_graphs2_1_minimum_flight_cost/src/main/dijkstra.cpp"><code>cpp🐀</code></a>
+</td>
+</tr>
 </tbody>
 </table>
 
