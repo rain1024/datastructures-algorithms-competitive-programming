@@ -9,7 +9,7 @@ class Visualizer:
     def __init__(self):
         pass
 
-    def visualize(self, graph: Graph) -> List[GraphicObject]:
+    def visualize(self, graph: Graph, layout='arc-diagram') -> List[GraphicObject]:
         """Generates a list of GraphicObject instances based on the given graph.
 
         Args:
@@ -25,7 +25,7 @@ class Visualizer:
             y = 50
             positions[node] = (x, y)
             graphic_objects.append(Circle((x, y), 10, fill="white", stroke="black"))
-            graphic_objects.append(Text(node, (x, y), style="text-anchor:middle"))
+            graphic_objects.append(Text(node, (x, y), style="text-anchor:middle;baseline-shift: -25%;"))
         edges = []
         for u, vs in graph.edges.items():
             for v in vs:
