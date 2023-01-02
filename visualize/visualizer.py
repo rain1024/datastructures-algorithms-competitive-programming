@@ -86,4 +86,4 @@ class SvgVisualizer(Visualizer):
         """
         x1, y1 = line.start
         x2, y2 = line.end
-        return svgwrite.shapes.Line(start=(x1, y1), end=(x2, y2))
+        return svgwrite.shapes.Line(start=(x1, y1), end=(x2, y2), stroke='black')
