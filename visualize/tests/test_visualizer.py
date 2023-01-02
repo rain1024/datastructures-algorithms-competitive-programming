@@ -1,59 +1,74 @@
 import unittest
-from graphics import Circle, Rectangle, Line
+from graphics import Circle, Line, Arrow
 from graph import Graph
-from graphics import GraphicObject
 from visualizer import Visualizer, SvgVisualizer
 import svgwrite
 import os
 
 
 class TestVisualizer(unittest.TestCase):
-    def test_visualize(self):
-        # Create a graph with two nodes and one edge
+    def test_visualize_undirected(self):
+        # Create an undirected graph with 3 nodes and 2 edges
         graph = Graph()
         graph.add_edge(1, 2)
-
-        # Create an instance of Visualizer
+        graph.add_edge(2, 3)
+        # Ensure the correct GraphicObject instances are returned
         visualizer = Visualizer()
-
-        # Call the visualize method and store the result in a variable
         graphic_objects = visualizer.visualize(graph)
-
-        self.assertEqual(len(graphic_objects), 4)
-
-        # Check that the first element is a Circle
+        self.assertEqual(len(graphic_objects), 5)
         self.assertIsInstance(graphic_objects[0], Circle)
-
-        # Check that the second element is a Line
-        self.assertIsInstance(graphic_objects[3], Line)
+        self.assertIsInstance(graphic_objects[1], Circle)
+        self.assertIsInstance(graphic_objects[4], Line)
+    
+    def test_visualize_directed(self):
+        # Create a directed graph with 3 nodes and 2 edges
+        graph = Graph(directed=True)
+        graph.add_edge(1, 2)
+        graph.add_edge(2, 3)
+        # Ensure the correct GraphicObject instances are returned
+        visualizer = SvgVisualizer()
+        graphic_objects = visualizer.visualize(graph)
+        self.assertEqual(len(graphic_objects), 5)
+        self.assertIsInstance(graphic_objects[0], Circle)
+        self.assertIsInstance(graphic_objects[1], Circle)
+        self.assertIsInstance(graphic_objects[4], Arrow)
 
 
 class TestSvgVisualizer(unittest.TestCase):
     def setUp(self):
         self.skip_tear_down = False
-        self.filepath = ""
+        self.directed_filepath = "directed_graph.svg"
+        self.undirected_filepath = "undirected_graph.svg"
+        undirected_graph = Graph()
+        undirected_graph.add_edge(1, 2)
+        undirected_graph.add_edge(2, 3)
+        undirected_graph.add_edge(3, 4)
+        self.undirected_graph = undirected_graph
+
+        directed_graph = Graph(directed=True)
+        directed_graph.add_edge(1, 2)
+        directed_graph.add_edge(2, 3)
+        directed_graph.add_edge(3, 4)
+        self.directed_graph = directed_graph
+
+    
 
     def tearDown(self):
         if self.skip_tear_down:
             return
-        # Delete the file created by the test
-        try:
-            os.remove(self.filepath)
-        except FileNotFoundError:
-            pass
+        # Delete the files created by the test
+        for filepath in [self.directed_filepath, self.undirected_filepath]:
+            try:
+                os.remove(filepath)
+            except FileNotFoundError:
+                pass
 
     def test_draw(self):
-        # Create a Graph object with a few nodes and edges
-        graph = Graph()
-        graph.add_edge(1, 2)
-        graph.add_edge(2, 3)
-        graph.add_edge(3, 4)
-
         # Create an instance of SvgVisualizer
         visualizer = SvgVisualizer()
 
         # Call the draw method
-        objects = visualizer.visualize(graph)
+        objects = visualizer.visualize(self.directed_graph)
         drawing = visualizer.draw(objects)
 
         # Check that the returned value is an svgwrite.Drawing object
@@ -61,21 +76,18 @@ class TestSvgVisualizer(unittest.TestCase):
 
     def test_write(self):
         # Create a Graph object with a few nodes and edges
-        self.filepath = "test.svg"
-        graph = Graph()
-        graph.add_edge(1, 2)
-        graph.add_edge(2, 3)
-        graph.add_edge(3, 4)
+        
 
         # Create an instance of SvgVisualizer
         visualizer = SvgVisualizer()
-        graphic_objects = visualizer.visualize(graph)
 
-        # Call the write method
-        visualizer.write(self.filepath, graphic_objects)
+        graphic_objects = visualizer.visualize(self.directed_graph)
+        visualizer.write(self.directed_filepath, graphic_objects)
+        self.assertTrue(os.path.exists(self.directed_filepath))
 
-        # Check that the file was created
-        self.assertTrue(os.path.exists(self.filepath))
+        graphic_objects = visualizer.visualize(self.undirected_graph)
+        visualizer.write(self.undirected_filepath, graphic_objects)
+        self.assertTrue(os.path.exists(self.undirected_filepath))
 
         self.skip_tear_down = True
 

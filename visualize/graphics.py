@@ -20,3 +20,15 @@ class Line(GraphicObject):
         super().__init__("line", **kwargs)
         self.start = start
         self.end = end
+
+class Arrow(GraphicObject):
+    def __init__(self, start, end, **kwargs):
+        super().__init__("arrow", **kwargs)
+        self.start = start
+        self.end = end
+
+class Text(GraphicObject):
+    def __init__(self, text, position, **kwargs):
+        super().__init__("text", **kwargs)
+        self.text = text
+        self.position = position
