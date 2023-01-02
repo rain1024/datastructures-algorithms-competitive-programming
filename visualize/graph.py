@@ -26,7 +26,7 @@ def main():
     # Create a list of edges for a tree with 7 nodes
     edges = {1: [2, 3], 2: [3, 4, 5], 3: [6, 7]}
 
-    graph = Graph(7, edges)
+    graph = Graph()
 
 
 if __name__ == "__main__":
