@@ -7,3 +7,6 @@ bazel-testlogs
 bazel-*
 *.md2
 test_data
+__pycache__
+htmlcov
+.coverage
