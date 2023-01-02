@@ -109,7 +109,7 @@ class TestTextObject(unittest.TestCase):
         text = Text(text="Hello", position=(100, 100))
         self.assertEqual(text.type, "text")
         self.assertEqual(text.position, (100, 100))
-        self.assertEqual(text.text, "Hello")
+        self.assertEqual(text.content, "Hello")
 
 
 if __name__ == "__main__":

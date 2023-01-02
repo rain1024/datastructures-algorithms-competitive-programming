@@ -30,5 +30,5 @@ class Arrow(GraphicObject):
 class Text(GraphicObject):
     def __init__(self, text, position, **kwargs):
         super().__init__("text", **kwargs)
-        self.text = text
+        self.content = text
         self.position = position

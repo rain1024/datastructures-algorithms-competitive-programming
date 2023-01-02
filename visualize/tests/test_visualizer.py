@@ -1,5 +1,5 @@
 import unittest
-from graphics import Circle, Line, Arrow
+from graphics import Circle, Line, Arrow, Text
 from graph import Graph
 from visualizer import Visualizer, SvgVisualizer
 import svgwrite
@@ -15,10 +15,12 @@ class TestVisualizer(unittest.TestCase):
         # Ensure the correct GraphicObject instances are returned
         visualizer = Visualizer()
         graphic_objects = visualizer.visualize(graph)
-        self.assertEqual(len(graphic_objects), 5)
+        self.assertEqual(len(graphic_objects), 8)
         self.assertIsInstance(graphic_objects[0], Circle)
-        self.assertIsInstance(graphic_objects[1], Circle)
-        self.assertIsInstance(graphic_objects[4], Line)
+        self.assertIsInstance(graphic_objects[1], Text)
+        self.assertIsInstance(graphic_objects[2], Circle)
+        self.assertIsInstance(graphic_objects[3], Text)
+        self.assertIsInstance(graphic_objects[7], Line)
     
     def test_visualize_directed(self):
         # Create a directed graph with 3 nodes and 2 edges
@@ -28,10 +30,12 @@ class TestVisualizer(unittest.TestCase):
         # Ensure the correct GraphicObject instances are returned
         visualizer = SvgVisualizer()
         graphic_objects = visualizer.visualize(graph)
-        self.assertEqual(len(graphic_objects), 5)
+        self.assertEqual(len(graphic_objects), 8)
         self.assertIsInstance(graphic_objects[0], Circle)
-        self.assertIsInstance(graphic_objects[1], Circle)
-        self.assertIsInstance(graphic_objects[4], Arrow)
+        self.assertIsInstance(graphic_objects[1], Text)
+        self.assertIsInstance(graphic_objects[2], Circle)
+        self.assertIsInstance(graphic_objects[3], Text)
+        self.assertIsInstance(graphic_objects[7], Arrow)
 
 
 class TestSvgVisualizer(unittest.TestCase):

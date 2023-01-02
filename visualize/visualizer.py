@@ -1,7 +1,7 @@
 import math
 from typing import List
 from graph import Graph
-from graphics import GraphicObject, Circle, Line, Arrow
+from graphics import GraphicObject, Circle, Line, Arrow, Text
 import svgwrite
 
 
@@ -21,10 +21,11 @@ class Visualizer:
         graphic_objects = []
         positions = {}
         for i, node in enumerate(graph.nodes):
-            x = 80 + i * 30
+            x = 80 + i * 50
             y = 50
             positions[node] = (x, y)
-            graphic_objects.append(Circle((x, y), 10))
+            graphic_objects.append(Circle((x, y), 10, fill="white", stroke="black"))
+            graphic_objects.append(Text(node, (x, y), style="text-anchor:middle"))
         edges = []
         for u, vs in graph.edges.items():
             for v in vs:
@@ -59,6 +60,8 @@ class SvgVisualizer(Visualizer):
                 self._line_to_svg(obj)
             elif obj.type == "arrow":
                 self._arrow_to_svg(obj)
+            elif obj.type == "text":
+                self._text_to_svg(obj)
             # Add code to handle other types of GraphicObjects
         return self.dwg
 
@@ -83,7 +86,7 @@ class SvgVisualizer(Visualizer):
         """
         x, y = circle.center
         r = circle.radius
-        obj = svgwrite.shapes.Circle(center=(x, y), r=r)
+        obj = svgwrite.shapes.Circle(center=(x, y), r=r, **circle.kwargs)
         self.dwg.add(obj)
         return obj
 
@@ -128,3 +131,17 @@ class SvgVisualizer(Visualizer):
         self.dwg.add(line)
         self.dwg.add(arrowhead)
         return objects
+
+    def _text_to_svg(self, text: Text) -> svgwrite.text.Text:
+        """Converts a Text instance to an SVG Text object.
+        Args:
+            text: A Text instance.
+
+        Returns:
+            An svgwrite.text.Text object.
+        """
+        x, y = text.position
+        content = text.content
+        obj = svgwrite.text.Text(content, insert=(x, y), **text.kwargs)
+        self.dwg.add(obj)
+        return obj
