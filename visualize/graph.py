@@ -1,5 +1,3 @@
-import svgwrite
-
 class Graph:
     def __init__(self, directed=False):
         self.nodes = set()
@@ -21,37 +19,15 @@ class Graph:
                 self.edges[v] = [u]
 
 
-
 def main():
     # Create a list of edges for a tree with 7 nodes
-    edges = {
-        1: [2, 3],
-        2: [3, 4, 5],
-        3: [6, 7]
-    }
+    edges = {1: [2, 3], 2: [3, 4, 5], 3: [6, 7]}
 
-if __name__ == '__main__':
     # Create a list of edges for a tree with 7 nodes
-    edges = {
-        1: [2, 3],
-        2: [3, 4, 5],
-        3: [6, 7]
-    }
+    edges = {1: [2, 3], 2: [3, 4, 5], 3: [6, 7]}
 
-    # Create an instance of the Graph class with 7 nodes and the list of edges
     graph = Graph(7, edges)
 
-    # Generate an SVG image of the tree and save it to a file
-    graph.renderSvg('graph.svg')
 
-class Visualizer:
-    def __init__(self):
-        pass
-
-    def visualize(self, graph):
-        # calculate the position of each nodes
-        positions = []
-        for i, u in enumerate(graph.nodes):
-            x = i * 30
-            y = 50
-            self.position.push((x, y))
+if __name__ == "__main__":
+    main()
