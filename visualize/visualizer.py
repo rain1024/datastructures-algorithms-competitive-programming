@@ -20,11 +20,12 @@ class Visualizer:
         """
         graphic_objects = []
         positions = {}
+        NODE_RADIUS = 10
         for i, node in enumerate(graph.nodes):
             x = 80 + i * 50
             y = 50
             positions[node] = (x, y)
-            graphic_objects.append(Circle((x, y), 10, fill="white", stroke="black"))
+            graphic_objects.append(Circle((x, y), NODE_RADIUS, fill="white", stroke="black"))
             graphic_objects.append(Text(node, (x, y), style="text-anchor:middle;baseline-shift: -25%;"))
         edges = []
         for u, vs in graph.edges.items():
@@ -32,10 +33,14 @@ class Visualizer:
                 if graph.directed or (u <= v and not graph.directed):
                     edges.append((u, v))
         for u, v in edges:
+            ux, uy = positions[u]
+            vx, vy = positions[v]
+            start = ux + NODE_RADIUS, uy
+            end =  vx - NODE_RADIUS, vy
             if graph.directed:
-                graphic_objects.append(Arrow(positions[u], positions[v]))
+                graphic_objects.append(Arrow(start, end))
             else:
-                graphic_objects.append(Line(positions[u], positions[v]))
+                graphic_objects.append(Line(start, end))
         return graphic_objects
 
 
