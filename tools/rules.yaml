@@ -1,9 +1,12 @@
 - name: File must start with Heading 1
   type: regex
   search: "^# .*\n"
-- name: Content must have "From wikipedia" line
-  type: regex
-  search: "From wikipedia\n"
+
+# Deprecated Rule! Remove from 1.0.1
+# - name: Content must have "From wikipedia" line
+#   type: regex
+#   search: "From wikipedia\n"
+
 # Section "Further Reading"
 - name: Content must have "Further Reading" section
   type: regex
