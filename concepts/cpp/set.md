@@ -8,4 +8,6 @@ Sets are typically implemented using balanced binary search trees, such as red-b
 
 In addition to the basic operations of inserting, deleting, and searching for elements, sets also support a number of other operations, such as union, intersection, and difference.
 
+![](../abstract/data-structures/set_2.png)
+
 Sets are often used to implement logic operations in computer science, such as union-find algorithms, and are also useful for efficiently storing and manipulating large collections of data.
