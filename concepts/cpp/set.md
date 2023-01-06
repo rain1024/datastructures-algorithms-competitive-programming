@@ -14,9 +14,9 @@ Sets are often used to implement logic operations in computer science, such as u
 
 ## 💻 Set Implementation in C++
 
-In C++, the std::set is a container that stores a collection of unique elements in a specific order. The elements in a set are sorted according to their keys, which are stored in the set.
+In C++, the `std::set` is a container that stores a collection of unique elements in a specific order. The elements in a set are sorted according to their keys, which are stored in the set.
 
-Here is an example of how to use std::set in C++:
+Here is an example of how to use `std::set` in C++:
 
 ```cpp
 #include <iostream>
@@ -32,7 +32,7 @@ int main() {
   s.insert(5);
   s.insert(2); // This element is not inserted, since 2 is already in the set
 
-  // Print the elements of the set
+  cout << "Print the elements of the set" << endl;
   for (int x : s) {
     cout << x << endl;
   }
@@ -44,6 +44,7 @@ int main() {
 Output:
 
 ```
+Print the elements of the set
 2
 3
 5
