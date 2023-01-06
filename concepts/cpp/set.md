@@ -22,20 +22,29 @@ Here is an example of how to use std::set in C++:
 #include <iostream>
 #include <set>
 
+using namespace std;
 int main() {
-  std::set<int> s;
+  set<int> s;
 
   // Insert elements into the set
+  s.insert(2);
   s.insert(3);
-  s.insert(1);
-  s.insert(4);
-  s.insert(1); // This element is not inserted, since 1 is already in the set
+  s.insert(5);
+  s.insert(2); // This element is not inserted, since 2 is already in the set
 
   // Print the elements of the set
   for (int x : s) {
-    std::cout << x << std::endl;
+    cout << x << endl;
   }
 
   return 0;
 }
+```
+
+Output:
+
+```
+2
+3
+5
 ```
