@@ -23,6 +23,7 @@ Here is an example of how to use `std::set` in C++:
 #include <set>
 
 using namespace std;
+
 int main() {
   set<int> s;
 
@@ -65,6 +66,7 @@ Here's an example of how you can use `set_union`, `set_intersection` and `set_di
 #include <set>
 
 using namespace std;
+
 int main() {
   set<int> A = {2, 3, 5};
   set<int> B = {1, 4, 5};
