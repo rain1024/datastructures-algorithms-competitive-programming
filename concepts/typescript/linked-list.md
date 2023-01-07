@@ -107,6 +107,6 @@ console.log(linked_list_2.toString());
 ```
 ## 🔗 Further Reading
 
-* 2022, ▶️ [Data Structures in Typescript #5 - Linked List Intro](https://www.youtube.com/watch?v=oXXLFvtG6-Q&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang
+* ▶️ [Data Structures in Typescript #5 - Linked List Intro](https://www.youtube.com/watch?v=oXXLFvtG6-Q&list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd&index=5&ab_channel=JeffZhang), Jeff Zhang
 * 2017, [LinkedList implementation in Typescript](https://stackoverflow.com/questions/42588925/linkedlist-implementation-in-typescript), stackoverflow.com
 * [Linked Lists Introduction](https://www.youtube.com/watch?v=-Yn5DU0_-lw&t=7s&ab_channel=WilliamFiset), WilliamFiset

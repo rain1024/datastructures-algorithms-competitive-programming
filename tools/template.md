@@ -52,4 +52,4 @@ File [**`example.cpp`**](code/example.cpp)
 
 * yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
 * yyyy, [Awesome Reference Link](Awesome Reference Link), awesome.reference
-* yyyy, ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference
+* ▶️ [Awesome Reference Link](Awesome Reference Link), awesome.reference
