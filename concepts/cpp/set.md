@@ -122,11 +122,11 @@ Set Difference: B - A
 
 | Operation      | Method          | Time complexity |
 |----------------|-----------------|-----------------|
-| Insert         | insert          | O(log n)        |
-| Delete         | erase           | O(log n)        |
-| Union          | set_union       | O(m log n)      |
-| Intersection   | set_intersection| O(m log n)      |
-| Difference     | set_difference  | O(m log n)      |
+| Insert         | insert          | $$O(log n)$$    |
+| Delete         | erase           | $$O(log n)$$    |
+| Union          | set_union       | $$O(m log n)$$  |
+| Intersection   | set_intersection| $$O(m log n)$$  |
+| Difference     | set_difference  | $$O(m log n)$$  |
 
 ## 🔗 Further Reading
 
