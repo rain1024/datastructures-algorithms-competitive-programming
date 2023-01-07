@@ -134,6 +134,7 @@ Set Difference: B - A
 
 * [Set (abstract data type)](https://en.wikipedia.org/wiki/Set_(abstract_data_type)), wikipedia
 * ▶️ [Set in C++ STL](https://www.youtube.com/watch?v=4FJrP6aAwSs&ab_channel=Codevolution), GeeksforGeeks
+* [set/set](https://cplusplus.com/reference/set/set/), cplusplus.com/reference
 * [set_union](https://cplusplus.com/reference/algorithm/set_union/), cplusplus.com/reference
 * [set_union](https://cplusplus.com/reference/algorithm/set_union/), cplusplus.com/reference
 * [set_intersection](https://cplusplus.com/reference/algorithm/set_intersection/), cplusplus.com/reference
