@@ -12,7 +12,7 @@ def check_content(file, rules):
 
     for rule in rules:
         search = rule['search']
-        result = re.search(search, content, re.UNICODE | re.MULTILINE)
+        result = re.search(search, content, re.UNICODE | re.MULTILINE | re.DOTALL)
         if not result:
             print(f"File: {file}")
             message = f"[❌] {rule['name']}\n{rule}"
@@ -32,4 +32,4 @@ if __name__ == '__main__':
     content_files = glob.glob("concepts/**/*.md")
     for content_file in content_files:
         check_content(content_file, rules)
-    print("✅ Check content files")
+    print("✅ All checks were successful.")
