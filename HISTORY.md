@@ -1,5 +1,10 @@
 # History
 
+## 1.0.1 (2023-01-08)
+
+* GH-129: Set in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/130
+* GH-128: add python queue by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/131
+
 ## 1.0.0 (2023-01-01)
 
 * GH-13: Solve problem codejam2022PunchedCards by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/107
