@@ -23,6 +23,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Big-O</td>
 <td>
+<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/big-o.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </td>
