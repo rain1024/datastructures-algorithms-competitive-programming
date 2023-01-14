@@ -4,6 +4,8 @@
 
 ## Constant Run Time
 
+$O(1)$: Constant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
+
 ```cpp
 #include <iostream>
 
