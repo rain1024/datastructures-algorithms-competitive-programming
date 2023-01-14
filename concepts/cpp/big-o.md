@@ -4,7 +4,7 @@
 
 ## Constant Run Time
 
-$O(1)$: Constant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
+$O(1)$: Ctaonstant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
 
 ```cpp
 #include <iostream>
@@ -31,41 +31,64 @@ int main() {
 
 ## Linear Run Time
 
-```js
-const contains = (target: number, nums: number[]) => {
-    for(let num of nums){ // n times
-        if(target == num){
+$O(n)$: Linear time, the time complexity of the algorithm increases linearly with the size of the input. Examples include linear search, traversing a list, or calculating the sum of an array.
+
+```cpp
+#include <iostream>
+#include <vector>
+using namespace std;
+
+bool isContains(int target, vector<int> numbers){
+    for(int number: numbers){
+        if(target == number){
             return true;
         }
     }
     return false;
 }
 
-console.log(contains(8, [1, 2, 3, 4, 5, 8, 10]));         // true
-                                                          // O(n)
+int main() {
+    cout << isContains(8, {1, 2, 3, 4, 5, 8, 10}) << endl;          // 1
+                                                                    // O(n)
 
-console.log(contains(8, [1, 2, 3, 4, 5, 6, 7, 9, 10]));  // false
-                                                         // O(n)
+    cout << isContains(8, {1, 2, 3, 4, 5, 6, 7, 9, 10}) << endl;    // 0
+                                                                    // O(n)
 
-console.log(contains(8, [1, 2, 100, 200, 300, 5000]));   // false
-                                                         // O(n)
+    cout << isContains(8, {1, 2, 100, 200, 300, 500}) << endl;      // 0
+                                                                    // O(n)
+}
 ```
 
 ## Quadaric Run Time
 
-```js
-const printPairs = (n: number) => {
-    for(let i=1; i<=n; i++){ // n times 
-        for(let j=i+1; j<=n; j++){ // n - i times
-            console.log(`(${i}, ${j})`); // 1 operation
+$O(n^2)$: Quadratic time, the time complexity of the algorithm increases as the square of the size of the input. Examples include bubble sort and selection sort.
+
+```cpp
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+void printPairs(int n){
+    for(int i=1; i<=n; i++){
+        for(int j=i+1; j<=n; j++){
+            cout << "(" << i << ", " << j << ") ";
         }
+        cout << endl;
     }
 }
 
-printPairs(4); // (1, 2) (1, 3) (1, 4)
-               //        (2, 3) (2, 4)
-               //                (3, 4)
-               // O(n^2)
+int main() {
+    printPairs(4);
+}
+```
+
+Output
+
+```
+(1, 2) (1, 3) (1, 4) 
+(2, 3) (2, 4) 
+(3, 4) 
 ```
 
 $f(n) = n * (n-1) * 1$
