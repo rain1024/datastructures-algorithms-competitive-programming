@@ -4,7 +4,7 @@
 
 ## Constant Run Time
 
-$O(1)$: Ctaonstant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
+$O(1)$: Constant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
 
 ```cpp
 #include <iostream>
@@ -28,6 +28,8 @@ int main() {
     doRandomStuff();    // O(1)
 }
 ```
+
+Run time for `doRandomStuff` is $O(1)$
 
 ## Linear Run Time
 
@@ -58,6 +60,8 @@ int main() {
                                                                     // O(n)
 }
 ```
+
+Run time for `isContains` function is $O(n)$
 
 ## Quadaric Run Time
 
@@ -95,61 +99,65 @@ $f(n) = n * (n-1) * 1$
 
 $O(f(n)) = O(n^2)$
 
-Run time for `printPairs()` is $O(n^2)$
+Run time for `printPairs` is $O(n^2)$
 
 ## Logarithm Run Time
 
+$O(log n)$: Logirthm time describes an algorithm that performs a logarithmic number of operations, where the log is typically base 2. Examples include binary search and finding the height of a balanced binary tree.
 
-```js
+```cpp
 // binaray search - nums is sorted array
-const contains = (target:number, nums: number[]) => {
-    let lo = 0; // 1 operation 
-    let hi = nums.length - 1; // 1 operation 
+#include <iostream>
+#include <vector>
+using namespace std;
 
-    while(lo <= hi){ // log(n) times
-        let mid = Math.floor((lo + hi) / 2);
-        // console.log(mid);
-        if(target == nums[mid]){ // 1 operation 
+bool isContains(int target, vector<int> numbers){
+    int lo = 0;                 // 1 operation 
+    int hi = numbers.size();    // 1 operation
+    int mid;
+    while(lo <= hi){  // log(n) times
+        mid = (lo + hi) / 2;
+        if(numbers[mid] == target){  // 1 operation
             return true;
-        } else if (target > nums[mid]) { // 1 operation 
+        }
+        else if(target > numbers[mid]){
             lo = mid + 1;
-        } else { // 1 operation
+        } else {
             hi = mid - 1;
         }
     }
     return false;
 }
 
-console.log(contains(8, [1, 2, 5, 8, 10])); // true
-                                            // O(log(n))
-
-console.log(contains(8, [1, 2, 5, 9, 10])); // false
-                                            // O(log(n))
-
-console.log(contains(8, [8, 9, 10, 11]));   // true
-                                            // O(log(n))
-
-console.log(contains(8, [4, 5, 6, 7, 8]));  // true
-                                            // O(log(n))
+int main() {
+    cout << isContains(8, {1, 2, 3, 4, 5, 8, 10}) << endl;    // true
+                                                              // O(log(n))
+    cout << isContains(8, {1, 2, 3, 4, 5, 9, 10}) << endl;    // false
+                                                              // O(log(n))    
+    cout << isContains(8, {4, 5, 6, 7, 8}) << endl;           // true
+                                                              // O(log(n))
+    cout << isContains(8, {8, 9, 10, 11, 12}) << endl;        // true
+                                                              // O(log(n))
+}
 ```
 
 $f(n) = 1 + 1 + 1 + 3log(n)= 3 + 3log(n)$
 
 $O(f(n)) = O(log(n))$
 
-Run time for `contains` is $O(log(n))$
+Run time for `isContains` is $O(log(n))$
 
 ## Combined Run Time
 
-```js
-const combine = (nums: number[]) => {
+```cpp
+void combine = (vector<int> nums) => {
     foo(nums);  // O(1)
     fuu(nums);  // O(log(n))
     bar(nums);  // O(n)
     baz(nums);  // O(n^2)
 }
 
-combine([1, 2, 3, 4, 5, 6]); // O(n^2)
+combine({1, 2, 3, 4, 5, 6}); // O(n^2)
 ```
 
 $f(n) = 1 + log(n) + n + n^2$
