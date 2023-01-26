@@ -63,6 +63,7 @@ if __name__ == "__main__":
         print("Usage: python crape.py domain problem_id\n\n")
         print("Examples:\n")
         print("\tpython craft.py codeforces 100A")
+        print("\tpython craft.py leetcode 217")
         print("\tpython craft.py aoc 2022day2")
         print("\tpython craft.py codejam 2022PunchedCards")
         print("\tpython craft.py dsas _aog_week1_graph_decomposition1_1_finding_exit_from_maze")
