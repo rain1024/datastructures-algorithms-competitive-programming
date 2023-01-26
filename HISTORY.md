@@ -1,12 +1,13 @@
 # History
 
+## 1.0.3 (2023-01-26)
+
+* GH-125: Add leetcode template and leetcode 217 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/138
+
 ## 1.0.2 (2023-01-15)
 
 * GH-133: add python sets by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/134
 * GH-135: Big-O in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/136
-
-* GH-129: Set in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/130
-* GH-128: add python queue by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/131
 
 ## 1.0.1 (2023-01-08)
 
