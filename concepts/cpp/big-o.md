@@ -2,6 +2,8 @@
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform.
 
+![](../abstract/basic-concepts/big-o-notation.png)
+
 ## Constant Run Time
 
 $O(1)$: Constant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
