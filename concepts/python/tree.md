@@ -72,5 +72,5 @@ if __name__ == '__main__':
 ## 🔗 Further Reading
 
 * [Tree (data structures)](https://en.wikipedia.org/wiki/Tree_(data_structure)), wikipedia
-* ▶️ [Python Tree Implementation with BigTree](https://towardsdatascience.com/python-tree-implementation-with-bigtree-13cdabd77adc), towardsdatascience 2022
+* [Python Tree Implementation with BigTree](https://towardsdatascience.com/python-tree-implementation-with-bigtree-13cdabd77adc), towardsdatascience 2022
 * ▶️ [Data Structures: Trees](https://www.youtube.com/watch?v=oSWTXtMglKE), HackerRank
