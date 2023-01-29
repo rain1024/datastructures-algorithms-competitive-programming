@@ -1,5 +1,12 @@
 # History
 
+## 1.0.4 (2023-01-29)
+
+* GH-140: Solve Leetcode 78 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/141
+* GH-135: add fancy diagram by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/142
+* GH-140: Solve leetcode 242 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/143
+* GH-144: add python tree by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/145
+
 ## 1.0.3 (2023-01-26)
 
 * GH-125: Add leetcode template and leetcode 217 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/138
