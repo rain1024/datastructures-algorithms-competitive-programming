@@ -6,18 +6,18 @@ From wikipedia
 average complexity for search as well as $O(log\ n)$ average complexity for insertion 
 within an ordered sequence of n elements.
 
-## 🎨 Design
+## Time complexity in Big O notation
 
-**Methods**
-
-|                     | Definition                         |
-|---------------------|------------------------------------|
-| Query(left, right)  | Sum of range from left to right    |
-
+|            | Time complexity         |
+|------------|-------------------------|
+| Insertion  | O(log n)                |
+| Deletion   | O(log n)                |
+| Search     | O(log n)                |
+| Access     | O(n)                    |
 
 ## 💻 Implementation
 
-ℹ️ Here is the implementation of the prefix sum in C++
+ℹ️ Here is the implementation of the Skip list in C++
 
 ```cpp
 #include <iostream>
