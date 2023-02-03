@@ -2,8 +2,8 @@
 
 From wikipedia
 
-> A skip list (or skiplist) is a probabilistic data structure that allows  $$O(log n)$$ 
-average complexity for search as well as $$O(log n)$$ average complexity for insertion 
+> A skip list (or skiplist) is a probabilistic data structure that allows $O(log n)$
+average complexity for search as well as $O(log n)$ average complexity for insertion 
 within an ordered sequence of n elements.
 
 ## 🎨 Design
