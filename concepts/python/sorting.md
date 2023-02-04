@@ -107,3 +107,4 @@ insertion_sort(array)  # [1, 2, 5, 8, 9]
 * [Sorting Algorithms in Python](https://realpython.com/sorting-algorithms-python/), realpython
 * [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/), realpython
 * [Sorting Algorithms in Python](https://www.geeksforgeeks.org/sorting-algorithms-in-python/), geeksforgeeks 2022
+* ▶️ [Python Sorting Algorithms](https://www.youtube.com/playlist?list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq), Joe James, 2015
