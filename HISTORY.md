@@ -1,5 +1,10 @@
 # History
 
+## 1.1.0 (2023-02-06)
+
+* GH-149: add Python Sorting by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/150
+* GH-140: Solve leetcode 1 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/151
+
 ## 1.0.4 (2023-01-29)
 
 * GH-140: Solve Leetcode 78 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/141
