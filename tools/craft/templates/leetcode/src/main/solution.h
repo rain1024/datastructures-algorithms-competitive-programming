@@ -1,22 +1,20 @@
-#include <vector>
+#include <algorithm>
 #include <cmath>
 #include <map>
-#include <algorithm>
+#include <set>
 #include <string>
 #include <unordered_map>
+#include <vector>
 
 using namespace std;
 
 class Solution {
-public:
-    bool containsDuplicate(vector<int>& nums) {
-        set<int> s;
-        for(auto num: nums){
-            if(s.find(num) != s.end()){
-                 return true;
-            }
-            s.insert(num);
-        }
-        return false;
+ public:
+  vector<int> solve(int n) {
+    vector<int> v;
+    for (int i = 0; i < n; i++) {
+      v.push_back(i);
     }
+    return v;
+  }
 };
