@@ -6,7 +6,7 @@ From wikipedia
 average complexity for search as well as $O(log\ n)$ average complexity for insertion 
 within an ordered sequence of n elements.
 
-## Time complexity in Big O notation
+## Time complexity of Skip list
 
 |            | Time complexity         |
 |------------|-------------------------|
@@ -54,43 +54,10 @@ int main(){
 }
 ```
 
-<table>
-<thead>
-<th>Input</th>
-<th>Output</th>
-</thead>
-<tbody>
-<tr>
-<td>
-<pre>5 3
-2 4 7 8 10
-0 1
-1 3
-2 4</pre>
-</td>
-<td>
-<pre>2
-11
-15</pre>
-</td>
-</tr>
-</tbody>
-</table>
-
-## 📈 Complexity Analysis of Tree
-
-
-| Operation       | Complexity          |
-|-----------------|---------------------|
-| Queries         | $O(N+Q)$            |
-
-## Problems
-
-* [Codeforces 1398C](https://codeforces.com/contest/1398/problem/C) `intermediate`
-
 ## 🔗 Further Reading
 
-* ▶️ [Prefix Sum Array Explained](https://www.youtube.com/watch?v=7pJo_rM0z_s&ab_channel=MiketheCoder), MiketheCoder
-* [Prefix sum](https://en.wikipedia.org/wiki/Prefix_sum), wikipedia
-* [Introduction to Prefix Sums](https://usaco.guide/silver/prefix-sums?lang=cpp), Darren Yao, Dustin Miao, usaco.guide
+* ▶️ [Skip Lists](https://www.youtube.com/watch?v=NDGpsfwAaqo&ab_channel=AlgorithmsLab), Algorithms Lab
+* [Skip list](https://en.wikipedia.org/wiki/Skip_list), wikipedia
+* ▶️ [8 Key Data Structures That Power Modern Databases](https://www.youtube.com/watch?v=W_v05d_2RTo&ab_channel=ByteByteGo)
+
 
