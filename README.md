@@ -190,10 +190,12 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Skiplist</td>
 <td>
+<a href="/concepts/cpp/skip_list.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 </tbody>
 </table>
+
 ## 🔆 Collections
 
 **Competitive Programming Events**
