@@ -3,50 +3,28 @@
 
 using namespace std;
 
-// add class Class 
-class Class {
-public:
-  int id;
-  string name;
-  Class(int id, string name) {
-    this->id = id;
-    this->name = name;
-  }
-};
-
-class Student {
-public:
-  int id;
-  string name;
-  Class* classes[10];
-
-  Student(int id, string name) {
-    this->id = id;
-    this->name = name;
-  }
-  
-  void addClass(Class* c) {
-  
-    for (int i = 0; i < 10; i++) {
-      if (classes[i] == NULL) {
-        classes[i] = c;
-        break;
-      }
-    }
-  }
-};
-
 int main(){
   cout << "Skiplist Program" << endl;
 
   // create an skiplist
   Skiplist sl;
-  // // insert 3 elements
+  
+  cout << "\nInsert elements into Skiplist" << endl;
   sl.insert(4);
   sl.insert(2);
   sl.insert(3);
-  sl.insert(8);
+  sl.insert(9);
   sl.insert(1);
   sl.show();
+
+  cout << "\nSearch elements" << endl;
+  cout << "- Search for 3: " << sl.search(3) << endl;
+  cout << "- Search for 5: " << sl.search(5) << endl;
+  
+  cout << "\nRemove elements" << endl;
+  sl.remove(3);
+  sl.remove(5);  
+  sl.show();
+
   return 0;
 }

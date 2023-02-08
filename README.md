@@ -179,6 +179,21 @@ A data structure is a data organization, management, and storage format that is 
 </tbody>
 </table>
 
+**Advanced Data Structures and Algorithms**
+
+<table>
+<thead>
+<th>Advanced Concept</th>
+<th>Programming Languages</th>
+</thead>
+<tbody>
+<tr>
+<td>Skiplist</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
 ## 🔆 Collections
 
 **Competitive Programming Events**
