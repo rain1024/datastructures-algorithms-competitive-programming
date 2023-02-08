@@ -10,9 +10,9 @@ within an ordered sequence of n elements.
 
 |            | Time complexity         |
 |------------|-------------------------|
-| Insertion  | $O(log n)$              |
-| Deletion   | $O(log n)$              |
-| Search     | $O(log n)$              |
+| Insertion  | $O(log\ n)$              |
+| Deletion   | $O(log\ n)$              |
+| Search     | $O(log\ n)$              |
 | Access     | $O(n)$                  |
 
 ## 💻 Implementation
