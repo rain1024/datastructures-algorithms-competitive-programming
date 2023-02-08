@@ -1,4 +1,5 @@
 #include <iostream>
+#include <climits>
 
 using namespace std;
 
@@ -12,6 +13,7 @@ struct Node {
   // constructor
   Node(int key, int level){
     this->key = key;
+    this->level = level;
     forwards = new Node*[level+1];
     for(int i=0; i<=level; i++){
       forwards[i] = NULL;
@@ -35,16 +37,26 @@ class Skiplist {
 
 Skiplist::Skiplist(){
   MAX_LEVEL = 16;
-  Node* head = new Node(INT_MIN, MAX_LEVEL);
+  head = new Node(INT_MIN, MAX_LEVEL);
+  srand(time(NULL));
 }
 
+Skiplist::~Skiplist(){
+  delete head;
+}
 
 void Skiplist::insert(int key){
-  cout << "Skiplist::insert " << key << endl;
   // Create a new node with the given key.
-  int level = rand() % MAX_LEVEL;
-  cout << "level = " << level << endl;
+  // The level of the new node is a random number between 0 and MAX_LEVEL
+  // create random number between 0 to 1, if < 0.5, level++; otherwise, break
+  int level = 0;
+  
+  while(rand() % 2 && level < MAX_LEVEL){
+    level++;
+  }
   Node* newNode = new Node(key, level);
+  // print newNode key and level
+  cout << "newNode (" << newNode->key << ", " << newNode->level << ")" << endl;
   
   // Create a pointer to the current node
   Node* current = head;
@@ -57,34 +69,32 @@ void Skiplist::insert(int key){
 
   // // Traverse the list from the highest level to the lowest level
   // // and find the previous node for each level
-  // for(int i=level; i>=0; i--){
-  //   cout << "i = " << i << endl;
-  //   // while(current->forwards[i] != NULL && current->forwards[i]->key < key){
-  //   //   // update the curent node
-  //   //   current = current->forwards[i];
-  //   //   cout << "current = " << current->key << endl;
-  //   // }
-  //   cout << "current = " << current->key << endl;
-  //   // update the previous node for the current level
-  //   update[i] = current;
-  //   cout << "Debug" << endl;
-  // }
+  for(int i=level; i>=0; i--){
+    while(current->forwards[i] != NULL && current->forwards[i]->key < key){
+      // update the curent node
+      current = current->forwards[i];
+    }
+    // update the previous node for the current level
+    update[i] = current;
+  }
 
   // cout << "Debug" << endl;
   
   // // Set the next node for the new node to the next node of the previous node
   // // for the lowest level
-  // newNode->forwards[0] = update[0]->forwards[0];
+  newNode->forwards[0] = update[0]->forwards[0];
   // // Set the next node of the previous node for the lowest level to the new node
-  // update[0]->forwards[0] = newNode;
+  update[0]->forwards[0] = newNode;
 
-  // for(int i=1; i<=level; i++){
-  //   newNode->forwards[i] = update[i]->forwards[i];
-  //   update[i]->forwards[i] = newNode;
-  // } 
-  cout << "End Skiplist::insert" << endl;
+  for(int i=1; i<=level; i++){
+    newNode->forwards[i] = update[i]->forwards[i];
+    update[i]->forwards[i] = newNode;
+  } 
 }
 
+// show skiplist of all levels
+// level 0 will have all elements
+// if an element is not exist in a level, print " "
 void Skiplist::show(){
   cout << "Skiplist::show" << endl;
 
@@ -92,5 +102,16 @@ void Skiplist::show(){
   while(current->forwards[0] != NULL){
     cout << current->forwards[0]->key << " ";
     current = current->forwards[0];
+  }
+
+  // show for each levels
+  for(int i=MAX_LEVEL; i>=0; i--){
+    cout << "Level " << i << ": ";
+    Node* current = head;
+    while(current->forwards[i] != NULL){
+      cout << current->forwards[i]->key << " -> ";
+      current = current->forwards[i];
+    }
+    cout << endl;
   }
 }
