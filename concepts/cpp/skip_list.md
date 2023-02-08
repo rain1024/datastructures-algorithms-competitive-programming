@@ -6,6 +6,8 @@ From wikipedia
 average complexity for search as well as $O(log\ n)$ average complexity for insertion 
 within an ordered sequence of n elements.
 
+![](../abstract/data-structures/skip_list.png)
+
 ## Time complexity of Skip list
 
 |            | Time complexity         |
