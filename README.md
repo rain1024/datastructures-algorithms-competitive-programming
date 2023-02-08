@@ -4,7 +4,7 @@ This repository contains introductions and examples of many popular data structu
 
 Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
 
-⭐ [New Version 1.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
+⭐ [New Version 1.1.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
 
 ## 📙 Data Structures & Algorithms
 
@@ -100,6 +100,7 @@ A data structure is a data organization, management, and storage format that is 
 <td>Sorting</td>
 <td>
 <a href="/concepts/cpp/sorting.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/sorting.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
@@ -173,6 +174,23 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Topology Sort</td>
 <td>
+</td>
+</tr>
+</tbody>
+</table>
+
+**Advanced Data Structures and Algorithms**
+
+<table>
+<thead>
+<th>Advanced Concept</th>
+<th>Programming Languages</th>
+</thead>
+<tbody>
+<tr>
+<td>Skiplist</td>
+<td>
+<a href="/concepts/cpp/skip_list.md"><code>cpp🐀</code></a>
 </td>
 </tr>
 </tbody>
