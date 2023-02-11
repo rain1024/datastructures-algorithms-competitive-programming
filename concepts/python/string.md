@@ -82,5 +82,5 @@ print(' '.join(list_1))        #  Hanoi is the capital of Vietnam
 * [Python String](https://docs.python.org/3/library/string.html), docs.python.org
 * [Python Strings](https://developers.google.com/edu/python/strings), developers.google.com
 * [Python String](https://www.geeksforgeeks.org/python-string/), geeksforgeeks.org 2023
-* ▶️ [How to Use Strings in Python](https://www.youtube.com/watch?v=Ctqi5Y4X-jA), 
-Programming with Mosh
+* ▶️ [How to Use Strings in Python](https://www.youtube.com/watch?v=Ctqi5Y4X-jA), Programming with Mosh
+
