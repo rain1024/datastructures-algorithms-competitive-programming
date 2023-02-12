@@ -1,5 +1,11 @@
 # History
 
+## 1.1.1 (2023-02-12)
+
+* GH-147: Skiplist in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/148
+* add Python string by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/
+pull/155
+
 ## 1.1.0 (2023-02-06)
 
 * GH-149: add Python Sorting by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/150
