@@ -1,5 +1,10 @@
 # History
 
+## 1.1.2 (2023-02-19)
+
+* GH-140: Solve leetcode 49 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/158
+* GH-157: add Python search by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/159
+
 ## 1.1.1 (2023-02-12)
 
 * GH-147: Skiplist in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/148
