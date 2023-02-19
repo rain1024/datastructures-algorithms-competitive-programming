@@ -107,6 +107,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Searching</td>
 <td>
+<a href="/concepts/python/searching.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
