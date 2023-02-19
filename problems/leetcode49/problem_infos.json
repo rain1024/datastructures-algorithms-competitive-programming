@@ -1,0 +1,5 @@
+{
+  "name": "49. Group Anagrams",
+  "link": "https://leetcode.com/problems/group-anagrams/",
+  "tags": ["Array", "Hash Table", "String", "Sorting"]
+}
