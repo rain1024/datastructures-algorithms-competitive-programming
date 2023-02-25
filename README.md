@@ -114,6 +114,7 @@ A data structure is a data organization, management, and storage format that is 
 <td>Brute force, Backtracking</td>
 <td>
 <a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/brute_force.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
