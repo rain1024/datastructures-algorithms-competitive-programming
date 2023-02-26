@@ -1,5 +1,10 @@
 # History
 
+## 1.1.3 (2023-02-26)
+
+* GH-161: add Python Brute Force by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/162
+* GH-140: Solve leetcode 347 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/163
+
 ## 1.1.2 (2023-02-19)
 
 * GH-140: Solve leetcode 49 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/158
