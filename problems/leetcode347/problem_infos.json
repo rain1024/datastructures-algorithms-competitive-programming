@@ -1,9 +1,14 @@
 {
-  "name": "Leetcode 78. Subsets",
-  "link": "https://leetcode.com/problems/subsets/",
+  "name": "Leetcode 347. Top K Frequent Elements",
+  "link": "https://leetcode.com/problems/top-k-frequent-elements/description/",
   "tags": [
     "Array",
-    "Backtracking",
-    "Bit Manipulation"
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
   ]
 }
