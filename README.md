@@ -120,6 +120,7 @@ A data structure is a data organization, management, and storage format that is 
 <tr>
 <td>Greedy</td>
 <td>
+<a href="/concepts/python/greedy.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
