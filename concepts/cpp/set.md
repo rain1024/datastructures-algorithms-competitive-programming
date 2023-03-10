@@ -46,6 +46,11 @@ int main() {
     cout << x << endl;
   }
 
+  // Check if the element with value 5 is in the set
+  if (s.find(5) != s.end()) {
+    cout << "5 is in the set" << endl;
+  }
+
   return 0;
 }
 ```
@@ -126,6 +131,7 @@ Set Difference: B - A
 |----------------|-----------------|-----------------|
 | Insert         | insert          | $$O(log n)$$    |
 | Delete         | erase           | $$O(log n)$$    |
+| Find           | find            | $$O(log n)$$    |
 | Union          | set_union       | $$O(m log n)$$  |
 | Intersection   | set_intersection| $$O(m log n)$$  |
 | Difference     | set_difference  | $$O(m log n)$$  |
