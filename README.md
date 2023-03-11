@@ -127,6 +127,7 @@ A data structure is a data organization, management, and storage format that is 
 <td>Range Queries (prefix sum)</td>
 <td>
 <a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/range_queries.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
