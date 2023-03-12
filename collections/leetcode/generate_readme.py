@@ -30,6 +30,10 @@ for i in range(1, 2589+1):
         td = "<td>"
         if 'level' in problems[i] and problems[i]['level'] == 'easy':
             td += "🟢&nbsp;"
+        elif 'level' in problems[i] and problems[i]['level'] == 'medium':
+            td += "🟡&nbsp;"
+        elif 'level' in problems[i] and problems[i]['level'] == 'hard':
+            td += "🔴&nbsp;"
         td += f"<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode{i}'>{i}</a>"
         td += "</td>\n"
         table += td

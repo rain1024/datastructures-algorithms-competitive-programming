@@ -7,23 +7,34 @@ problems:
   level: easy
 - name: 23
   languages: cpp
+  level: hard
 - name: 49
   languages: cpp
+  level: medium
 - name: 78
   languages: cpp
+  level: medium
 - name: 142
   languages: cpp
+  level: medium
 - name: 169
   languages: cpp
+  level: easy
 - name: 217
   languages: cpp
+  level: easy
 - name: 242
   languages: cpp
+  level: easy
 - name: 347
   languages: cpp
+  level: medium
 - name: 2586
   languages: cpp
+  level: easy
 - name: 2587
   languages: cpp
+  level: medium
 - name: 2588
   languages: cpp
+  level: medium
