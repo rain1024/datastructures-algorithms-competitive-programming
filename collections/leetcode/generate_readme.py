@@ -22,7 +22,7 @@ for i in range(1, 2589+1):
     if i not in solve_problems:
         table += f"<td>{i}</td>\n"
     else:
-        table += f"<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode{i}/'>{i}</a></td>\n"
+        table += f"<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode{i}'>{i}</a></td>\n"
 table += "</table>"
 
 with open(join(wd, 'README.md'), 'w') as f:
