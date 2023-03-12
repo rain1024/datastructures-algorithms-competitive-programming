@@ -4,6 +4,7 @@ problems:
   level: easy
 - name: 20
   languages: cpp
+  level: easy
 - name: 23
   languages: cpp
 - name: 49
