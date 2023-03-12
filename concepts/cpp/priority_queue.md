@@ -1,5 +1,7 @@
 # Priority Queue
 
+![](https://img.shields.io/badge/🧪-notebook-brightgreen)
+
 A priority queue is an abstract data type that allows the storage of elements with priority. The elements are stored in such a way that the element with the highest priority is always at the front of the queue, and the element with the lowest priority is at the back of the queue.
 
 ![](../abstract/data-structures/priority_queue.png)
@@ -23,16 +25,21 @@ C++ has built-in object [`priority_queue`](https://cplusplus.com/reference/queue
 #include <iostream>
 #include <queue>
 
-priority_queue<int> pq;
+int main(){
+  priority_queue<int> pq;
 
-pq.push(1);
-pq.push(5);
-pq.push(3);
+  pq.push(1);
+  pq.push(5);
+  pq.push(3);
 
-while (!pq.empty()) {
-    cout << pq.top() << endl;
-    pq.pop();
+  while (!pq.empty()) {
+      cout << pq.top() << endl;
+      pq.pop();
 }
+
+  return 0;
+}
+
 ```
 
 ## 📈 Complexity Analysis of Priority Queue
