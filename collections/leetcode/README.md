@@ -19,11 +19,11 @@ Leetcode Solutions
 <td>14</td>
 <td>15</td>
 <td>16</td>
+<tr>
 <td>17</td>
 <td>18</td>
 <td>19</td>
 <td>20</td>
-<tr>
 <td>21</td>
 <td>22</td>
 <td>23</td>
@@ -36,6 +36,7 @@ Leetcode Solutions
 <td>30</td>
 <td>31</td>
 <td>32</td>
+<tr>
 <td>33</td>
 <td>34</td>
 <td>35</td>
@@ -44,7 +45,6 @@ Leetcode Solutions
 <td>38</td>
 <td>39</td>
 <td>40</td>
-<tr>
 <td>41</td>
 <td>42</td>
 <td>43</td>
@@ -53,6 +53,7 @@ Leetcode Solutions
 <td>46</td>
 <td>47</td>
 <td>48</td>
+<tr>
 <td>49</td>
 <td>50</td>
 <td>51</td>
@@ -65,11 +66,11 @@ Leetcode Solutions
 <td>58</td>
 <td>59</td>
 <td>60</td>
-<tr>
 <td>61</td>
 <td>62</td>
 <td>63</td>
 <td>64</td>
+<tr>
 <td>65</td>
 <td>66</td>
 <td>67</td>
@@ -103,11 +104,11 @@ Leetcode Solutions
 <td>94</td>
 <td>95</td>
 <td>96</td>
+<tr>
 <td>97</td>
 <td>98</td>
 <td>99</td>
 <td>100</td>
-<tr>
 <td>101</td>
 <td>102</td>
 <td>103</td>
@@ -120,6 +121,7 @@ Leetcode Solutions
 <td>110</td>
 <td>111</td>
 <td>112</td>
+<tr>
 <td>113</td>
 <td>114</td>
 <td>115</td>
@@ -128,7 +130,6 @@ Leetcode Solutions
 <td>118</td>
 <td>119</td>
 <td>120</td>
-<tr>
 <td>121</td>
 <td>122</td>
 <td>123</td>
@@ -137,6 +138,7 @@ Leetcode Solutions
 <td>126</td>
 <td>127</td>
 <td>128</td>
+<tr>
 <td>129</td>
 <td>130</td>
 <td>131</td>
@@ -149,11 +151,11 @@ Leetcode Solutions
 <td>138</td>
 <td>139</td>
 <td>140</td>
-<tr>
 <td>141</td>
 <td>142</td>
 <td>143</td>
 <td>144</td>
+<tr>
 <td>145</td>
 <td>146</td>
 <td>147</td>
@@ -187,11 +189,11 @@ Leetcode Solutions
 <td>174</td>
 <td>175</td>
 <td>176</td>
+<tr>
 <td>177</td>
 <td>178</td>
 <td>179</td>
 <td>180</td>
-<tr>
 <td>181</td>
 <td>182</td>
 <td>183</td>
@@ -204,6 +206,7 @@ Leetcode Solutions
 <td>190</td>
 <td>191</td>
 <td>192</td>
+<tr>
 <td>193</td>
 <td>194</td>
 <td>195</td>
@@ -212,7 +215,6 @@ Leetcode Solutions
 <td>198</td>
 <td>199</td>
 <td>200</td>
-<tr>
 <td>201</td>
 <td>202</td>
 <td>203</td>
@@ -221,6 +223,7 @@ Leetcode Solutions
 <td>206</td>
 <td>207</td>
 <td>208</td>
+<tr>
 <td>209</td>
 <td>210</td>
 <td>211</td>
@@ -233,11 +236,11 @@ Leetcode Solutions
 <td>218</td>
 <td>219</td>
 <td>220</td>
-<tr>
 <td>221</td>
 <td>222</td>
 <td>223</td>
 <td>224</td>
+<tr>
 <td>225</td>
 <td>226</td>
 <td>227</td>
@@ -271,11 +274,11 @@ Leetcode Solutions
 <td>254</td>
 <td>255</td>
 <td>256</td>
+<tr>
 <td>257</td>
 <td>258</td>
 <td>259</td>
 <td>260</td>
-<tr>
 <td>261</td>
 <td>262</td>
 <td>263</td>
@@ -288,6 +291,7 @@ Leetcode Solutions
 <td>270</td>
 <td>271</td>
 <td>272</td>
+<tr>
 <td>273</td>
 <td>274</td>
 <td>275</td>
@@ -296,7 +300,6 @@ Leetcode Solutions
 <td>278</td>
 <td>279</td>
 <td>280</td>
-<tr>
 <td>281</td>
 <td>282</td>
 <td>283</td>
@@ -305,6 +308,7 @@ Leetcode Solutions
 <td>286</td>
 <td>287</td>
 <td>288</td>
+<tr>
 <td>289</td>
 <td>290</td>
 <td>291</td>
@@ -317,11 +321,11 @@ Leetcode Solutions
 <td>298</td>
 <td>299</td>
 <td>300</td>
-<tr>
 <td>301</td>
 <td>302</td>
 <td>303</td>
 <td>304</td>
+<tr>
 <td>305</td>
 <td>306</td>
 <td>307</td>
@@ -355,11 +359,11 @@ Leetcode Solutions
 <td>334</td>
 <td>335</td>
 <td>336</td>
+<tr>
 <td>337</td>
 <td>338</td>
 <td>339</td>
 <td>340</td>
-<tr>
 <td>341</td>
 <td>342</td>
 <td>343</td>
@@ -372,6 +376,7 @@ Leetcode Solutions
 <td>350</td>
 <td>351</td>
 <td>352</td>
+<tr>
 <td>353</td>
 <td>354</td>
 <td>355</td>
@@ -380,7 +385,6 @@ Leetcode Solutions
 <td>358</td>
 <td>359</td>
 <td>360</td>
-<tr>
 <td>361</td>
 <td>362</td>
 <td>363</td>
@@ -389,6 +393,7 @@ Leetcode Solutions
 <td>366</td>
 <td>367</td>
 <td>368</td>
+<tr>
 <td>369</td>
 <td>370</td>
 <td>371</td>
@@ -401,11 +406,11 @@ Leetcode Solutions
 <td>378</td>
 <td>379</td>
 <td>380</td>
-<tr>
 <td>381</td>
 <td>382</td>
 <td>383</td>
 <td>384</td>
+<tr>
 <td>385</td>
 <td>386</td>
 <td>387</td>
@@ -439,11 +444,11 @@ Leetcode Solutions
 <td>414</td>
 <td>415</td>
 <td>416</td>
+<tr>
 <td>417</td>
 <td>418</td>
 <td>419</td>
 <td>420</td>
-<tr>
 <td>421</td>
 <td>422</td>
 <td>423</td>
@@ -456,6 +461,7 @@ Leetcode Solutions
 <td>430</td>
 <td>431</td>
 <td>432</td>
+<tr>
 <td>433</td>
 <td>434</td>
 <td>435</td>
@@ -464,7 +470,6 @@ Leetcode Solutions
 <td>438</td>
 <td>439</td>
 <td>440</td>
-<tr>
 <td>441</td>
 <td>442</td>
 <td>443</td>
@@ -473,6 +478,7 @@ Leetcode Solutions
 <td>446</td>
 <td>447</td>
 <td>448</td>
+<tr>
 <td>449</td>
 <td>450</td>
 <td>451</td>
@@ -485,11 +491,11 @@ Leetcode Solutions
 <td>458</td>
 <td>459</td>
 <td>460</td>
-<tr>
 <td>461</td>
 <td>462</td>
 <td>463</td>
 <td>464</td>
+<tr>
 <td>465</td>
 <td>466</td>
 <td>467</td>
@@ -523,11 +529,11 @@ Leetcode Solutions
 <td>494</td>
 <td>495</td>
 <td>496</td>
+<tr>
 <td>497</td>
 <td>498</td>
 <td>499</td>
 <td>500</td>
-<tr>
 <td>501</td>
 <td>502</td>
 <td>503</td>
@@ -540,6 +546,7 @@ Leetcode Solutions
 <td>510</td>
 <td>511</td>
 <td>512</td>
+<tr>
 <td>513</td>
 <td>514</td>
 <td>515</td>
@@ -548,7 +555,6 @@ Leetcode Solutions
 <td>518</td>
 <td>519</td>
 <td>520</td>
-<tr>
 <td>521</td>
 <td>522</td>
 <td>523</td>
@@ -557,6 +563,7 @@ Leetcode Solutions
 <td>526</td>
 <td>527</td>
 <td>528</td>
+<tr>
 <td>529</td>
 <td>530</td>
 <td>531</td>
@@ -569,11 +576,11 @@ Leetcode Solutions
 <td>538</td>
 <td>539</td>
 <td>540</td>
-<tr>
 <td>541</td>
 <td>542</td>
 <td>543</td>
 <td>544</td>
+<tr>
 <td>545</td>
 <td>546</td>
 <td>547</td>
@@ -607,11 +614,11 @@ Leetcode Solutions
 <td>574</td>
 <td>575</td>
 <td>576</td>
+<tr>
 <td>577</td>
 <td>578</td>
 <td>579</td>
 <td>580</td>
-<tr>
 <td>581</td>
 <td>582</td>
 <td>583</td>
@@ -624,6 +631,7 @@ Leetcode Solutions
 <td>590</td>
 <td>591</td>
 <td>592</td>
+<tr>
 <td>593</td>
 <td>594</td>
 <td>595</td>
@@ -632,7 +640,6 @@ Leetcode Solutions
 <td>598</td>
 <td>599</td>
 <td>600</td>
-<tr>
 <td>601</td>
 <td>602</td>
 <td>603</td>
@@ -641,6 +648,7 @@ Leetcode Solutions
 <td>606</td>
 <td>607</td>
 <td>608</td>
+<tr>
 <td>609</td>
 <td>610</td>
 <td>611</td>
@@ -653,11 +661,11 @@ Leetcode Solutions
 <td>618</td>
 <td>619</td>
 <td>620</td>
-<tr>
 <td>621</td>
 <td>622</td>
 <td>623</td>
 <td>624</td>
+<tr>
 <td>625</td>
 <td>626</td>
 <td>627</td>
@@ -691,11 +699,11 @@ Leetcode Solutions
 <td>654</td>
 <td>655</td>
 <td>656</td>
+<tr>
 <td>657</td>
 <td>658</td>
 <td>659</td>
 <td>660</td>
-<tr>
 <td>661</td>
 <td>662</td>
 <td>663</td>
@@ -708,6 +716,7 @@ Leetcode Solutions
 <td>670</td>
 <td>671</td>
 <td>672</td>
+<tr>
 <td>673</td>
 <td>674</td>
 <td>675</td>
@@ -716,7 +725,6 @@ Leetcode Solutions
 <td>678</td>
 <td>679</td>
 <td>680</td>
-<tr>
 <td>681</td>
 <td>682</td>
 <td>683</td>
@@ -725,6 +733,7 @@ Leetcode Solutions
 <td>686</td>
 <td>687</td>
 <td>688</td>
+<tr>
 <td>689</td>
 <td>690</td>
 <td>691</td>
@@ -737,11 +746,11 @@ Leetcode Solutions
 <td>698</td>
 <td>699</td>
 <td>700</td>
-<tr>
 <td>701</td>
 <td>702</td>
 <td>703</td>
 <td>704</td>
+<tr>
 <td>705</td>
 <td>706</td>
 <td>707</td>
@@ -775,11 +784,11 @@ Leetcode Solutions
 <td>734</td>
 <td>735</td>
 <td>736</td>
+<tr>
 <td>737</td>
 <td>738</td>
 <td>739</td>
 <td>740</td>
-<tr>
 <td>741</td>
 <td>742</td>
 <td>743</td>
@@ -792,6 +801,7 @@ Leetcode Solutions
 <td>750</td>
 <td>751</td>
 <td>752</td>
+<tr>
 <td>753</td>
 <td>754</td>
 <td>755</td>
@@ -800,7 +810,6 @@ Leetcode Solutions
 <td>758</td>
 <td>759</td>
 <td>760</td>
-<tr>
 <td>761</td>
 <td>762</td>
 <td>763</td>
@@ -809,6 +818,7 @@ Leetcode Solutions
 <td>766</td>
 <td>767</td>
 <td>768</td>
+<tr>
 <td>769</td>
 <td>770</td>
 <td>771</td>
@@ -821,11 +831,11 @@ Leetcode Solutions
 <td>778</td>
 <td>779</td>
 <td>780</td>
-<tr>
 <td>781</td>
 <td>782</td>
 <td>783</td>
 <td>784</td>
+<tr>
 <td>785</td>
 <td>786</td>
 <td>787</td>
@@ -859,11 +869,11 @@ Leetcode Solutions
 <td>814</td>
 <td>815</td>
 <td>816</td>
+<tr>
 <td>817</td>
 <td>818</td>
 <td>819</td>
 <td>820</td>
-<tr>
 <td>821</td>
 <td>822</td>
 <td>823</td>
@@ -876,6 +886,7 @@ Leetcode Solutions
 <td>830</td>
 <td>831</td>
 <td>832</td>
+<tr>
 <td>833</td>
 <td>834</td>
 <td>835</td>
@@ -884,7 +895,6 @@ Leetcode Solutions
 <td>838</td>
 <td>839</td>
 <td>840</td>
-<tr>
 <td>841</td>
 <td>842</td>
 <td>843</td>
@@ -893,6 +903,7 @@ Leetcode Solutions
 <td>846</td>
 <td>847</td>
 <td>848</td>
+<tr>
 <td>849</td>
 <td>850</td>
 <td>851</td>
@@ -905,11 +916,11 @@ Leetcode Solutions
 <td>858</td>
 <td>859</td>
 <td>860</td>
-<tr>
 <td>861</td>
 <td>862</td>
 <td>863</td>
 <td>864</td>
+<tr>
 <td>865</td>
 <td>866</td>
 <td>867</td>
@@ -943,11 +954,11 @@ Leetcode Solutions
 <td>894</td>
 <td>895</td>
 <td>896</td>
+<tr>
 <td>897</td>
 <td>898</td>
 <td>899</td>
 <td>900</td>
-<tr>
 <td>901</td>
 <td>902</td>
 <td>903</td>
@@ -960,6 +971,7 @@ Leetcode Solutions
 <td>910</td>
 <td>911</td>
 <td>912</td>
+<tr>
 <td>913</td>
 <td>914</td>
 <td>915</td>
@@ -968,7 +980,6 @@ Leetcode Solutions
 <td>918</td>
 <td>919</td>
 <td>920</td>
-<tr>
 <td>921</td>
 <td>922</td>
 <td>923</td>
@@ -977,6 +988,7 @@ Leetcode Solutions
 <td>926</td>
 <td>927</td>
 <td>928</td>
+<tr>
 <td>929</td>
 <td>930</td>
 <td>931</td>
@@ -989,11 +1001,11 @@ Leetcode Solutions
 <td>938</td>
 <td>939</td>
 <td>940</td>
-<tr>
 <td>941</td>
 <td>942</td>
 <td>943</td>
 <td>944</td>
+<tr>
 <td>945</td>
 <td>946</td>
 <td>947</td>
@@ -1027,11 +1039,11 @@ Leetcode Solutions
 <td>974</td>
 <td>975</td>
 <td>976</td>
+<tr>
 <td>977</td>
 <td>978</td>
 <td>979</td>
 <td>980</td>
-<tr>
 <td>981</td>
 <td>982</td>
 <td>983</td>
@@ -1044,6 +1056,7 @@ Leetcode Solutions
 <td>990</td>
 <td>991</td>
 <td>992</td>
+<tr>
 <td>993</td>
 <td>994</td>
 <td>995</td>

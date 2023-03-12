@@ -17,7 +17,7 @@ print(solve_problems)
 table = ""
 table = "<table>\n<tr>"
 for i in range(1, 1001):
-    if i % 20 == 1 and i > 1:
+    if i % 16 == 1 and i > 1:
         table += "<tr>\n"
     table += f"<td>{i}</td>\n"
 table += "</table>"
