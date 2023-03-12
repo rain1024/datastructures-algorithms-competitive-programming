@@ -27,7 +27,7 @@ Leetcode Solutions
 <tr>
 <td>21</td>
 <td>22</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode23/'>23</a></td>
+<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode23'>23</a></td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
