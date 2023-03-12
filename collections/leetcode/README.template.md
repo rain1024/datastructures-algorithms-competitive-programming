@@ -2,6 +2,10 @@
 
 Leetcode Solutions
 
+* 🟢 Easy
+* 🟡 Medium
+* 🔴 Hard 
+
 <!-- table -->
 
 ## Similar Repositories
