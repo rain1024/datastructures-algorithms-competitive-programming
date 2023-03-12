@@ -11,18 +11,28 @@ with open(join(wd, 'README.template.md'), 'r') as f:
 with open(join(wd, 'data.yaml'), 'r') as f:
     data = yaml.load(f, Loader=yaml.FullLoader)
 
-solve_problems = set([int(item['name']) for item in data['problems']])
-print(f"Solve {len(solve_problems)} problems")
+problems = {}
+solved_problems = set()
+for item in data['problems']:
+    id = int(item['name'])
+    problems[id] = item
+    solved_problems.add(id)
+print(f"Solve {len(solved_problems)} problems")
 
 table = ""
 table = "<table>\n<tr>"
 for i in range(1, 2589+1):
     if i % 10 == 1 and i > 1:
         table += "<tr>\n"
-    if i not in solve_problems:
+    if i not in solved_problems:
         table += f"<td>{i}</td>\n"
     else:
-        table += f"<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode{i}'>{i}</a></td>\n"
+        td = "<td>"
+        if 'level' in problems[i] and problems[i]['level'] == 'easy':
+            td += "🟢&nbsp;"
+        td += f"<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode{i}'>{i}</a>"
+        td += "</td>\n"
+        table += td
 table += "</table>"
 
 with open(join(wd, 'README.md'), 'w') as f:
