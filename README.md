@@ -95,9 +95,6 @@ A data structure is a data organization, management, and storage format that is 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center"><b>Algorithms</b></td>
-</tr>
-<tr>
 <td>Priority Queue (Heap)</td>
 <td>
 <a href="/concepts/cpp/priority_queue.md"><code>cpp🐀</code></a>
