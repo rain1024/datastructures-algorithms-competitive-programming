@@ -1,5 +1,17 @@
 # History
 
+## 1.2.1 (2023-03-12)
+
+* GH-169: Solve leetcode 142 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/170
+* GH-171: Prefix Sum in Python by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/172
+* GH-169: Leetcode March 2023 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/173
+* GH-174: Priority Queue (Heap) in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/175
+
+## 1.2.0 (2023-03-05)
+
+* add Python Greedy by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/166
+* GH-140: Solve leetcode 20 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/167
+
 ## 1.1.3 (2023-02-26)
 
 * GH-161: add Python Brute Force by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/162
