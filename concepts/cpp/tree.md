@@ -72,7 +72,7 @@ int main()
 }
 ```
 
-## 📈 Complexity Analysis of [Awesome Type]
+## 📈 Complexity Analysis of Tree
 
 
 | Operation       | Complexity          |
