@@ -1,6 +1,8 @@
 # Priority Queue
 
-![](https://img.shields.io/badge/🧪-notebook-brightgreen)
+<a href="../labs/priority_queue.ipynb">
+<img src="https://img.shields.io/badge/🧪-notebook-brightgreen">
+</a>
 
 A priority queue is an abstract data type that allows the storage of elements with priority. The elements are stored in such a way that the element with the highest priority is always at the front of the queue, and the element with the lowest priority is at the back of the queue.
 
