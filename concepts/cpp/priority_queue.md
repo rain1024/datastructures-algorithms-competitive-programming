@@ -37,7 +37,7 @@ int main(){
   while (!pq.empty()) {
       cout << pq.top() << endl;
       pq.pop();
-}
+  }
 
   return 0;
 }
