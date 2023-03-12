@@ -27,7 +27,7 @@ Leetcode Solutions
 <tr>
 <td>21</td>
 <td>22</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode23'>23</a></td>
+<td>🔴&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode23'>23</a></td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
@@ -55,7 +55,7 @@ Leetcode Solutions
 <td>46</td>
 <td>47</td>
 <td>48</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode49'>49</a></td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode49'>49</a></td>
 <td>50</td>
 <tr>
 <td>51</td>
@@ -87,7 +87,7 @@ Leetcode Solutions
 <td>75</td>
 <td>76</td>
 <td>77</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode78'>78</a></td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode78'>78</a></td>
 <td>79</td>
 <td>80</td>
 <tr>
@@ -158,7 +158,7 @@ Leetcode Solutions
 <td>140</td>
 <tr>
 <td>141</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode142'>142</a></td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode142'>142</a></td>
 <td>143</td>
 <td>144</td>
 <td>145</td>
@@ -187,7 +187,7 @@ Leetcode Solutions
 <td>166</td>
 <td>167</td>
 <td>168</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode169'>169</a></td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode169'>169</a></td>
 <td>170</td>
 <tr>
 <td>171</td>
@@ -240,7 +240,7 @@ Leetcode Solutions
 <td>214</td>
 <td>215</td>
 <td>216</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode217'>217</a></td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode217'>217</a></td>
 <td>218</td>
 <td>219</td>
 <td>220</td>
@@ -268,7 +268,7 @@ Leetcode Solutions
 <td>240</td>
 <tr>
 <td>241</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode242'>242</a></td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode242'>242</a></td>
 <td>243</td>
 <td>244</td>
 <td>245</td>
@@ -383,7 +383,7 @@ Leetcode Solutions
 <td>344</td>
 <td>345</td>
 <td>346</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode347'>347</a></td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode347'>347</a></td>
 <td>348</td>
 <td>349</td>
 <td>350</td>
@@ -2846,9 +2846,9 @@ Leetcode Solutions
 <td>2583</td>
 <td>2584</td>
 <td>2585</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2586'>2586</a></td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2587'>2587</a></td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2588'>2588</a></td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2586'>2586</a></td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2587'>2587</a></td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2588'>2588</a></td>
 <td>2589</td>
 </table>
 
