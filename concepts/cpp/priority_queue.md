@@ -1,6 +1,6 @@
 # Priority Queue
 
-<a href="../labs/priority_queue.ipynb">
+<a href="https://github.com/rain1024/datastructures-algorithms-competitive-programming/blob/main/concepts/cpp/labs/priority_queue.ipynb">
 <img src="https://img.shields.io/badge/🧪-notebook-brightgreen">
 </a>
 
