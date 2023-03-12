@@ -1,10 +1,12 @@
 # Leetcode
 
-Leetcode Solutions
+**Leetcode Solutions**
 
 * 🟢 Easy
 * 🟡 Medium
 * 🔴 Hard 
+
+**Problems**
 
 <!-- table -->
 
