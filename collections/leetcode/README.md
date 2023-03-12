@@ -2,6 +2,10 @@
 
 Leetcode Solutions
 
+* 🟢 Easy
+* 🟡 Medium
+* 🔴 Hard 
+
 <table>
 <tr><td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode1'>1</a></td>
 <td>2</td>
