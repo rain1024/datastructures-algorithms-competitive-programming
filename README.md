@@ -220,7 +220,7 @@ A data structure is a data organization, management, and storage format that is 
 
 **Coding Problems Website**
 
-* [🌟 LeetCode](collections/leetcode/)
+* [🔸 LeetCode](collections/leetcode/)
 
 ## Contributors
 
