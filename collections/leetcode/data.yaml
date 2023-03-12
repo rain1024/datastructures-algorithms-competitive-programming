@@ -1,3 +1,27 @@
 problems:
+- name: 1
+  languages: cpp
+- name: 20
+  languages: cpp
 - name: 23
+  languages: cpp
+- name: 49
+  languages: cpp
+- name: 78
+  languages: cpp
+- name: 142
+  languages: cpp
+- name: 169
+  languages: cpp
+- name: 217
+  languages: cpp
+- name: 242
+  languages: cpp
+- name: 347
+  languages: cpp
+- name: 2586
+  languages: cpp
+- name: 2587
+  languages: cpp
+- name: 2588
   languages: cpp

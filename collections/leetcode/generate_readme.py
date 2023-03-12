@@ -12,7 +12,7 @@ with open(join(wd, 'data.yaml'), 'r') as f:
     data = yaml.load(f, Loader=yaml.FullLoader)
 
 solve_problems = set([int(item['name']) for item in data['problems']])
-print(solve_problems)
+print(f"Solve {len(solve_problems)} problems")
 
 table = ""
 table = "<table>\n<tr>"
