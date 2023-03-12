@@ -23,7 +23,7 @@ Leetcode Solutions
 <td>17</td>
 <td>18</td>
 <td>19</td>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode20'>20</a></td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode20'>20</a></td>
 <tr>
 <td>21</td>
 <td>22</td>
