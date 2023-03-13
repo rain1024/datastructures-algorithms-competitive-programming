@@ -22,11 +22,14 @@ Each data structures and algorithm has its own separate article with related exp
 
 ## Basic Concepts 
 
-* Big-O
-
+<ul>
+<li>
+Big-O
 <a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/big-o.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/big-o.md"><code>ts</code></a>
+</li>
+</ul>
 
 
 ## 📙 Data Structures
