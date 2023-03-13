@@ -22,11 +22,11 @@ Each data structures and algorithm has its own separate article with related exp
   <a href="/readme/typescript">Typescript</a>, 
   <a href="/readme/csharp">CSharp</a>, 
   <a href="/readme/cpp">C++</a>, 
-  <a href="/readme/php">PHP</a>
-  <a href="/readme/c">C</a>
-  <a href="/readme/go">Go</a>
-  <a href="/readme/kotlin">Kotlin</a>
-  <a href="/readme/rust">Rust</a>
+  <a href="/readme/php">PHP</a>,
+  <a href="/readme/c">C</a>,
+  <a href="/readme/go">Go</a>,
+  <a href="/readme/kotlin">Kotlin</a>,
+  <a href="/readme/rust">Rust</a>,
   <a href="/readme/ruby">Ruby</a>
 </h4>
 
