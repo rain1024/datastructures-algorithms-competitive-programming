@@ -704,20 +704,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Branch & Bound ======== -->
 </ul>
 
-
-<table>
-<tr>
-<td colspan="2" align="center"><b>Dynamic Programming</b></td>
-</tr>
-<tr>
-<td>Dynamic Programming (Basic)</td>
-<td>
-
-</td>
-</tr>
-</tbody>
-</table>
-
 ## 🔆 Collections
 
 **Competitive Programming Events**
