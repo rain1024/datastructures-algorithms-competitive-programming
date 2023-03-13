@@ -9,8 +9,6 @@ Each data structures and algorithm has its own separate article with related exp
 
 ---
 
-<!-- Disclaimer -->
-
 <h4 align="center">
   Translations: <b><ins>English</ins></b>, <a href="">中文版本</a>
 </h4>
@@ -29,6 +27,9 @@ Each data structures and algorithm has its own separate article with related exp
 
 ## ⚛ Introduction
 
+<!-- ========================================= -->
+<!--         Auto Generated Section            -->
+<!--          Section: Introduction            -->
 <ul>
 <li>
 <a href="/concepts/abstract/big-o.md">Big-O</a>
