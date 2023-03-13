@@ -31,38 +31,20 @@ Big-O
 </li>
 </ul>
 
-
 ## 📙 Data Structures
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
+
 <ul>
-<li><a href="/concepts/cpp/data_structures.md">Data Structures in C++</a></li>
-</ul>
-<table>
-<thead>
-<th>Concept</th>
-<th>Programming Languages</th>
-</thead>
-<tbody>
-<tr>
-<td colspan="2" align="center"><b>Basic Concepts</b></td>
-</tr>
-<tr>
-<tr>
-<td></td>
-<td>
-<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
-</td>
-<tr>
-<td>Bitwise</td>
-<td>
+<li>
+Bitwise
 <a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
-</td>
-</tr>
+</li>
+</ul>
+
+
 <tr>
 <tr>
 <td colspan="2" align="center"><b>Basic Data Structures</b></td>
