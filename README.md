@@ -414,6 +414,22 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 <li>
 <!-- ======== End Cryptography ======== -->
+<!-- ======== Begin Machine Learning ======== -->
+<li>
+<b>Machine Learning</b>
+<ul>
+<li>
+<code>B</code> NanoNeuron - 7 simple JS functions that illustrate how machines can actually learn (forward/backward propagation)
+</li>
+<li>
+<code>B</code> k-NN - k-nearest neighbors classification algorithm
+</li>
+<li>
+<code>B</code> k-Means - k-Means clustering algorithm
+</li>
+</ul>
+</li>
+<!-- ======== End Machine Learning ======== -->
 </ul>
 
 <table>
