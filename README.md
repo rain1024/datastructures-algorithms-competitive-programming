@@ -16,7 +16,7 @@ Each data structures and algorithm has its own separate article with related exp
 </h4>
 
 <h4 align="center">
-  Programming Languages: Abstract, <a href="">Python</a>, <a href="">C++</a>, Typescript, Javascript, Rust
+  Programming Languages: <u>Abstract</u>, <a href="">Python</a>, <a href="">C++</a>, Typescript, Javascript, Rust
 </h4>
 
 <h4 align="center">
