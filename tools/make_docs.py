@@ -26,5 +26,5 @@ programming_languages = [
 ]
 for programing_language in programming_languages:
     with open(join(readme_dir, programing_language, "README.md"), "w") as f:
-        content = "hi hi"
+        content = "hi hi haha"
         f.write(content)
