@@ -701,12 +701,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <table>
 <tr>
-<td>Greedy</td>
-<td>
-
-</td>
-</tr>
-<tr>
 <td>Range Queries (prefix sum)</td>
 <td>
 <a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
