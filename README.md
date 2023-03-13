@@ -667,7 +667,25 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <b>Backtracking</b> - similarly to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. Normally the DFS traversal of state-space is being used.
 <ul>
 <li>
-<code>B</code> 
+<code>B</code> Jump Game
+</li>
+<li>
+<code>B</code> Unique Paths
+</li>
+<li>
+<code>B</code> Power Set - all subsets of a set
+</li>
+<li>
+<code>A</code> Hamiltonian Cycle - Visit every vertex exactly once
+</li>
+<li>
+<code>A</code> N-Queens Problem
+</li>
+<li>
+<code>A</code> Knight's Tour
+</li>
+<li>
+<code>A</code> Combination Sum - find all combinations that form specific sum
 </li>
 </ul>
 </li>
