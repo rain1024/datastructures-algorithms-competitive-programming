@@ -23,7 +23,7 @@ Each data structures and algorithm has its own separate article with related exp
 
 ---
 
-## Basic Concepts 
+## 📑 Basic Concepts 
 
 <ul>
 <li>
