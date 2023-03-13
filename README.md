@@ -528,6 +528,29 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Brute Force ======== -->
+<!-- ======== Begin Greedy ======== -->
+<li>
+<b>Greedy</b> - make the locally optimal choice at each stage with the hope of finding a global optimum
+<ul>
+<li>
+<code>B</code> Jump Game
+</li>
+<li>
+<code>A</code> Unbound Knapsack Problem
+</li>
+<li>
+<code>A</code> Dijkstra Algorithm - finding the shortest path to all graph vertices
+</li>
+<li>
+<code>A</code> Prim’s Algorithm - finding Minimum Spanning Tree (MST) for weighted undirected graph
+</li>
+<li>
+<code>A</code> Kruskal’s Algorithm - finding Minimum Spanning Tree (MST) for weighted undirected graph
+</li>
+</ul>
+</li>
+<!-- ======== End Greedy ======== -->
+
 </ul>
 <table>
 <tr>
