@@ -213,6 +213,21 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <li>
 <code>A</code> Longest Common Subsequence 
 </li>
+<li>
+<code>A</code> Longest Increasing Subsequence
+</li>
+<li>
+<code>A</code> Shortest Common Supersequence 
+</li>
+<li>
+<code>A</code> Knapsack Problem 
+</li>
+<li>
+<code>A</code> Maximum Subarray 
+</li>
+<li>
+<code>A</code> Combination Sum 
+</li>
 </ul>
 </li>
 <!-- ======== End Sets ======== -->
