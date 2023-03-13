@@ -114,13 +114,13 @@ A data structure is a data organization, management, and storage format that is 
 </li>
 </ul>
 
-## Algorithms
+## 👾 Algorithms
 
 An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.
 
 <code>B</code> - Basic, <code>A</code> - Advanced
 
-**Algorithms by Topic**
+### 📦 Algorithms by Topic
 
 <ul>
 <!-- ======== Begin Math ======== -->
