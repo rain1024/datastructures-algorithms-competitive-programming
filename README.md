@@ -12,7 +12,7 @@ Each data structures and algorithm has its own separate article with related exp
 <!-- Disclaimer -->
 
 <h4 align="center">
-  Translations: <b><ins>English</ins></b>, 中文版本
+  Translations: <b><ins>English</ins></b>, <a href="">中文版本</a>
 </h4>
 
 <h4 align="center">
