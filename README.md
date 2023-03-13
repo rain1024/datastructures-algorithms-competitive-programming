@@ -318,6 +318,21 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Sorting ======== -->
+<!-- ======== Begin Linked Lists ======== -->
+<ul>
+<li>
+<b>Linked Lists</b>
+<ul>
+<li>
+<code>B</code> Straight Traversal
+</li>
+<li>
+<code>B</code> Reverse Traversal
+</li>
+</ul>
+</li>
+</ul>
+<!-- ======== End Linked Lists ======== -->
 </ul>
 
 <table>
