@@ -75,7 +75,6 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/python/hash_table.md"><code>py🐍</code></a>
 </li>
 <li>
-<li>
 <code>B</code> Heap
 </li>
 <li>
