@@ -330,8 +330,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 </ul>
 </li>
-</ul>
-</li>
 <!-- ======== End Linked Lists ======== -->
 </ul>
 
