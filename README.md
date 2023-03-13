@@ -121,10 +121,17 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <ul>
 <li>
+<!-- ======== Math ======== -->
+<b>Math</b>
+<ul>
+<li>
 <code>B</code> Bit Manipulation
 <a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
 </li>
+</ul>
+</li>
+
 </ul>
 
 <table>
