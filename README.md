@@ -241,6 +241,24 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <li>
 <code>B</code> Palindrome 
 </li>
+<li>
+<code>A</code> Levenshtein Distance 
+</li>
+<li>
+<code>A</code> Knuth–Morris–Pratt Algorithm 
+</li>
+<li>
+<code>A</code> Z Algorithm 
+</li>
+<li>
+<code>A</code> Rabin Karp Algorithm 
+</li>
+<li>
+<code>A</code> Longest Common Substring
+</li>
+<li>
+<code>A</code> Regular Expression Matching
+</li>
 </ul>
 </li>
 <!-- ======== End Strings ======== -->
