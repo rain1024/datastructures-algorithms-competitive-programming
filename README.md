@@ -37,10 +37,11 @@ Each data structures and algorithm has its own separate article with related exp
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
+<code>B</code> - Basic, <code>A</code> - Advanced
 
 <ul>
 <li>
-Bitwise
+Bit Manipulation
 <a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
 </li>
