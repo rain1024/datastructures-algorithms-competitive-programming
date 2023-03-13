@@ -506,6 +506,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Brute Force ======== -->
 <li>
 <b>Brute Force</b> - look at all the possibilities and selects the best solution
+<a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/brute_force.md"><code>py🐍</code></a>
 <ul>
 <li>
 <code>B</code> Linear Search
@@ -667,8 +669,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <tr>
 <td>Brute force, Backtracking</td>
 <td>
-<a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/brute_force.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
