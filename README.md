@@ -117,6 +117,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <code>B</code> - Basic, <code>A</code> - Advanced
 
+**Algorithms by Topic**
+
 <ul>
 <li>
 <code>B</code> Bit Manipulation
@@ -124,8 +126,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
 </li>
 </ul>
-
-**Algorithms by Topic**
 
 <table>
 <tr>
