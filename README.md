@@ -94,8 +94,21 @@ A data structure is a data organization, management, and storage format that is 
 </ul>
 </li>
 <li>
-<code>A</code>Graph
+<code>A</code> Graph
 </li>
+<li>
+<code>A</code> Disjoin Set
+</li>
+<li>
+<code>A</code> Bloom Filter
+</li>
+<li>
+<code>A</code> LRU Cache
+</li>
+<li>
+<code>A</code> Skiplist
+<a href="/concepts/cpp/skip_list.md"><code>cpp🐀</code>
+<li>
 </ul>
 
 ## Algorithms
@@ -203,23 +216,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </table>
 
 **Algorithms by Paradigm**
-
-**Advanced Data Structures and Algorithms**
-
-<table>
-<thead>
-<th>Advanced Concept</th>
-<th>Programming Languages</th>
-</thead>
-<tbody>
-<tr>
-<td>Skiplist</td>
-<td>
-<a href="/concepts/cpp/skip_list.md"><code>cpp🐀</code></a>
-</td>
-</tr>
-</tbody>
-</table>
 
 ## 🔆 Collections
 
