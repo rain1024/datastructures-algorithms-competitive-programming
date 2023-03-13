@@ -505,7 +505,27 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <ul>
 <!-- ======== Begin Brute Force ======== -->
 <li>
-<b>Brute Force</b>
+<b>Brute Force</b> - look at all the possibilities and selects the best solution
+<ul>
+<li>
+<code>B</code> Linear Search
+</li>
+<li>
+<code>B</code> Rain Terraces - trapping rain water problem
+</li>
+<li>
+<code>B</code> Recursive Staircase - count the number of ways to reach to the top
+</li>
+<li>
+<code>A</code> Maximum Subarray
+</li>
+<li>
+<code>A</code> Travelling Salesman Problem - shortest possible route that visits each city and returns to the origin city
+</li>
+<li>
+<code>A</code> Discrete Fourier Transform - decompose a function of time (a signal) into the frequencies that make it up
+</li>
+</ul>
 </li>
 <!-- ======== End Brute Force ======== -->
 </ul>
