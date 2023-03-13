@@ -344,6 +344,16 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Trees ======== -->
+<!-- ======== Begin Graphs ======== -->
+<li>
+<b>Graphs</b>
+<ul>
+<li>
+<code>B</code> Breadth-First Search (BFS)
+</li>
+</ul>
+</li>
+<!-- ======== End Graphs ======== -->
 </ul>
 
 <table>
