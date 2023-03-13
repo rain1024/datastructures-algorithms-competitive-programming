@@ -440,32 +440,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center"><b>Graph</b></td>
-</tr>
-<tr>
-<td>Graph representations</td>
-<td>
-<a href="/concepts/java/graph.md"><code>java☕</code></a>
-<a href="/concepts/typescript/graph.md"><code>ts</code></a>
-</td>
-</tr>
-<tr>
-<td>Graph traversal - Depth First Search (DFS)</td>
-<td>
-<a href="/concepts/typescript/graph_traversal.md#depth-first-search-dfs"><code>ts</code></a>
-</td>
-</tr>
-<tr>
-<td>Graph traversal - Breath First Search (BFS)</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>Graph Shortest Paths - Dijkstra's Algorithm</td>
-<td>
-</td>
-</tr>
-<tr>
 <td>Topology Sort</td>
 <td>
 </td>
