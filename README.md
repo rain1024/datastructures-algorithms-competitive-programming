@@ -699,11 +699,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <td>
 </td>
 </tr>
-<tr>
-<td>Topology Sort</td>
-<td>
-</td>
-</tr>
 </tbody>
 </table>
 
