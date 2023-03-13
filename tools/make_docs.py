@@ -23,6 +23,11 @@ programming_languages = [
     "csharp",
     "cpp",
     "php",
+    "c",
+    "go",
+    "kotlin",
+    "rust",
+    "ruby",
 ]
 
 # read template from README.md
