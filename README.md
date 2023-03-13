@@ -20,10 +20,22 @@ Each data structures and algorithm has its own separate article with related exp
 
 ---
 
+## Basic Concepts 
+
+* Big-O
+
+<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
+<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
+
+
 ## 📙 Data Structures
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
+<ul>
+<li><a href="/concepts/cpp/data_structures.md">Data Structures in C++</a></li>
+</ul>
 <table>
 <thead>
 <th>Concept</th>
@@ -35,7 +47,7 @@ A data structure is a data organization, management, and storage format that is 
 </tr>
 <tr>
 <tr>
-<td>Big-O</td>
+<td></td>
 <td>
 <a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/big-o.md"><code>py🐍</code></a>
