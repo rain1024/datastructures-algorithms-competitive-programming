@@ -262,6 +262,25 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Strings ======== -->
+<!-- ======== Begin Searches ======== -->
+<li>
+<b>Searches</b>
+<ul>
+<li>
+<code>B</code> Linear Search
+</li>
+<li>
+<code>B</code> Jump Search
+</li>
+<li>
+<code>B</code> Binary Search
+</li>
+<li>
+<code>B</code> Interpolation Search 
+</li>
+</ul>
+</li>
+<!-- ======== End Searches ======== -->
 </ul>
 
 <table>
