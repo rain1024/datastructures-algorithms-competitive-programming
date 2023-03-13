@@ -667,11 +667,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <table>
 <tr>
-<td>Brute force, Backtracking</td>
-<td>
-</td>
-</tr>
-<tr>
 <td>Greedy</td>
 <td>
 <a href="/concepts/python/greedy.md"><code>py🐍</code></a>
