@@ -319,7 +319,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 <!-- ======== End Sorting ======== -->
 <!-- ======== Begin Linked Lists ======== -->
-<ul>
 <li>
 <b>Linked Lists</b>
 <ul>
@@ -332,6 +331,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 </ul>
+</li>
 <!-- ======== End Linked Lists ======== -->
 </ul>
 
