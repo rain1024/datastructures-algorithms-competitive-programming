@@ -322,17 +322,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <table>
 <tr>
-<td>Sorting</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>Searching</td>
-<td>
-</td>
-</tr>
-<tr>
 <td>Brute force, Backtracking</td>
 <td>
 <a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
