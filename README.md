@@ -44,7 +44,7 @@ Bitwise
 </li>
 </ul>
 
-
+<table>
 <tr>
 <tr>
 <td colspan="2" align="center"><b>Basic Data Structures</b></td>
