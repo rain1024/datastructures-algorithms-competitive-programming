@@ -555,49 +555,49 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <b>Divide and Conquer</b> - divide the problem into a number of subproblems that are smaller instances of the same problem
 <ul>
 <li>
-<code>B</code> 
+<code>B</code> Binary Search
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Tower of Hanoi
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Pascal's Triangle
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Euclidean Algorithm - calculate the Greatest Common Divisor (GCD)
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Merge Sort
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Quicksort
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Tree Depth-First Search (DFS)
 </li>
 <li>
-<code>B</code> 
+<code>B</code>  Graph Depth-First Search (DFS)
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Matrices - generating and traversing the matrices of different shapes
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Jump Game
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Fast Powering
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Best Time To Buy Sell Stocks - divide and conquer and one-pass examples
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Permutations (with and without repetitions)
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Combinations (with and without repetitions)
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Maximum Subarray
 </li>
 </ul>
 </li>
