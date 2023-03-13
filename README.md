@@ -533,6 +533,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Greedy ======== -->
 <li>
 <b>Greedy</b> - make the locally optimal choice at each stage with the hope of finding a global optimum
+<a href="/concepts/python/greedy.md"><code>py🐍</code></a>
 <ul>
 <li>
 <code>B</code> Jump Game
@@ -702,7 +703,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <tr>
 <td>Greedy</td>
 <td>
-<a href="/concepts/python/greedy.md"><code>py🐍</code></a>
+
 </td>
 </tr>
 <tr>
