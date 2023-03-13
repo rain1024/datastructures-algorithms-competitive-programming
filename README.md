@@ -612,7 +612,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Divide and Conquer ======== -->
 <!-- ======== Begin Dynamic Programming ======== -->
 <li>
-<b>Dynamic Programming</b> - break the problem into subproblems and store the results of subproblems to avoid computing the same results again
+<b>Dynamic Programming</b> - break the problem into subproblems and store the results of subproblems to avoid computing the same results again<br/>
+basic (<a href="/concepts/cpp/dp_basic.md"><code>cpp🐀</code></a>), intermidate(<a href="/concepts/cpp/dp_intermediate.md"><code>cpp🐀</code></a>)
 <ul>
 <li>
 <code>B</code> Fibonacci Number
@@ -711,13 +712,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <tr>
 <td>Dynamic Programming (Basic)</td>
 <td>
-<a href="/concepts/cpp/dp_basic.md"><code>cpp🐀</code></a>
-</td>
-</tr>
-<tr>
-<td>Dynamic Programming (Intermediate)</td>
-<td>
-<a href="/concepts/cpp/dp_intermediate.md"><code>cpp🐀</code></a>
+
 </td>
 </tr>
 </tbody>
