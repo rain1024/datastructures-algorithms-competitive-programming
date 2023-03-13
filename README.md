@@ -502,6 +502,13 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 ### 💠 Algorithms by Paradigm
 
+<ul>
+<!-- ======== Begin Brute Force ======== -->
+<li>
+<b>Brute Force</b>
+</li>
+<!-- ======== End Brute Force ======== -->
+</ul>
 <table>
 <tr>
 <td>Brute force, Backtracking</td>
