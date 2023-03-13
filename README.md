@@ -412,7 +412,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <li>
 <code>B</code> Hill Cipher - substitution cipher based on linear algebra
 </li>
-<li>
 <!-- ======== End Cryptography ======== -->
 <!-- ======== Begin Machine Learning ======== -->
 <li>
