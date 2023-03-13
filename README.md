@@ -349,7 +349,49 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <b>Graphs</b>
 <ul>
 <li>
+<code>B</code> Depth-First Search (DFS)
+</li>
+<li>
 <code>B</code> Breadth-First Search (BFS)
+</li>
+<li>
+<code>B</code> Kruskal’s Algorithm 
+</li>
+<li>
+<code>A</code> Dijkstra Algorithm 
+</li>
+<li>
+<code>A</code> Bellman-Ford Algorithm
+</li>
+<li>
+<code>A</code> Floyd-Warshall Algorithm 
+</li>
+<li>
+<code>A</code> Detect Cycle
+</li>
+<li>
+<code>A</code> Prim’s Algorithm
+</li>
+<li>
+<code>A</code> Topological Sorting
+</li>
+<li>
+<code>A</code> Articulation Points
+</li>
+<li>
+<code>A</code> Bridges - DFS based algorithm
+</li>
+<li>
+<code>A</code> Eulerian Path and Eulerian Circuit - Fleury's algorithm - Visit every edge exactly once
+</li>
+<li>
+<code>A</code> Hamiltonian Cycle - Visit every vertex exactly once
+</li>
+<li>
+<code>A</code> Strongly Connected Components - Kosaraju's algorithm
+</li>
+<li>
+<code>A</code> Travelling Salesman Problem - shortest possible route that visits each city and returns to the origin city
 </li>
 </ul>
 </li>
