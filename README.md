@@ -331,6 +331,11 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Linked Lists ======== -->
+<!-- ======== Begin Trees ======== -->
+<li>
+<b>Trees</b>
+</li>
+<!-- ======== End Trees ======== -->
 </ul>
 
 <table>
