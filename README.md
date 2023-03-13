@@ -120,8 +120,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 **Algorithms by Topic**
 
 <ul>
-<li>
 <!-- ======== Math ======== -->
+<li>
 <b>Math</b>
 <ul>
 <li>
@@ -191,7 +191,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 </ul>
 </li>
-
+<!-- ======== END Math ======== -->
 </ul>
 
 <table>
