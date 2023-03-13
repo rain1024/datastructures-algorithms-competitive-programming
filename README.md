@@ -82,7 +82,7 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/cpp/priority_queue.md"><code>cpp🐀</code></a>
 </li>
 <li>
-<code>A</code>Tree
+<code>A</code> Tree
 <a href="/concepts/cpp/tree.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/tree.md"><code>py🐍</code></a>
 <ul>
