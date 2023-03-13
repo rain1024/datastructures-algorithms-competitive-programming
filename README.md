@@ -129,6 +129,9 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
 </li>
+<li>
+<code>B</code> Binary Floating Point 
+</li>
 </ul>
 </li>
 
