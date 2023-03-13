@@ -47,66 +47,46 @@ A data structure is a data organization, management, and storage format that is 
 <code>B</code> String
 <a href="/concepts/python/string.md"><code>py🐍</code></a>
 </li>
-</ul>
-
-<table>
-<tr>
-<tr>
-<td colspan="2" align="center"><b>Basic Data Structures</b></td>
-</tr>
-<tr>
-<td>Linked List</td>
-<td>
+<li>
+<code>B</code> Linked List
 <a href="/concepts/python/linked-list.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
-</td>
-<tr>
-<td>Stack</td>
-<td>
+</li>
+<li>
+<code>B</code> Stack
 <a href="/concepts/python/stack.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/stack.md"><code>ts</code></a>
-</td>
-</tr>
-<tr>
-<td>Queue</td>
-<td>
+</li>
+<li>
+<code>B</code> Queue
 <a href="/concepts/cpp/queue.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/queue.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/queue.md"><code>ts</code></a>
-</td>
-<tr>
-<td>Set</td>
-<td>
+</li>
+<li>
+<code>B</code> Set
 <a href="/concepts/cpp/set.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/sets.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/set.md"><code>ts</code></a>
-</td>
-</tr>
-<tr>
-<td>Hash Table</td>
-<td>
+</li>
+<li>
+<code>B</code> Hash Table
 <a href="/concepts/cpp/hash_table.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/hash_table.md"><code>py🐍</code></a>
-</td>
-</tr>
-<tr>
-<td>Tree (Binary Search Tree, AVL Tree, Red-Black Tree, Segment Tree, Fenwick Tree</td>
-<td>
+</li>
+<li>
+<code>B</code> Tree (Binary Search Tree, AVL Tree, Red-Black Tree, Segment Tree, Fenwick Tree
 <a href="/concepts/cpp/tree.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/tree.md"><code>py🐍</code></a>
-</td>
-</tr>
-<tr>
-<td>Heap</td>
-<td>
-</td>
-<tr>
-<td>Priority Queue</td>
-<td>
+</li>
+<li>
+Heap
+</li>
+<li>
+Priority Queue
 <a href="/concepts/cpp/priority_queue.md"><code>cpp🐀</code></a>
-</td>
-</tr>
-</table>
+</li>
+</ul>
 
 ## Algorithms
 
