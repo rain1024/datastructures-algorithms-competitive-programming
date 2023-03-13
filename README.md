@@ -498,8 +498,9 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Uncategorized ======== -->
-
 </ul>
+
+### 💠 Algorithms by Paradigm
 
 <table>
 <tr>
@@ -549,8 +550,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </tr>
 </tbody>
 </table>
-
-**Algorithms by Paradigm**
 
 ## 🔆 Collections
 
