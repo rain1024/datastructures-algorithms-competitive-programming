@@ -396,6 +396,24 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Graphs ======== -->
+<!-- ======== Begin Cryptography ======== -->
+<li>
+<b>Cryptography</b>
+<ul>
+<li>
+<code>B</code> Polynomial Hash - rolling hash function based on polynomial
+</li>
+<li>
+<code>B</code> Rail Fence Cipher - a transposition cipher algorithm for encoding messages
+</li>
+<li>
+<code>B</code> Caesar Cipher - simple substitution cipher
+</li>
+<li>
+<code>B</code> Hill Cipher - substitution cipher based on linear algebra
+</li>
+<li>
+<!-- ======== End Cryptography ======== -->
 </ul>
 
 <table>
