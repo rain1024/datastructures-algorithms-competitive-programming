@@ -132,6 +132,63 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <li>
 <code>B</code> Binary Floating Point 
 </li>
+<li>
+<code>B</code> Factorial
+</li>
+<li>
+<code>B</code> Fibonacci Number
+</li>
+<li>
+<code>B</code> Prime Factors 
+</li>
+<li>
+<code>B</code> Primality Test 
+</li>
+<li>
+<code>B</code> Euclidean Algorithm
+</li>
+<li>
+<code>B</code> Least Common Multiple 
+</li>
+<li>
+<code>B</code> Sieve of Eratosthenes 
+</li>
+<li>
+<code>B</code> Is Power of Two
+</li>
+<li>
+<code>B</code> Pascal's Triangle
+</li>
+<li>
+<code>B</code> Complex Number
+</li>
+<li>
+<code>B</code> Radian & Degree 
+</li>
+<li>
+<code>B</code> Fast Powering
+</li>
+<li>
+<code>B</code> Horner's method  
+</li>
+<li>
+<code>B</code> Matrices 
+</li>
+<li>
+<code>B</code> Euclidean Distance 
+</li>
+<li>
+<code>A</code> Integer Partition
+</li>
+<li>
+<code>A</code> Square Root 
+</li>
+<li>
+<code>A</code> Liu Hui π Algorithm 
+</li>
+<li>
+<code>A</code> Discrete Fourier Transform 
+</li>
 </ul>
 </li>
 
