@@ -16,6 +16,10 @@ Each data structures and algorithm has its own separate article with related exp
 </h4>
 
 <h4 align="center">
+  Programming Languages: Python, C++, Typescript, Javascript, Rust
+</h4>
+
+<h4 align="center">
 
 ⭐ [New Version 1.2.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
 
