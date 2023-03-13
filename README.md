@@ -120,7 +120,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 **Algorithms by Topic**
 
 <ul>
-<!-- ======== Math ======== -->
+<!-- ======== Begin Math ======== -->
 <li>
 <b>Math</b>
 <ul>
@@ -191,7 +191,31 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 </ul>
 </li>
-<!-- ======== END Math ======== -->
+<!-- ======== End Math ======== -->
+<!-- ======== Begin Sets ======== -->
+<b>Sets</b>
+<ul>
+<li>
+<code>B</code> Cartesian Product 
+</li>
+<li>
+<code>B</code> Fisher–Yates Shuffle 
+</li>
+<li>
+<code>A</code> Power Set
+</li>
+<li>
+<code>A</code> Permutations
+</li>
+<li>
+<code>A</code> Combinations
+</li>
+<li>
+<code>A</code> Longest Common Subsequence 
+</li>
+</ul>
+</li>
+<!-- ======== End Sets ======== -->
 </ul>
 
 <table>
