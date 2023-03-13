@@ -265,6 +265,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Searches ======== -->
 <li>
 <b>Searches</b>
+<a href="/concepts/python/searching.md"><code>py🐍</code></a>
 <ul>
 <li>
 <code>B</code> Linear Search
@@ -284,6 +285,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Sorting ======== -->
 <li>
 <b>Sorting</b>
+<a href="/concepts/cpp/sorting.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/sorting.md"><code>py🐍</code></a>
 <ul>
 <li>
 <code>B</code> Bubble Sort
@@ -321,14 +324,12 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <tr>
 <td>Sorting</td>
 <td>
-<a href="/concepts/cpp/sorting.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/sorting.md"><code>py🐍</code></a>
+
 </td>
 </tr>
 <tr>
 <td>Searching</td>
 <td>
-<a href="/concepts/python/searching.md"><code>py🐍</code></a>
 </td>
 </tr>
 <tr>
