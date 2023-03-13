@@ -334,6 +334,14 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Trees ======== -->
 <li>
 <b>Trees</b>
+<ul>
+<li>
+<code>B</code> Depth-First Search (DFS)
+</li>
+<li>
+<code>B</code> Breadth-First Search (BFS)
+</li>
+</ul>
 </li>
 <!-- ======== End Trees ======== -->
 </ul>
