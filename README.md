@@ -610,58 +610,52 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <code>B</code> Fibonacci Number
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Jump Game
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Unique Paths
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Rain Terraces - trapping rain water problem
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Recursive Staircase - count the number of ways to reach to the top
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Seam Carving - content-aware image resizing algorithm
 </li>
 <li>
-<code>B</code> 
+<code>A</code> Levenshtein Distance - minimum edit distance between two sequences
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Longest Common Subsequence (LCS)
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Longest Common Substring
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Longest Increasing Subsequence
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Shortest Common Supersequence
 </li>
 <li>
-<code>A</code> 
+<code>A</code> 0/1 Knapsack Problem
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Integer Partition
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Maximum Subarray
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Bellman-Ford Algorithm - finding the shortest path to all graph vertices
 </li>
 <li>
-<code>A</code> 
+<code>A</code> Floyd-Warshall Algorithm - find the shortest paths between all pairs of vertices
 </li>
 <li>
-<code>A</code> 
-</li>
-<li>
-<code>A</code> 
-</li>
-<li>
-<code>A</code> 
+<code>A</code> Regular Expression Matching
 </li>
 </ul>
 </li>
