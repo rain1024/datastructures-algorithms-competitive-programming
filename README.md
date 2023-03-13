@@ -281,6 +281,40 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Searches ======== -->
+<!-- ======== Begin Sorting ======== -->
+<li>
+<b>Sorting</b>
+<ul>
+<li>
+<code>B</code> Bubble Sort
+</li>
+<li>
+<code>B</code> Selection Sort
+</li>
+<li>
+<code>B</code> Insertion Sort
+</li>
+<li>
+<code>B</code> Heap Sort
+</li>
+<li>
+<code>B</code> Merge Sort
+</li>
+<li>
+<code>B</code> Quicksort 
+</li>
+<li>
+<code>B</code> Shellsort
+</li>
+<li>
+<code>B</code> Counting Sort
+</li>
+<li>
+<code>B</code> Radix Sort
+</li>
+</ul>
+</li>
+<!-- ======== End Sorting ======== -->
 </ul>
 
 <table>
