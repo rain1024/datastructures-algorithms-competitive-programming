@@ -100,6 +100,11 @@ A data structure is a data organization, management, and storage format that is 
 <code>A</code> Graph
 </li>
 <li>
+<code>A</code> Prefix sum (Range queries)
+<a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/range_queries.md"><code>py🐍</code></a>
+</li>
+<li>
 <code>A</code> Disjoin Set
 </li>
 <li>
@@ -701,13 +706,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <table>
 <tr>
-<td>Range Queries (prefix sum)</td>
-<td>
-<a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/range_queries.md"><code>py🐍</code></a>
-</td>
-</tr>
-<tr>
 <td colspan="2" align="center"><b>Dynamic Programming</b></td>
 </tr>
 <tr>
@@ -720,11 +718,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <td>Dynamic Programming (Intermediate)</td>
 <td>
 <a href="/concepts/cpp/dp_intermediate.md"><code>cpp🐀</code></a>
-</td>
-</tr>
-<tr>
-<td>Dynamic Programming (Advanced)</td>
-<td>
 </td>
 </tr>
 </tbody>
