@@ -93,6 +93,9 @@ A data structure is a data organization, management, and storage format that is 
 <li><code>A</code> Fenwick Tree</li>
 </ul>
 </li>
+<li>
+<code>A</code>Graph
+</li>
 </ul>
 
 ## Algorithms
