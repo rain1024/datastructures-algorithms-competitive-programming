@@ -662,6 +662,16 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Dynamic Programming ======== -->
+<!-- ======== Begin Backtracking ======== -->
+<li>
+<b>Backtracking</b> - similarly to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. Normally the DFS traversal of state-space is being used.
+<ul>
+<li>
+<code>B</code> 
+</li>
+</ul>
+</li>
+<!-- ======== End Backtracking ======== -->
 </ul>
 
 
