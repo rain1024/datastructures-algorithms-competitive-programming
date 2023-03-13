@@ -454,6 +454,48 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Statistics ======== -->
+<!-- ======== Begin Evolutionary algorithms ======== -->
+<li>
+<b>Evolutionary algorithms</b>
+<ul>
+<li>
+<code>A</code> Genetic algorithm - example of how the genetic algorithm may be applied for training the self-parking cars
+</li>
+</ul>
+</li>
+<!-- ======== End Evolutionary algorithms ======== -->
+<!-- ======== Begin Uncategorized ======== -->
+<li>
+<b>Uncategorized</b>
+<ul>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>A</code> 
+</li>
+<li>
+<code>A</code> 
+</li>
+</ul>
+</li>
+<!-- ======== End Uncategorized ======== -->
+
 </ul>
 
 <table>
