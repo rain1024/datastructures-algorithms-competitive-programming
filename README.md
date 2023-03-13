@@ -441,6 +441,16 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Image Processing ======== -->
+<!-- ======== Begin Statistics ======== -->
+<li>
+<b>Statistics</b>
+<ul>
+<li>
+<code>B</code> Weighted Random - select the random item from the list based on items' weights
+</li>
+</ul>
+</li>
+<!-- ======== End Statistics ======== -->
 </ul>
 
 <table>
