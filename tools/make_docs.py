@@ -24,7 +24,12 @@ programming_languages = [
     "cpp",
     "php",
 ]
+
+# read template from README.md
+with open(join(workspace_dir, "README.md"), "r") as f:
+    template = f.read()
+
 for programing_language in programming_languages:
     with open(join(readme_dir, programing_language, "README.md"), "w") as f:
-        content = "hi hi haha"
+        content = template
         f.write(content)
