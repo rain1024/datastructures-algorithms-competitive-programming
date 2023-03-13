@@ -39,14 +39,6 @@ A data structure is a data organization, management, and storage format that is 
 
 <code>B</code> - Basic, <code>A</code> - Advanced
 
-<ul>
-<li>
-Bit Manipulation
-<a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
-</li>
-</ul>
-
 <table>
 <tr>
 <tr>
@@ -123,6 +115,16 @@ Bit Manipulation
 ## Algorithms
 
 An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.
+
+<code>B</code> - Basic, <code>A</code> - Advanced
+
+<ul>
+<li>
+<code>B</code> Bit Manipulation
+<a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
+</li>
+</ul>
 
 **Algorithms by Topic**
 
