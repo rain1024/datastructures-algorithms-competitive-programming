@@ -231,6 +231,19 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Sets ======== -->
+<!-- ======== Begin Strings ======== -->
+<li>
+<b>Strings</b>
+<ul>
+<li>
+<code>B</code> Hamming Distance 
+</li>
+<li>
+<code>B</code> Palindrome 
+</li>
+</ul>
+</li>
+<!-- ======== End Strings ======== -->
 </ul>
 
 <table>
