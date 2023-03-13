@@ -12,7 +12,11 @@ Each data structures and algorithm has its own separate article with related exp
   Translations: <b>English</b>, 中文版本
 </h4>
 
+<p align="center">
+
 ⭐ [New Version 1.2.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
+
+</p>
 
 ---
 
