@@ -431,6 +431,16 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Machine Learning ======== -->
+<!-- ======== Begin Image Processing ======== -->
+<li>
+<b>Image Processing</b>
+<ul>
+<li>
+<code>B</code> Seam Carving - content-aware image resizing algorithm
+</li>
+</ul>
+</li>
+<!-- ======== End Image Processing ======== -->
 </ul>
 
 <table>
