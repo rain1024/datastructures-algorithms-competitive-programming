@@ -469,28 +469,31 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <b>Uncategorized</b>
 <ul>
 <li>
-<code>B</code> 
+<code>B</code> Tower of Hanoi
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Square Matrix Rotation - in-place algorithm
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Jump Game - backtracking, dynamic programming (top-down + bottom-up) and greedy examples
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Unique Paths - backtracking, dynamic programming and Pascal's Triangle based examples
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Rain Terraces - trapping rain water problem (dynamic programming and brute force versions)
 </li>
 <li>
-<code>B</code> 
+<code>B</code> Recursive Staircase - count the number of ways to reach to the top (4 solutions)
 </li>
 <li>
-<code>A</code> 
+<code>B</code> Best Time To Buy Sell Stocks - divide and conquer and one-pass examples
 </li>
 <li>
-<code>A</code> 
+<code>A</code> N-Queens Problem
+</li>
+<li>
+<code>A</code> Knight's Tour
 </li>
 </ul>
 </li>
