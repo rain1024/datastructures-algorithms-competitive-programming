@@ -9,7 +9,7 @@ Each data structures and algorithm has its own separate article with related exp
 <!-- Disclaimer -->
 
 <h4 align="center">
-  Translations: <b>English</b>, 中文版本, 
+  Translations: <b>English</b>, 中文版本
 </h4>
 
 ⭐ [New Version 1.2.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
@@ -17,11 +17,9 @@ Each data structures and algorithm has its own separate article with related exp
 ---
 
 
-## 📙 Data Structures & Algorithms
+## 📙 Data Structures
 
-A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.  More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
-
-
+A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
 <table>
 <thead>
@@ -113,9 +111,11 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/cpp/priority_queue.md"><code>cpp🐀</code></a>
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center"><b>Algorithms</b></td>
-</tr>
+</table>
+
+## Algorithms
+
+<table>
 <tr>
 <td>Sorting</td>
 <td>
