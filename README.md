@@ -86,11 +86,11 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/cpp/tree.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/tree.md"><code>py🐍</code></a>
 <ul>
-<li>Binary Search Tree</li>
-<li>AVL Tree</li>
-<li>Red-Black Tree</li>
-<li>Segment Tree</li>
-<li>Fenwick Tree</li>
+<li><code>A</code> Binary Search Tree</li>
+<li><code>A</code> AVL Tree</li>
+<li><code>A</code> Red-Black Tree</li>
+<li><code>A</code> Segment Tree</li>
+<li><code>A</code> Fenwick Tree</li>
 </ul>
 </li>
 </ul>
