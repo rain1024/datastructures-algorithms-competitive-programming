@@ -1,7 +1,9 @@
+<!-- BEGIN HEADER -->
 <h1 align="center">
 Data Structures & Algorithms <br/>
 Competitive Programming
 </h1>
+<!-- END HEADER -->
 
 This repository contains introductions and examples of many popular data structures and algorithms.
 
