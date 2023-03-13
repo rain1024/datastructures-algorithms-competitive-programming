@@ -20,7 +20,6 @@ Each data structures and algorithm has its own separate article with related exp
 
 ---
 
-
 ## 📙 Data Structures
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
@@ -119,6 +118,10 @@ A data structure is a data organization, management, and storage format that is 
 
 ## Algorithms
 
+An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.
+
+**Algorithms by Topic**
+
 <table>
 <tr>
 <td>Sorting</td>
@@ -206,6 +209,8 @@ A data structure is a data organization, management, and storage format that is 
 </tr>
 </tbody>
 </table>
+
+**Algorithms by Paradigm**
 
 **Advanced Data Structures and Algorithms**
 
