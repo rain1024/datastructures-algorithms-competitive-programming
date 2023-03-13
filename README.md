@@ -550,8 +550,61 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Greedy ======== -->
-
+<!-- ======== Begin Divide and Conquer ======== -->
+<li>
+<b>Divide and Conquer</b> - divide the problem into a number of subproblems that are smaller instances of the same problem
+<ul>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>B</code> 
+</li>
+<li>
+<code>A</code> 
+</li>
+<li>
+<code>A</code> 
+</li>
+<li>
+<code>A</code> 
+</li>
 </ul>
+</li>
+<!-- ======== End Divide and Conquer ======== -->
+</ul>
+
+
 <table>
 <tr>
 <td>Brute force, Backtracking</td>
