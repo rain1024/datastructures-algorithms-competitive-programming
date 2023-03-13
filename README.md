@@ -22,6 +22,8 @@ Each data structures and algorithm has its own separate article with related exp
 
 ## Basic Concepts 
 
+<code>B</code> - Basic, <code>A</code> - Advanced
+
 <ul>
 <li>
 <code>B</code> Big-O
