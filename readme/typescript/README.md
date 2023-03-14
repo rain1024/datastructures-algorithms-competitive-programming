@@ -12,11 +12,7 @@ Each data structures and algorithm has its own separate article with related exp
 ---
 
 <h4 align="center">
-  Translations: <b><ins>English</ins></b>, <a href="">中文版本</a>
-</h4>
-
-<h4 align="center">
-  Programming Languages: <ins>Abstract</ins>, 
+  Programming Languages: <br/>
   <a href="/readme/javascript">Javascript</a>, 
   <a href="/readme/python">Python</a>, 
   <a href="/readme/java">Java</a>, 
