@@ -714,6 +714,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 **Coding Problems Website**
 
 * [🔸 LeetCode](collections/leetcode/)
+* [🔸 Codeforces](collections/codeforces/)
 
 **Courses & Specialization**
 
