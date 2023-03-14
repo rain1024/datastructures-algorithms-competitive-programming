@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <tr>
-<td>6A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces6A'>6A</a></td>
 <td>6B</td>
 <td>6C</td>
 <td>6D</td>
@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <tr>
-<td>7A</td>
+<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces7A'>7A</a></td>
 <td>7B</td>
 <td>7C</td>
 <td>7D</td>
@@ -82,7 +82,7 @@
 </tr>
 <tr>
 <tr>
-<td>8A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces8A'>8A</a></td>
 <td>8B</td>
 <td>8C</td>
 <td>8D</td>
