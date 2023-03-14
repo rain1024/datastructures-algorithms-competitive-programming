@@ -1,0 +1,7 @@
+problems:
+- name: 1A
+  languages: cpp
+  score: 1000
+- name: 4C
+  languages: cpp
+  score: 1300
