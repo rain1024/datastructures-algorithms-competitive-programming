@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <tr>
-<td><a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces7A'>7A</a></td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces7A'>7A</a></td>
 <td>7B</td>
 <td>7C</td>
 <td>7D</td>

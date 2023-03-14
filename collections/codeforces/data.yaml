@@ -22,6 +22,7 @@ problems:
   score: 900
 - name: 7A
   languages: cpp
+  score: 1100
 - name: 8A
   languages: cpp
   score: 1100
