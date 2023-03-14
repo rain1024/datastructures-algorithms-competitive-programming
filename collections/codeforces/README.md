@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <tr>
-<td>5A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces5A'>5A</a></td>
 <td>5B</td>
 <td>5C</td>
 <td>5D</td>
