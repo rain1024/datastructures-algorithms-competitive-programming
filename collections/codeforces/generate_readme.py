@@ -30,12 +30,13 @@ for i in range(1, 1804):
     for j in ['A', 'B', 'C', 'D', 'E', 'F', 'G']:
         id = f"{i}{j}"
         if id not in solved_problems:
-            table += f"<td>{id}</td>\n"
+            tr += f"<td>{id}</td>\n"
         else:
             td = "<td>"
             td += get_level(problems[id])
             td += f"<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces{id}'>{id}</a>"
             td += "</td>\n"
+            tr += td
     tr += "</tr>\n"
     table += tr
     
