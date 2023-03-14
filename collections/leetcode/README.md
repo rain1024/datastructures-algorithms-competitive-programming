@@ -2855,7 +2855,7 @@
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2586'>2586</a></td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2587'>2587</a></td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2588'>2588</a></td>
-<td>2589</td>
+<td>🔴&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2589'>2589</a></td>
 </table>
 
 ## Similar Repositories

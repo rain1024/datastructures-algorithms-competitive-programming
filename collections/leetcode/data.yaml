@@ -44,3 +44,6 @@ problems:
 - name: 2588
   languages: cpp
   level: medium
+- name: 2589
+  languages: cpp
+  level: hard
