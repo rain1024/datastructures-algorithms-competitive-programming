@@ -252,7 +252,7 @@
 </tr>
 <tr>
 <tr>
-<td>25A</td>
+<td>🟡&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces25A'>25A</a></td>
 <td>25B</td>
 <td>25C</td>
 <td>25D</td>
@@ -502,7 +502,7 @@
 </tr>
 <tr>
 <tr>
-<td>50A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces50A'>50A</a></td>
 <td>50B</td>
 <td>50C</td>
 <td>50D</td>
@@ -1122,7 +1122,7 @@
 </tr>
 <tr>
 <tr>
-<td>112A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces112A'>112A</a></td>
 <td>112B</td>
 <td>112C</td>
 <td>112D</td>
@@ -1182,7 +1182,7 @@
 </tr>
 <tr>
 <tr>
-<td>118A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces118A'>118A</a></td>
 <td>118B</td>
 <td>118C</td>
 <td>118D</td>
@@ -1222,7 +1222,7 @@
 </tr>
 <tr>
 <tr>
-<td>122A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces122A'>122A</a></td>
 <td>122B</td>
 <td>122C</td>
 <td>122D</td>
@@ -1582,7 +1582,7 @@
 </tr>
 <tr>
 <tr>
-<td>158A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces158A'>158A</a></td>
 <td>158B</td>
 <td>158C</td>
 <td>158D</td>
@@ -2312,7 +2312,7 @@
 </tr>
 <tr>
 <tr>
-<td>231A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces231A'>231A</a></td>
 <td>231B</td>
 <td>231C</td>
 <td>231D</td>
@@ -2812,7 +2812,7 @@
 </tr>
 <tr>
 <tr>
-<td>281A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces281A'>281A</a></td>
 <td>281B</td>
 <td>281C</td>
 <td>281D</td>
@@ -2822,7 +2822,7 @@
 </tr>
 <tr>
 <tr>
-<td>282A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces282A'>282A</a></td>
 <td>282B</td>
 <td>282C</td>
 <td>282D</td>
@@ -3392,7 +3392,7 @@
 </tr>
 <tr>
 <tr>
-<td>339A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces339A'>339A</a></td>
 <td>339B</td>
 <td>339C</td>
 <td>339D</td>
