@@ -20,7 +20,17 @@ for item in data['problems']:
 print(f"Solve {len(solved_problems)} problems")
 
 def get_level(problem):
-    return "🟢&nbsp"
+    if "score" not in problem:
+        return ""
+    score = problem["score"]
+    if score < 1200:
+        return "🟢&nbsp"
+    elif score < 1600:
+        return "🟡&nbsp"
+    elif score < 1800:
+        return "🔴&nbsp"
+    else:
+        return "👑&nbsp"
 
 table = ""
 table = "<table>\n<tr>"

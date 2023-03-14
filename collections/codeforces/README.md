@@ -44,7 +44,7 @@
 <tr>
 <td>4A</td>
 <td>4B</td>
-<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces4C'>4C</a></td>
+<td>🟡&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces4C'>4C</a></td>
 <td>4D</td>
 <td>4E</td>
 <td>4F</td>
@@ -18044,4 +18044,4 @@
 
 ## Similar Repositories
 
-* https://github.com/kamyu104/LeetCode-Solutions
+* https://github.com/seikhchilli/codeforces-solution
