@@ -1,6 +1,6 @@
-# Leetcode
+# Codeforces
 
-**Leetcode Solutions**
+**Codeforces Solutions**
 
 * 🟢 Easy
 * 🟡 Medium
@@ -4462,7 +4462,7 @@
 </tr>
 <tr>
 <tr>
-<td>446A</td>
+<td>🔴&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces446A'>446A</a></td>
 <td>446B</td>
 <td>446C</td>
 <td>446D</td>
@@ -4893,8 +4893,8 @@
 <tr>
 <tr>
 <td>489A</td>
-<td>489B</td>
-<td>489C</td>
+<td>🟡&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces489B'>489B</a></td>
+<td>🟡&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces489C'>489C</a></td>
 <td>489D</td>
 <td>489E</td>
 <td>489F</td>
@@ -4923,7 +4923,7 @@
 <tr>
 <tr>
 <td>492A</td>
-<td>492B</td>
+<td>🟡&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces492B'>492B</a></td>
 <td>492C</td>
 <td>492D</td>
 <td>492E</td>

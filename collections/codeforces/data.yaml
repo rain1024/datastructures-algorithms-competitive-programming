@@ -38,3 +38,15 @@ problems:
 - name: 339A
   languages: cpp
   score: 800
+- name: 446A
+  languages: cpp
+  score: 1600
+- name: 489B
+  languages: cpp
+  score: 1200
+- name: 489C
+  languages: cpp
+  score: 1400
+- name: 492B
+  languages: cpp
+  score: 1200
