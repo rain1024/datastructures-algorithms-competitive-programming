@@ -1,6 +1,6 @@
-# Leetcode
+# Codeforces
 
-**Leetcode Solutions**
+**Codeforces Solutions**
 
 * 🟢 Easy
 * 🟡 Medium
