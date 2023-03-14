@@ -42,8 +42,6 @@ Each data structures and algorithm has its own separate article with related exp
 
 ## ⚛ Introduction
 
-<!-- ========================================= -->
-<!--         Auto Generated Section            -->
 <!--          Section: Introduction            -->
 <ul>
 <li>
