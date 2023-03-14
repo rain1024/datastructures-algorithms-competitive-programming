@@ -14,6 +14,17 @@ problems:
 - name: 4C
   languages: cpp
   score: 1300
+- name: 5A
+  languages: cpp
+  score: 1000
+- name: 6A
+  languages: cpp
+  score: 900
+- name: 7A
+  languages: cpp
+- name: 8A
+  languages: cpp
+  score: 1100
 - name: 25A
   languages: cpp
   score: 1300
