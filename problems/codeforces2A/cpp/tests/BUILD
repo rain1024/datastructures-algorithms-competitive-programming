@@ -4,7 +4,7 @@ cc_test(
     name = "solution_test",
     srcs = ["solution_test.cpp"],
     deps = [
-      "//problems/codeforcesAA/src/main:solution",
+      "//problems/codeforces2A/src/main:solution",
       "@com_google_googletest//:gtest_main",
     ],
     data = ["data"]

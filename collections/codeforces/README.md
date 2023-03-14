@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <tr>
-<td>2A</td>
+<td>🟡&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces2A'>2A</a></td>
 <td>2B</td>
 <td>2C</td>
 <td>2D</td>

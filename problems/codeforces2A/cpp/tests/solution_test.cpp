@@ -46,8 +46,8 @@ string ReadFile(const std::string &filename) {
 
 vector<string> RunProgram(string fileid) {
   vector<string> v;
-  string program = "problems/codeforcesAA/src/main/solution";
-  string test_folder = "problems/codeforcesAA/tests/data/";
+  string program = "problems/codeforces2A/src/main/solution";
+  string test_folder = "problems/codeforces2A/tests/data/";
   string command = program + " < " + test_folder + fileid + ".in > output.txt";
   std::system(command.c_str());
   string actual = ReadFile("output.txt");
@@ -65,7 +65,7 @@ TEST(RunTest, AllTestCases) {
     std::cout << "RUN ALL TESTS" << std::endl;
   }
 
-  std::string test_data_folder = "problems/codeforcesAA/tests/data";
+  std::string test_data_folder = "problems/codeforces2A/tests/data";
   for (const auto &entry : fs::directory_iterator(test_data_folder)) {
     string filename = split(entry.path(), "/").back();
     vector<string> v = split(filename, ".");

@@ -45,13 +45,13 @@ class CodeforcesGenerator(CodeGenerator):
         problem_dir = join(PROBLEMS_DIR, f"{domain}{problem_id}")
 
         # Update tests/BUILD file
-        test_build_file = join(problem_dir, "tests/BUILD")
-        old = "//problems/codeforcesAA/src/main:solution"
-        new = f"//problems/{domain}{problem_id}/src/main:solution"
+        test_build_file = join(problem_dir, "cpp/tests/BUILD")
+        old = "//problems/codeforcesAA/cpp/main:solution"
+        new = f"//problems/{domain}{problem_id}/cpp/main:solution"
         replace_string_in_file(test_build_file, old, new)
 
         # Update tests/solution_test.cpp
-        test_solution_file = join(problem_dir, "tests/solution_test.cpp")
+        test_solution_file = join(problem_dir, "cpp/tests/solution_test.cpp")
         old = "codeforcesAA"
         new = f"{domain}{problem_id}"
         replace_string_in_file(test_solution_file, old, new)
