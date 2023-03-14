@@ -19,11 +19,18 @@ int main() {
   //     "1.in";
   // ifstream file(filepath);
   //   cin.rdbuf(file.rdbuf());  // redirect cin to file
-
-  int tt;
-  cin >> tt;
-  while (tt--) {
-    cout << tt << '\n';
+  vector<int> a(4);
+  cin >> a[0] >> a[1] >> a[2] >> a[3];
+  sort(begin(a), end(a));
+  if (a[0] + a[1] > a[2] || a[1] + a[2] > a[3]) {
+    cout << "TRIANGLE";
+    return 0;
   }
+  if (a[0] + a[1] == a[2] || a[1] + a[2] == a[3]) {
+    cout << "SEGMENT";
+    return 0;
+  }
+  cout << "IMPOSSIBLE";
+
   return 0;
 }
