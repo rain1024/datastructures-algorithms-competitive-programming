@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <tr>
-<td>3A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces3A'>3A</a></td>
 <td>3B</td>
 <td>3C</td>
 <td>3D</td>

@@ -5,6 +5,9 @@ problems:
 - name: 2A
   languages: cpp
   score: 1500
+- name: 3A
+  languages: cpp
+  score: 1000
 - name: 4C
   languages: cpp
   score: 1300
