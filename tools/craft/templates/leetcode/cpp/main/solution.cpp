@@ -6,6 +6,7 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <fstream>
 
 using namespace std;
 
@@ -16,7 +17,7 @@ int main() {
   bool is_use_file = false;
 
   filesystem::path filepath =
-      filesystem::current_path().parent_path().parent_path() / "data" / "2.in";
+      filesystem::current_path().parent_path().parent_path() / "data" / "1.in";
   ifstream file(filepath);
 
   if (is_use_file) {
