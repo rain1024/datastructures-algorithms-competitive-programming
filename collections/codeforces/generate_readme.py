@@ -19,23 +19,23 @@ for item in data['problems']:
     solved_problems.add(id)
 print(f"Solve {len(solved_problems)} problems")
 
+def get_level(problem):
+    return "🟢&nbsp"
+
 table = ""
 table = "<table>\n<tr>"
 for i in range(1, 1804):
     table += "<tr>\n"
     tr = "<tr>\n"
-    if i not in solved_problems:
-        table += f"<td>{i}</td>\n"
-    else:
-        td = "<td>"
-        if 'level' in problems[i] and problems[i]['level'] == 'easy':
-            td += "🟢&nbsp;"
-        elif 'level' in problems[i] and problems[i]['level'] == 'medium':
-            td += "🟡&nbsp;"
-        elif 'level' in problems[i] and problems[i]['level'] == 'hard':
-            td += "🔴&nbsp;"
-        td += f"<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode{i}'>{i}</a>"
-        td += "</td>\n"
+    for j in ['A', 'B', 'C', 'D', 'E', 'F', 'G']:
+        id = f"{i}{j}"
+        if id not in solved_problems:
+            table += f"<td>{id}</td>\n"
+        else:
+            td = "<td>"
+            td += get_level(problems[id])
+            td += f"<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces{id}'>{id}</a>"
+            td += "</td>\n"
     tr += "</tr>\n"
     table += tr
     
