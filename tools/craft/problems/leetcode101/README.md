@@ -5,7 +5,7 @@
 Run program with an example
 
 ```
-bazel run cpp/main:solution < data/1.in
+bazel run src/main:solution < data/1.in
 ```
 
 Test program
