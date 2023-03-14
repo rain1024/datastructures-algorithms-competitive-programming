@@ -149,7 +149,7 @@
 <td>126</td>
 <td>127</td>
 <td>128</td>
-<td>129</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode129'>129</a></td>
 <td>130</td>
 <tr>
 <td>131</td>
