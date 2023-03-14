@@ -13,13 +13,13 @@ Each data structures and algorithm has its own separate article with related exp
 
 <h4 align="center">
   Programming Languages: <br/>
-  <a href="/readme/javascript">Javascript</a>, 
+  <a href="/readme/cpp">C++</a>, 
   <a href="/readme/python">Python</a>, 
   <a href="/readme/java">Java</a>, 
+  <a href="/readme/javascript">Javascript</a>, 
   <a href="/readme/nodejs">NodeJS</a>, 
   <a href="/readme/typescript">Typescript</a>, 
   <a href="/readme/csharp">C#</a>, 
-  <a href="/readme/cpp">C++</a>, 
   <a href="/readme/php">PHP</a>,
   <a href="/readme/c">C</a>,
   <a href="/readme/go">Go</a>,
