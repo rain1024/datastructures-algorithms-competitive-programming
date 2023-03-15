@@ -8,10 +8,11 @@ Competitive Programming<br/>
 <h5 align="center">
 
 ```
-  <Hello!>
+ <Hello!>
 -|DaS.Algo|-
++Pr0bl3m5!
+`Comp::Ete`
 {Solve~Fun}
- +Pr0bl3m5!
  ^Join_us^
 ```
 
