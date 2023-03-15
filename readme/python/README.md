@@ -2,10 +2,9 @@
 <h2 align="center">
 Data Structures & Algorithms <br/>
 Competitive Programming <br/>
-</h2>
-<h1 align=center>
 in Python
-</h1>
+</h2>
+
 <!-- END HEADER -->
 
 This repository contains introductions and examples of many popular data structures and algorithms.
