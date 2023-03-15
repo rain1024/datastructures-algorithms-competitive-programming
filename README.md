@@ -585,6 +585,15 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Greedy ======== -->
+<!-- ======== Begin Two Pointers ======== -->
+<ul>
+<li>
+<code>B</code>
+<a href="/concepts/general/two-pointers/README.md">Two Pointers</a>
+</li>
+</ul>
+</li>
+<!-- ======== End Two Pointers ======== -->
 <!-- ======== Begin Divide and Conquer ======== -->
 <li>
 <b>Divide and Conquer</b> - divide the problem into a number of subproblems that are smaller instances of the same problem
