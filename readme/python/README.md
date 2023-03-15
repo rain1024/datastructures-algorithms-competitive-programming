@@ -503,7 +503,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Brute Force ======== -->
 <!-- ======== Begin Greedy ======== -->
 <li>
-<b><a href="/concepts/python/greedy.md"><code>py🐍</code></a></b> 
+<b><a href="/concepts/python/greedy.md">Greedy</b> 
 - make the locally optimal choice at each stage with the hope of finding a global optimum
 <ul>
 <li>
