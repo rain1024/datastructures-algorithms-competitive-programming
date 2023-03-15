@@ -5,17 +5,17 @@ Competitive Programming<br/>
 </h1>
 <!-- END HEADER -->
 
-<h3 align="center">
+<h5 align="center">
 
 ```
-                                       <Hello!>
-                                     -|AlgoCom|-
-                                     =Solve=Comp
-                                      +Puzzles!
-                                      ^Join_us^
+  <Hello!>
+-|AlgoCom|-
+=Solve=Comp
+ +Puzzles!
+ ^Join_us^
 ```
 
-<h3>
+<h5>
 
 ---
 
