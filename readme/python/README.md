@@ -95,10 +95,10 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 ### 📦 Algorithms by Topic
 
 <ul>
-<!-- ======== Begin Math ======== -->
 <li>
 <b><a href="/concepts/python/big-o.md">Big-O</a></b>
 </li>
+<!-- ======== Begin Math ======== -->
 <li>
 <b>Math</b>
 <ul>

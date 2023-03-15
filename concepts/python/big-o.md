@@ -1,4 +1,4 @@
-# Big O
+# Big O in Python
 
 From wikipedia
 

@@ -1,6 +1,6 @@
 # Big O
 
-*See implementation in* [C++](../cpp/big-o.md), Java, [Python](../python/big-o.md), [Typescript](../typescript/big-o.md)
+*See implementation in* [C++](../cpp/big-o.md), [Java](../java/big-o/README.md), [Python](../python/big-o.md), [Typescript](../typescript/big-o.md)
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform.
 
@@ -11,26 +11,18 @@
 $O(1)$: Constant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
 
 ```cpp
-#include <iostream>
+def do_random_stuff():
+    foo = True  # 1 operation
+    bar = 8 * 3  # 1 operation
+    if bar < 20:  # 1 operation
+        print("bar is small")  # 1 operation
+    for i in range(0, bar):  # 24 operations
+        print(i)  # 1 operation
 
-using namespace std;
 
-void doRandomStuff(){
-    bool foo = true;    // 1 operation
-    int bar = 8 * 3;    // 1 operation
-    if(bar < 20){
-        cout << "bar is small" << endl;    // 1 opeartion
-    }
-    for(int i=0; i<bar; i++){
-        // 24 operations 
-        cout << i << endl;
-    }
-}
-int main() {
-    doRandomStuff();    // O(1)
-    doRandomStuff();    // O(1)
-    doRandomStuff();    // O(1)
-}
+do_random_stuff()  # O(1)
+do_random_stuff()  # O(1)
+do_random_stuff()  # O(1)
 ```
 
 Run time for `doRandomStuff` is $O(1)$
