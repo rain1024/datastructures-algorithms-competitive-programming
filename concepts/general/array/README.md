@@ -1,6 +1,6 @@
 # Array
 
-*See implementation in* C++, Java, [Python](/concepts/python/array/README.md), [Typescript](/concepts/typescript/array/README.md)
+*See implementation in* [C++](/concepts/cpp/array/README.md), Java, [Python](/concepts/python/array/README.md), [Typescript](/concepts/typescript/array/README.md)
 
 An array is a data structure that contains a group of elements. Each element can be accessed using an index. The index of the first element is 0, and the index of the last element is the length of the array minus 1.
 
@@ -13,9 +13,21 @@ In competive programming, arrays are often used to store a list of values. For e
 
 ## Array Operations
 
-* `array.length`: Returns the number of elements in the array.
-* `array[index]`: Returns the element at the given index.
-* `array[index] = value`: Sets the element at the given index to the given value.
+Here are some basic operations that you can perform on arrays:
+
+* Initialization: Create an array with given values
+* Accessing Elements: Access an element by its index (zero-based)
+* Updating Elements: Update an element by its index
+* Traversal: Visit all elements of the array
+* Input: Read values into the array from a stream
+* Size: Get the number of elements in the array
+
+More operations:
+
+* Delete an element in array
+* Insert an element in array
+* Searching an element in array (*see searching algorithms*)
+* Sorting an array (*see sorting algorithms*)
 
 ## 🔗 Further Reading
 
