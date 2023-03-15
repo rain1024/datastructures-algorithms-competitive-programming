@@ -9,8 +9,8 @@ Competitive Programming<br/>
 
 ```
   <Hello!>
--|DatAlgo|-
-{Solve=Fun}
+-|DaS.Algo|-
+{Solve~Fun}
  +Pr0bl3m5!
  ^Join_us^
 ```
