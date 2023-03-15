@@ -22,7 +22,8 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/cpp/array/README.md">Array</a>
 </li>
 <li>
-<code>B</code> String
+<code>B</code>
+<a href="/concepts/cpp/string/README.md">String</a>
 </li>
 <li>
 <code>B</code> Linked List
