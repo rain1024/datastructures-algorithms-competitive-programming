@@ -1,6 +1,6 @@
 # Big O
 
-*See implementation in* [C++](../cpp/big-o.md), Java, [Python](../python/big-o.md), [Typescript](../typescript/big-o.md)
+*See implementation in* [C++](../cpp/big-o.md), [Java](../java/big-o/README.md), [Python](../python/big-o.md), [Typescript](../typescript/big-o.md)
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform.
 
