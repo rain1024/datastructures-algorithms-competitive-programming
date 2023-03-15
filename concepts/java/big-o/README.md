@@ -29,9 +29,9 @@ class Demo {
 }
 ```
 
-f(n) = 1 + 1 + 1 + 1 + 24(1)
+$f(n) = 1 + 1 + 1 + 1 + 24(1)$
 
-O(f(n)) = O(1)
+$O(f(n)) = O(1)$
 
 ## Linear Run Time
 
