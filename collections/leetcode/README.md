@@ -804,7 +804,7 @@
 <td>721</td>
 <td>722</td>
 <td>723</td>
-<td>724</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode724'>724</a></td>
 <td>725</td>
 <td>726</td>
 <td>727</td>
@@ -1635,7 +1635,7 @@
 <td>1477</td>
 <td>1478</td>
 <td>1479</td>
-<td>1480</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode1480'>1480</a></td>
 <tr>
 <td>1481</td>
 <td>1482</td>
