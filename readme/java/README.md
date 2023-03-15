@@ -84,7 +84,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <ul>
 <li>
-<b><a href="/concepts/python/big-o.md">Big-O</a></b>
+<b><a href="/concepts/java/big-o/README.md">Big-O</a></b>
 </li>
 <!-- ======== Begin Math ======== -->
 <li>

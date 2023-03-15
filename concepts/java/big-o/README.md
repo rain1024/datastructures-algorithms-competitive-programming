@@ -1,4 +1,4 @@
-# Big O in Python
+# Big O in Java
 
 From wikipedia
 
@@ -6,7 +6,7 @@ From wikipedia
 
 ## Constant Run Time
 
-```python
+```java
 def do_random_stuff():
     foo = True  # 1 operation
     bar = 8 * 3  # 1 operation
