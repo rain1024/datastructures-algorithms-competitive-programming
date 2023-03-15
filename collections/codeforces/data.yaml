@@ -71,3 +71,12 @@ problems:
 - name: 492B
   languages: cpp
   score: 1200
+- name: 1796A
+  languages: cpp
+  score: 800
+- name: 1799A
+  languages: cpp
+  score: 800
+- name: 1800A
+  languages: cpp
+  score: 800

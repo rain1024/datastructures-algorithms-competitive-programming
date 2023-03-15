@@ -17962,7 +17962,7 @@
 </tr>
 <tr>
 <tr>
-<td>1796A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces1796A'>1796A</a></td>
 <td>1796B</td>
 <td>1796C</td>
 <td>1796D</td>
@@ -17992,7 +17992,7 @@
 </tr>
 <tr>
 <tr>
-<td>1799A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces1799A'>1799A</a></td>
 <td>1799B</td>
 <td>1799C</td>
 <td>1799D</td>
@@ -18002,7 +18002,7 @@
 </tr>
 <tr>
 <tr>
-<td>1800A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces1800A'>1800A</a></td>
 <td>1800B</td>
 <td>1800C</td>
 <td>1800D</td>
