@@ -145,7 +145,7 @@
 <td>122</td>
 <td>123</td>
 <td>124</td>
-<td>125</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode125'>125</a></td>
 <td>126</td>
 <td>127</td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode128'>128</a></td>
