@@ -10,50 +10,6 @@ This repository contains introductions and examples of many popular data structu
 
 Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
 
----
-
-<h4 align="center">
-  Programming Languages: <br/>
-  <a href="/readme/python">Python</a>, 
-  <a href="/readme/cpp">C++</a>, 
-  <a href="/readme/java">Java</a>, 
-  <a href="/readme/javascript">Javascript</a>, 
-  <a href="/readme/nodejs">NodeJS</a>, 
-  <a href="/readme/typescript">Typescript</a>, 
-  <a href="/readme/csharp">C#</a>, 
-  <a href="/readme/php">PHP</a>,
-  <a href="/readme/c">C</a>,
-  <a href="/readme/go">Go</a>,
-  <a href="/readme/kotlin">Kotlin</a>,
-  <a href="/readme/rust">Rust</a>,
-  <a href="/readme/ruby">Ruby</a>
-</h4>
-
----
-
-⭐ [New Version 1.2.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
-
-## ⚛ Introduction
-
-<!--          Section: Introduction            -->
-<ul>
-<li>
-Introduction to Data Structures and Algorithms
-</li>
-<li>
-Introduction to Competitive Programming
-</li>
-<li>
-Introduction to Programming Languages
-</li>
-<li>
-<a href="/concepts/abstract/big-o.md">Big-O</a>
-<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
-</li>
-</ul>
-
 ## 📑 Data Structures
 
 A data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More recisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
@@ -149,6 +105,11 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <ul>
 <!-- ======== Begin Math ======== -->
+<li>
+<b><a href="/concepts/cpp/big-o.md"><code>Big-O</code></a></b>
+<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
+<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
+</li>
 <li>
 <b>Math</b>
 <ul>
