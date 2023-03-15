@@ -1,6 +1,10 @@
 # Array
 
-*See implementation in* [C++](/concepts/cpp/array/README.md), Java, [Python](/concepts/python/array/README.md), [Typescript](/concepts/typescript/array/README.md)
+*See implementation in*
+[C++](/concepts/cpp/array/README.md),
+Java,
+[Python](/concepts/python/array/README.md),
+[Typescript](/concepts/typescript/array/README.md)
 
 An array is a data structure that contains a group of elements. Each element can be accessed using an index. The index of the first element is 0, and the index of the last element is the length of the array minus 1.
 
