@@ -31,7 +31,7 @@ class Demo {
 
 $f(n) = 1 + 1 + 1 + 1 + 24(1)$
 
-$O(f(n)) = O(1)$
+Run time for `doRandomStuff` is $O(f(n)) = O(1)$
 
 ## Linear Run Time
 
