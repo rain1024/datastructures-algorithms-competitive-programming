@@ -27,8 +27,6 @@ body:
       description: Select one or more topics for the article
       multiple: true
       options:
-        - Big-O
-        - Bitwise
         - Array
         - String
         - Linked List
@@ -41,6 +39,8 @@ body:
         - Searching
         - Brute force, Backtracking
         - Greedy
+        - Big-O
+        - Bitwise
         - Range queries (prefix sum)
         - Dynamic Programming (Basic)
         - Dynamic Programming (Intermediate)
@@ -57,12 +57,13 @@ body:
       label: Programming language
       description: Select a programming language for the article
       options:
-        - C (c)
+        - General
         - C++ (cpp)
         - Java (java)
         - Python (py)
-        - Rust (rs)
         - Typescript (ts)
+        - C (c)
+        - Rust (rs)
   - type: checkboxes
     id: article-checklist
     validations:
