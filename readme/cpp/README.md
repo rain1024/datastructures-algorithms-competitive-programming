@@ -18,52 +18,40 @@ A data structure is a data organization, management, and storage format that is 
 
 <ul>
 <li>
-<code>B</code> Array
-<a href="/concepts/python/array.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/array.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/python/array.md">Array</a>
 </li>
 <li>
 <code>B</code> String
-<a href="/concepts/python/string.md"><code>py🐍</code></a>
 </li>
 <li>
 <code>B</code> Linked List
-<a href="/concepts/python/linked-list.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
 </li>
 <li>
-<code>B</code> Stack
-<a href="/concepts/python/stack.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/stack.md"><code>ts</code></a>
+<code>B</code> Stacka>
 </li>
 <li>
-<code>B</code> Queue
-<a href="/concepts/cpp/queue.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/queue.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/queue.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/cpp/queue.md">Queue</a>
 </li>
 <li>
-<code>B</code> Set
-<a href="/concepts/cpp/set.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/sets.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/set.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/cpp/set.md">Set</a>
 </li>
 <li>
-<code>B</code> Hash Table
-<a href="/concepts/cpp/hash_table.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/hash_table.md"><code>py🐍</code></a>
+<code>B</code> 
+<a href="/concepts/cpp/hash_table.md">Hash Table</a>
 </li>
 <li>
 <code>B</code> Heap
 </li>
 <li>
-<code>B</code> Priority Queue
-<a href="/concepts/cpp/priority_queue.md"><code>cpp🐀</code></a>
+<code>B</code> 
+<a href="/concepts/cpp/priority_queue.md">Priority Queue</a>
 </li>
 <li>
-<code>A</code> Tree
-<a href="/concepts/cpp/tree.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/tree.md"><code>py🐍</code></a>
+<code>A</code> 
+<a href="/concepts/cpp/tree.md">Tree</a>
 <ul>
 <li><code>A</code> Binary Search Tree</li>
 <li><code>A</code> AVL Tree</li>
@@ -76,9 +64,8 @@ A data structure is a data organization, management, and storage format that is 
 <code>A</code> Graph
 </li>
 <li>
-<code>A</code> Prefix sum (Range queries)
-<a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/range_queries.md"><code>py🐍</code></a>
+<code>A</code> 
+<a href="/concepts/cpp/range_queries.md">Prefix sum (Range queries)</a>
 </li>
 <li>
 <code>A</code> Disjoin Set
@@ -90,8 +77,8 @@ A data structure is a data organization, management, and storage format that is 
 <code>A</code> LRU Cache
 </li>
 <li>
-<code>A</code> Skiplist
-<a href="/concepts/cpp/skip_list.md"><code>cpp🐀</code>
+<code>A</code> 
+<a href="/concepts/cpp/skip_list.md">Skiplist</a>
 </li>
 </ul>
 
