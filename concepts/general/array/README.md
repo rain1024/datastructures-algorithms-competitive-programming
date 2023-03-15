@@ -18,6 +18,7 @@ Basic operations:
 * `array.length`: Returns the number of elements in the array.
 * `array[index]`: Returns the element at the given index.
 * `array[index] = value`: Sets value of an element at a given index
+* Read array from input stream
 
 More operations:
 

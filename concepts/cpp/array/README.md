@@ -1,10 +1,6 @@
 # Array in C++
 
-From wikipedia
-
-> In computer science, an array is a data structure consisting of a collection of elements (values or variables), each
-> identified by at least one array index or key. An array is stored such that the position of each element can be computed
-> from its index tuple by a mathematical formula.
+In computer science, an `array` is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
 
 ## Time Complexity Analysis of Array
 
@@ -23,7 +19,7 @@ From wikipedia
 using namespace std;
 ```
 
-Initialize an array
+**Initialize an array**
 
 
 ```c++
@@ -38,7 +34,7 @@ a
 
 
 
-Access element by index (zero-based)
+**Access element by index (zero-based)**
 
 
 ```c++
@@ -51,7 +47,7 @@ cout << "a[2] = " << a[2] << endl;
     a[2] = 3
 
 
-Set value of an element at a given index
+**Set value of an element at a given index**
 
 
 ```c++
@@ -60,6 +56,30 @@ cout << "a[0] = " << a[0];
 ```
 
     a[0] = 100
+
+**Read array from input stream**
+
+Using fixed array 
+
+```cpp
+int N;
+int numbers[N];
+for(int i=0; i<N; i++){
+  cin >> numbers[i];
+}
+```
+
+Using vector
+
+```cpp
+#include <vector>
+
+int N;
+vector<int> numbers(N);
+for(int i=0; i<N; i++){
+  cin >> numbers[i];
+}
+```
 
 ## 🔗 Further Reading
 
