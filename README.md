@@ -6,11 +6,11 @@ Competitive Programming<br/>
 <!-- END HEADER -->
 
 ```
-                       <Hello!>
-                       -|AlgoCom|-
-                       =Solve=Comp
-                       +Puzzles!
-                       ^Join_us^
+                             <Hello!>
+                           -|AlgoCom|-
+                           =Solve=Comp
+                            +Puzzles!
+                            ^Join_us^
 ```
 
 ---
