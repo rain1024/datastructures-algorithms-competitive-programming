@@ -11,25 +11,25 @@
 $O(1)$: Constant time, the time complexity of the algorithm is independent of the size of the input. Examples include accessing an element in an array by its index or performing a single operation on a single value.
 
 ```cpp
-#include <iostream>
-
-using namespace std;
-
-void doRandomStuff(){
-    bool foo = true;    // 1 operation
-    int bar = 8 * 3;    // 1 operation
-    if(bar < 20){
-        cout << "bar is small" << endl;    // 1 opeartion
+class HelloWorld {
+    static void doRandomStuff(){
+        boolean foo = true;   // 1 operation
+        int bar = 8 * 3;      // 1 operation
+        if(bar < 20){
+            System.out.println("bar is small"); // 1 operation
+        }
+        
+        for(int i=0; i<bar; i++){
+          // 24 operations 
+            System.out.println(i);
+        }
     }
-    for(int i=0; i<bar; i++){
-        // 24 operations 
-        cout << i << endl;
+    
+    public static void main(String[] args) {
+        doRandomStuff();   // O(1)
+        doRandomStuff();   // O(1)
+        doRandomStuff();   // O(1)
     }
-}
-int main() {
-    doRandomStuff();    // O(1)
-    doRandomStuff();    // O(1)
-    doRandomStuff();    // O(1)
 }
 ```
 
