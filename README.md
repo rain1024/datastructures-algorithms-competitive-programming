@@ -1,7 +1,7 @@
 <!-- BEGIN HEADER -->
 <h1 align="center">
 Data Structures & Algorithms <br/>
-Competitive Programming
+Competitive Programming<br/>
 </h1>
 <!-- END HEADER -->
 

@@ -1,32 +1,14 @@
 <!-- BEGIN HEADER -->
 <h1 align="center">
 Data Structures & Algorithms <br/>
-Competitive Programming
+Competitive Programming <br/>
+Python
 </h1>
 <!-- END HEADER -->
 
 This repository contains introductions and examples of many popular data structures and algorithms.
 
 Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
-
----
-
-<h4 align="center">
-  Programming Languages: <br/>
-  <a href="/readme/python">Python</a>, 
-  <a href="/readme/cpp">C++</a>, 
-  <a href="/readme/java">Java</a>, 
-  <a href="/readme/javascript">Javascript</a>, 
-  <a href="/readme/nodejs">NodeJS</a>, 
-  <a href="/readme/typescript">Typescript</a>, 
-  <a href="/readme/csharp">C#</a>, 
-  <a href="/readme/php">PHP</a>,
-  <a href="/readme/c">C</a>,
-  <a href="/readme/go">Go</a>,
-  <a href="/readme/kotlin">Kotlin</a>,
-  <a href="/readme/rust">Rust</a>,
-  <a href="/readme/ruby">Ruby</a>
-</h4>
 
 ---
 
@@ -44,12 +26,6 @@ Introduction to Competitive Programming
 </li>
 <li>
 Introduction to Programming Languages
-</li>
-<li>
-<a href="/concepts/abstract/big-o.md">Big-O</a>
-<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </li>
 </ul>
 
@@ -148,6 +124,9 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <ul>
 <!-- ======== Begin Math ======== -->
+<li>
+<b><a href="/concepts/python/big-o.md">Big-O</a></b>
+</li>
 <li>
 <b>Math</b>
 <ul>
