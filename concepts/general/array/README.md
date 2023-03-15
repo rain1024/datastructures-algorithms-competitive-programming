@@ -13,9 +13,18 @@ In competive programming, arrays are often used to store a list of values. For e
 
 ## Array Operations
 
+Basic operations:
+
 * `array.length`: Returns the number of elements in the array.
 * `array[index]`: Returns the element at the given index.
-* `array[index] = value`: Sets the element at the given index to the given value.
+* `array[index] = value`: Sets value of an element at a given index
+
+More operations:
+
+* Delete an element in array
+* Insert an element in array
+* Searching an element in array (*see searching algorithms*)
+* Sorting an array (*see sorting algorithms*)
 
 ## 🔗 Further Reading
 
