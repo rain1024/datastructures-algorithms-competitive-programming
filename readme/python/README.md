@@ -2,7 +2,7 @@
 <h1 align="center">
 Data Structures & Algorithms <br/>
 Competitive Programming <br/>
-Python
+in Python
 </h1>
 <!-- END HEADER -->
 
