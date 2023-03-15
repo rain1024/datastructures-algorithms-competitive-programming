@@ -1,7 +1,7 @@
 # String
 
 *See implementation in* 
-[C++](/concepts/cpp/string/README.md), 
+C++, 
 Java, 
 [Python](/concepts/python/string/README.md),
 Typescript
