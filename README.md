@@ -5,9 +5,18 @@ Competitive Programming<br/>
 </h1>
 <!-- END HEADER -->
 
-This repository contains introductions and examples of many popular data structures and algorithms.
+<h5 align="center">
 
-Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
+```
+ <Hello!>
+-|DaS.Algo|-
++Pr0bl3m5!
+`Comp::Ete`
+{Solve~Fun}
+ ^Join_us^
+```
+
+<h5>
 
 ---
 
