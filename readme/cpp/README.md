@@ -19,7 +19,7 @@ A data structure is a data organization, management, and storage format that is 
 <ul>
 <li>
 <code>B</code> 
-<a href="/concepts/python/array.md">Array</a>
+Array
 </li>
 <li>
 <code>B</code> String
