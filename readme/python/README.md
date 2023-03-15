@@ -4,7 +4,6 @@ Data Structures & Algorithms <br/>
 Competitive Programming <br/>
 <i>in Python</i>
 </h2>
-
 <!-- END HEADER -->
 
 This repository contains introductions and examples of many popular data structures and algorithms.
