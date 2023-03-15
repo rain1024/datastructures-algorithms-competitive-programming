@@ -46,7 +46,7 @@ Competitive Programming<br/>
 <!--          Section: Introduction            -->
 <ul>
 <li>
-Introduction to Data Structures and Algorithms
+<a href="/articles/intro_dsa.md">Introduction to Data Structures and Algorithms</a>
 </li>
 <li>
 Introduction to Competitive Programming
