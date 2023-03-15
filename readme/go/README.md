@@ -16,16 +16,16 @@ Each data structures and algorithm has its own separate article with related exp
   <a href="/readme/python">Python</a>, 
   <a href="/readme/cpp">C++</a>, 
   <a href="/readme/java">Java</a>, 
-  <!-- <a href="/readme/javascript">Javascript</a>, 
-  <a href="/readme/nodejs">NodeJS</a>,  -->
-  <a href="/readme/typescript">Typescript</a>
-  <!-- <a href="/readme/csharp">C#</a>, 
+  <a href="/readme/javascript">Javascript</a>, 
+  <a href="/readme/nodejs">NodeJS</a>, 
+  <a href="/readme/typescript">Typescript</a>, 
+  <a href="/readme/csharp">C#</a>, 
   <a href="/readme/php">PHP</a>,
   <a href="/readme/c">C</a>,
   <a href="/readme/go">Go</a>,
   <a href="/readme/kotlin">Kotlin</a>,
   <a href="/readme/rust">Rust</a>,
-  <a href="/readme/ruby">Ruby</a> -->
+  <a href="/readme/ruby">Ruby</a>
 </h4>
 
 ---
@@ -44,6 +44,12 @@ Introduction to Competitive Programming
 </li>
 <li>
 Introduction to Programming Languages
+</li>
+<li>
+<a href="/concepts/abstract/big-o.md">Big-O</a>
+<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
+<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
+<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
 </li>
 </ul>
 
@@ -142,12 +148,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 <ul>
 <!-- ======== Begin Math ======== -->
-<li>
-<b><a href="/concepts/general/big-o.md">Big-O</a></b>
-<!-- <a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a> -->
-</li>
 <li>
 <b>Math</b>
 <ul>
@@ -733,7 +733,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 **Coding Problems Website**
 
 * [🔸 LeetCode](collections/leetcode/)
-* [🔸 Codeforces](collections/codeforces/)
 
 **Courses & Specialization**
 
