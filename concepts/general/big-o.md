@@ -4,7 +4,7 @@
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform.
 
-![](../abstract/basic-concepts/big-o-notation.png)
+<img src="../abstract/basic-concepts/big-o-notation.png" width="400px"/>
 
 ## Constant Run Time
 
@@ -164,6 +164,7 @@ Runtime for `combine()` is $O(n^2)$
 
 ## 🔗 Further Reading
 
+* [bigocheatsheet.com](https://www.bigocheatsheet.com/)
 * [Time complexity](https://en.wikipedia.org/wiki/Time_complexity), wikipedia
 * [Space complexity](https://en.wikipedia.org/wiki/Space_complexity), wikipedia
 * ▶️ [Asymptotic Notation](https://www.youtube.com/watch?v=iOq5kSKqeR4&ab_channel=CS50), CS50
