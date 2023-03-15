@@ -46,7 +46,7 @@ Introduction to Competitive Programming
 Introduction to Programming Languages
 </li>
 <li>
-<a href="/concepts/abstract/big-o.md">Big-O</a>
+<a href="/concepts/general/big-o.md">Big-O</a>
 <a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
 <a href="/concepts/python/big-o.md"><code>py🐍</code></a>
 <a href="/concepts/typescript/big-o.md"><code>ts</code></a>
