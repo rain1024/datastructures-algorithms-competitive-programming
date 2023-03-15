@@ -28,7 +28,7 @@ A data structure is a data organization, management, and storage format that is 
 <code>B</code> Linked List
 </li>
 <li>
-<code>B</code> Stacka>
+<code>B</code> Stack
 </li>
 <li>
 <code>B</code> 
