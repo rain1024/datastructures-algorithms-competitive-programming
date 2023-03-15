@@ -19,7 +19,7 @@ A data structure is a data organization, management, and storage format that is 
 <ul>
 <li>
 <code>B</code> 
-Array
+[Array](/concepts/cpp/array/README.md)
 </li>
 <li>
 <code>B</code> String
