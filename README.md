@@ -5,6 +5,8 @@ Competitive Programming<br/>
 </h1>
 <!-- END HEADER -->
 
+<h3 align="center">
+
 ```
                                        <Hello!>
                                      -|AlgoCom|-
@@ -12,6 +14,8 @@ Competitive Programming<br/>
                                       +Puzzles!
                                       ^Join_us^
 ```
+
+<h3>
 
 ---
 
