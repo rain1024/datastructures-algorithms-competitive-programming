@@ -145,7 +145,7 @@
 <td>122</td>
 <td>123</td>
 <td>124</td>
-<td>125</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode125'>125</a></td>
 <td>126</td>
 <td>127</td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode128'>128</a></td>
@@ -191,7 +191,7 @@
 <td>164</td>
 <td>165</td>
 <td>166</td>
-<td>167</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode167'>167</a></td>
 <td>168</td>
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode169'>169</a></td>
 <td>170</td>
