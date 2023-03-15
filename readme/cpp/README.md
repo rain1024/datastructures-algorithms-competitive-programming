@@ -99,9 +99,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <b>Math</b>
 <ul>
 <li>
-<code>B</code> Bit Manipulation
-<a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
+<code>B</code> 
+<a href="/concepts/cpp/bitwise.md">Bit Manipulation</a>
 </li>
 <li>
 <code>B</code> Binary Floating Point 
@@ -239,7 +238,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Searches ======== -->
 <li>
 <b>Searches</b>
-<a href="/concepts/python/searching.md"><code>py🐍</code></a>
 <ul>
 <li>
 <code>B</code> Linear Search
@@ -258,9 +256,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Searches ======== -->
 <!-- ======== Begin Sorting ======== -->
 <li>
-<b>Sorting</b>
-<a href="/concepts/cpp/sorting.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/sorting.md"><code>py🐍</code></a>
+<b><a href="/concepts/cpp/sorting.md">Sorting</a></b>
 <ul>
 <li>
 <code>B</code> Bubble Sort
@@ -476,9 +472,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <ul>
 <!-- ======== Begin Brute Force ======== -->
 <li>
-<b>Brute Force</b> - look at all the possibilities and selects the best solution
-<a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/brute_force.md"><code>py🐍</code></a>
+<b><a href="/concepts/cpp/brute_force.md">Brute Force</a></b> - look at all the possibilities and selects the best solution
 <ul>
 <li>
 <code>B</code> Linear Search
@@ -503,8 +497,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Brute Force ======== -->
 <!-- ======== Begin Greedy ======== -->
 <li>
-<b>Greedy</b> - make the locally optimal choice at each stage with the hope of finding a global optimum
-<a href="/concepts/python/greedy.md"><code>py🐍</code></a>
+<b><a href="/concepts/python/greedy.md">Greedy</a></b> - make the locally optimal choice at each stage with the hope of finding a global optimum
 <ul>
 <li>
 <code>B</code> Jump Game
@@ -578,8 +571,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Divide and Conquer ======== -->
 <!-- ======== Begin Dynamic Programming ======== -->
 <li>
-<b>Dynamic Programming</b> - break the problem into subproblems and store the results of subproblems to avoid computing the same results again
-(basic: <a href="/concepts/cpp/dp_basic.md"><code>cpp🐀</code></a>, intermidate: <a href="/concepts/cpp/dp_intermediate.md"><code>cpp🐀</code></a>)
+<b><a href="/concepts/cpp/dp_basic.md">Dynamic Programming</a></b> - break the problem into subproblems and store the results of subproblems to avoid computing the same results again
 <ul>
 <li>
 <code>B</code> Fibonacci Number
@@ -669,27 +661,3 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 <!-- ======== End Branch & Bound ======== -->
 </ul>
-
-## 🔆 Collections
-
-**Competitive Programming Events**
-
-* 🎄 Advent of Code ([2022](collections/advent-of-code-2022/))
-* 🔰 Google Code Jam ([2022](collections/codejam-2022/))
-
-**Coding Problems Website**
-
-* [🔸 LeetCode](collections/leetcode/)
-
-**Courses & Specialization**
-
-* [🍨 Data Structures and Algorithms Specialization](collections/datastructures-and-algorithms-specialization/), University of California San Diego
-
-## Contributors
-
-This project exists thanks to all the people who contributed.
-
-<a href="https://github.com/rain1024/datastructures-algorithms-competitive-programming/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rain1024/datastructures-algorithms-competitive-programming" />
-</a>
-
