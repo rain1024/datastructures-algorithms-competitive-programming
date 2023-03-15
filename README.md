@@ -5,9 +5,13 @@ Competitive Programming<br/>
 </h1>
 <!-- END HEADER -->
 
-This repository contains introductions and examples of many popular data structures and algorithms.
-
-Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
+```
+                       <Hello!>
+                       -|AlgoCom|-
+                       =Solve=Comp
+                       +Puzzles!
+                       ^Join_us^
+```
 
 ---
 
