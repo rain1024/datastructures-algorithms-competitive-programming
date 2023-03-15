@@ -7,18 +7,26 @@ From wikipedia
 ## Constant Run Time
 
 ```java
-def do_random_stuff():
-    foo = True  # 1 operation
-    bar = 8 * 3  # 1 operation
-    if bar < 20:  # 1 operation
-        print("bar is small")  # 1 operation
-    for i in range(0, bar):  # 24 operations
-        print(i)  # 1 operation
-
-
-do_random_stuff()  # O(1)
-do_random_stuff()  # O(1)
-do_random_stuff()  # O(1)
+class Demo {
+    static void doRandomStuff(){
+        boolean foo = true;   // 1 operation
+        int bar = 8 * 3;      // 1 operation
+        if(bar < 20){
+            System.out.println("bar is small"); // 1 operation
+        }
+        
+        for(int i=0; i<bar; i++){
+          // 24 operations 
+            System.out.println(i);
+        }
+    }
+    
+    public static void main(String[] args) {
+        doRandomStuff();   // O(1)
+        doRandomStuff();   // O(1)
+        doRandomStuff();   // O(1)
+    }
+}
 ```
 
 f(n) = 1 + 1 + 1 + 1 + 24(1)
