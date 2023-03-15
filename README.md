@@ -9,9 +9,9 @@ Competitive Programming<br/>
 
 ```
   <Hello!>
--|AlgoCom|-
-=Solve=Comp
- +Puzzles!
+-|DatAlgo|-
+{Solve=Fun}
+ +Pr0bl3m5!
  ^Join_us^
 ```
 
