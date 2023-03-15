@@ -35,12 +35,12 @@ body:
         - Set
         - Hash Table
         - Tree
+        - Big-O
+        - Bitwise
         - Sorting
         - Searching
         - Brute force, Backtracking
         - Greedy
-        - Big-O
-        - Bitwise
         - Range queries (prefix sum)
         - Dynamic Programming (Basic)
         - Dynamic Programming (Intermediate)
