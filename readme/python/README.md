@@ -21,29 +21,23 @@ A data structure is a data organization, management, and storage format that is 
 
 <ul>
 <li>
-<code>B</code> Array
-<a href="/concepts/python/array.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/array.md"><code>ts</code></a>
+<code>B</code>
+<a href="/concepts/python/array.md">Array</a>
+</li>
+<li><code>B</code>
+<a href="/concepts/python/string.md">String</a>
 </li>
 <li>
-<code>B</code> String
-<a href="/concepts/python/string.md"><code>py🐍</code></a>
+<code>B</code>
+<a href="/concepts/python/linked-list.md">Linked List</a>
 </li>
 <li>
-<code>B</code> Linked List
-<a href="/concepts/python/linked-list.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/python/stack.md">Stack</a>
 </li>
 <li>
-<code>B</code> Stack
-<a href="/concepts/python/stack.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/stack.md"><code>ts</code></a>
-</li>
-<li>
-<code>B</code> Queue
-<a href="/concepts/cpp/queue.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/queue.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/queue.md"><code>ts</code></a>
+<code>B</code>
+<a href="/concepts/python/queue.md">Queue</a>
 </li>
 <li>
 <code>B</code> Set
