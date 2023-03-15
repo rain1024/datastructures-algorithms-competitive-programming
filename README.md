@@ -52,7 +52,7 @@ Competitive Programming<br/>
 <a href="/articles/intro_cp.md">Introduction to Competitive Programming</a>
 </li>
 <li>
-Introduction to Programming Languages
+<a href="/articles/choosing_a_pl.md">Choosing a Programming Language</a>
 </li>
 </ul>
 
