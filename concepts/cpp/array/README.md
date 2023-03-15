@@ -19,7 +19,7 @@ In computer science, an `array` is a data structure consisting of a collection o
 using namespace std;
 ```
 
-**Initialize an array**
+**Initialization**: Create an array with given values
 
 
 ```c++
@@ -34,7 +34,7 @@ a
 
 
 
-**Access element by index (zero-based)**
+**Accessing Elements**: Access element by index (zero-based)
 
 
 ```c++
@@ -47,7 +47,7 @@ cout << "a[2] = " << a[2] << endl;
     a[2] = 3
 
 
-**Set value of an element at a given index**
+**Updating Elements**: Update an element by its index
 
 
 ```c++
@@ -57,7 +57,7 @@ cout << "a[0] = " << a[0];
 
     a[0] = 100
 
-**Read array from input stream**
+**Input**: Read values into the array from a stream
 
 Using fixed array 
 
