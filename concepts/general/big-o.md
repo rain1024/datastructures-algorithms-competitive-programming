@@ -4,9 +4,9 @@
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform.
 
-<h5 align="center">
+<p align="center">
 <img src="/concepts/general/basic-concepts/big-o-notation.png" width="600px"/>
-</h5>
+</p>
 
 ## Constant Run Time
 
