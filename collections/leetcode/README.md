@@ -191,7 +191,7 @@
 <td>164</td>
 <td>165</td>
 <td>166</td>
-<td>167</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode167'>167</a></td>
 <td>168</td>
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode169'>169</a></td>
 <td>170</td>
