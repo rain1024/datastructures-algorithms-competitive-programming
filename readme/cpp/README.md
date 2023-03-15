@@ -106,9 +106,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <ul>
 <!-- ======== Begin Math ======== -->
 <li>
-<b><a href="/concepts/cpp/big-o.md"><code>Big-O</code></a></b>
-<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
+<b><a href="/concepts/cpp/big-o.md">Big-O</a></b>
 </li>
 <li>
 <b>Math</b>
