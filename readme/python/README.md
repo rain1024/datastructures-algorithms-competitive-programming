@@ -1,8 +1,10 @@
 <!-- BEGIN HEADER -->
-<h1 align="center">
+<h2 align="center">
 Data Structures & Algorithms <br/>
-Competitive Programming
-</h1>
+Competitive Programming <br/>
+<i>in Python</i>
+</h2>
+
 <!-- END HEADER -->
 
 This repository contains introductions and examples of many popular data structures and algorithms.
@@ -10,48 +12,6 @@ This repository contains introductions and examples of many popular data structu
 Each data structures and algorithm has its own separate article with related explanations and links for further reading (including ones to YouTube videos).
 
 ---
-
-<h4 align="center">
-  Programming Languages: <br/>
-  <a href="/readme/python">Python</a>, 
-  <a href="/readme/cpp">C++</a>, 
-  <a href="/readme/java">Java</a>, 
-  <a href="/readme/javascript">Javascript</a>, 
-  <a href="/readme/nodejs">NodeJS</a>, 
-  <a href="/readme/typescript">Typescript</a>, 
-  <a href="/readme/csharp">C#</a>, 
-  <a href="/readme/php">PHP</a>,
-  <a href="/readme/c">C</a>,
-  <a href="/readme/go">Go</a>,
-  <a href="/readme/kotlin">Kotlin</a>,
-  <a href="/readme/rust">Rust</a>,
-  <a href="/readme/ruby">Ruby</a>
-</h4>
-
----
-
-⭐ [New Version 1.2.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
-
-## ⚛ Introduction
-
-<!--          Section: Introduction            -->
-<ul>
-<li>
-Introduction to Data Structures and Algorithms
-</li>
-<li>
-Introduction to Competitive Programming
-</li>
-<li>
-Introduction to Programming Languages
-</li>
-<li>
-<a href="/concepts/abstract/big-o.md">Big-O</a>
-<a href="/concepts/cpp/big-o.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/big-o.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/big-o.md"><code>ts</code></a>
-</li>
-</ul>
 
 ## 📑 Data Structures
 
@@ -61,52 +21,43 @@ A data structure is a data organization, management, and storage format that is 
 
 <ul>
 <li>
-<code>B</code> Array
-<a href="/concepts/python/array.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/array.md"><code>ts</code></a>
+<code>B</code>
+<a href="/concepts/python/array.md">Array</a>
+</li>
+<li><code>B</code>
+<a href="/concepts/python/string.md">String</a>
 </li>
 <li>
-<code>B</code> String
-<a href="/concepts/python/string.md"><code>py🐍</code></a>
+<code>B</code>
+<a href="/concepts/python/linked-list.md">Linked List</a>
 </li>
 <li>
-<code>B</code> Linked List
-<a href="/concepts/python/linked-list.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/python/stack.md">Stack</a>
 </li>
 <li>
-<code>B</code> Stack
-<a href="/concepts/python/stack.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/stack.md"><code>ts</code></a>
+<code>B</code>
+<a href="/concepts/python/queue.md">Queue</a>
 </li>
 <li>
-<code>B</code> Queue
-<a href="/concepts/cpp/queue.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/queue.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/queue.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/python/sets.md">Set</a>
 </li>
 <li>
-<code>B</code> Set
-<a href="/concepts/cpp/set.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/sets.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/set.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/python/hash_table.md">Hash Table</a>
 </li>
 <li>
-<code>B</code> Hash Table
-<a href="/concepts/cpp/hash_table.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/hash_table.md"><code>py🐍</code></a>
+<code>B</code>
+Heap
 </li>
 <li>
-<code>B</code> Heap
+<code>B</code>
+Priority Queue
 </li>
 <li>
-<code>B</code> Priority Queue
-<a href="/concepts/cpp/priority_queue.md"><code>cpp🐀</code></a>
-</li>
-<li>
-<code>A</code> Tree
-<a href="/concepts/cpp/tree.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/tree.md"><code>py🐍</code></a>
+<code>A</code>
+<a href="/concepts/python/tree.md">Tree</a>
 <ul>
 <li><code>A</code> Binary Search Tree</li>
 <li><code>A</code> AVL Tree</li>
@@ -119,9 +70,8 @@ A data structure is a data organization, management, and storage format that is 
 <code>A</code> Graph
 </li>
 <li>
-<code>A</code> Prefix sum (Range queries)
-<a href="/concepts/cpp/range_queries.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/range_queries.md"><code>py🐍</code></a>
+<code>A</code> 
+<a href="/concepts/python/range_queries.md">Prefix sum (Range queries)</a>
 </li>
 <li>
 <code>A</code> Disjoin Set
@@ -134,7 +84,6 @@ A data structure is a data organization, management, and storage format that is 
 </li>
 <li>
 <code>A</code> Skiplist
-<a href="/concepts/cpp/skip_list.md"><code>cpp🐀</code>
 </li>
 </ul>
 
@@ -149,12 +98,14 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <ul>
 <!-- ======== Begin Math ======== -->
 <li>
+<b><a href="/concepts/python/big-o.md">Big-O</a></b>
+</li>
+<li>
 <b>Math</b>
 <ul>
 <li>
-<code>B</code> Bit Manipulation
-<a href="/concepts/cpp/bitwise.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/bitwise.md"><code>py🐍</code></a>
+<code>B</code> 
+<a href="/concepts/python/bitwise.md">Bit Manipulation</a>
 </li>
 <li>
 <code>B</code> Binary Floating Point 
@@ -291,8 +242,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Strings ======== -->
 <!-- ======== Begin Searches ======== -->
 <li>
-<b>Searches</b>
-<a href="/concepts/python/searching.md"><code>py🐍</code></a>
+<a href="/concepts/python/searching.md"><b>Searches</b></a>
 <ul>
 <li>
 <code>B</code> Linear Search
@@ -311,9 +261,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Searches ======== -->
 <!-- ======== Begin Sorting ======== -->
 <li>
-<b>Sorting</b>
-<a href="/concepts/cpp/sorting.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/sorting.md"><code>py🐍</code></a>
+<a href="/concepts/python/sorting.md"><b>Sorting</b></a>
 <ul>
 <li>
 <code>B</code> Bubble Sort
@@ -529,9 +477,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <ul>
 <!-- ======== Begin Brute Force ======== -->
 <li>
-<b>Brute Force</b> - look at all the possibilities and selects the best solution
-<a href="/concepts/cpp/brute_force.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/brute_force.md"><code>py🐍</code></a>
+<a href="/concepts/python/brute_force.md"><b>Brute Force</b></a>
+ - look at all the possibilities and selects the best solution
 <ul>
 <li>
 <code>B</code> Linear Search
@@ -556,8 +503,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== End Brute Force ======== -->
 <!-- ======== Begin Greedy ======== -->
 <li>
-<b>Greedy</b> - make the locally optimal choice at each stage with the hope of finding a global optimum
-<a href="/concepts/python/greedy.md"><code>py🐍</code></a>
+<b><a href="/concepts/python/greedy.md">Greedy</b> 
+- make the locally optimal choice at each stage with the hope of finding a global optimum
 <ul>
 <li>
 <code>B</code> Jump Game
@@ -632,7 +579,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <!-- ======== Begin Dynamic Programming ======== -->
 <li>
 <b>Dynamic Programming</b> - break the problem into subproblems and store the results of subproblems to avoid computing the same results again
-(basic: <a href="/concepts/cpp/dp_basic.md"><code>cpp🐀</code></a>, intermidate: <a href="/concepts/cpp/dp_intermediate.md"><code>cpp🐀</code></a>)
 <ul>
 <li>
 <code>B</code> Fibonacci Number
@@ -722,27 +668,3 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </li>
 <!-- ======== End Branch & Bound ======== -->
 </ul>
-
-## 🔆 Collections
-
-**Competitive Programming Events**
-
-* 🎄 Advent of Code ([2022](collections/advent-of-code-2022/))
-* 🔰 Google Code Jam ([2022](collections/codejam-2022/))
-
-**Coding Problems Website**
-
-* [🔸 LeetCode](collections/leetcode/)
-
-**Courses & Specialization**
-
-* [🍨 Data Structures and Algorithms Specialization](collections/datastructures-and-algorithms-specialization/), University of California San Diego
-
-## Contributors
-
-This project exists thanks to all the people who contributed.
-
-<a href="https://github.com/rain1024/datastructures-algorithms-competitive-programming/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rain1024/datastructures-algorithms-competitive-programming" />
-</a>
-
