@@ -1,7 +1,7 @@
 # Linked List
 
 *See implementation in*
-C++,
+[C++](/concepts/cpp/linked-list/README.md),
 Java,
 [Python](/concepts/python/linked_list.md),
 [Typescript](/concepts/typescript/linked-list.md)
