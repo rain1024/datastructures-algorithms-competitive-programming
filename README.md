@@ -72,9 +72,8 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/general/string/README.md">String</a>
 </li>
 <li>
-<code>B</code> Linked List
-<a href="/concepts/python/linked-list.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/linked-list.md"><code>ts</code></a>
+<code>B</code>
+<a href="/concepts/general/linked-list/README.md">Linked List</a>
 </li>
 <li>
 <code>B</code> Stack
