@@ -2,7 +2,7 @@
 
 *See implementation in*
 [C++](/concepts/cpp/array/README.md),
-Java,
+[Java](/concepts/java/array/README.md),
 [Python](/concepts/python/array/README.md),
 [Typescript](/concepts/typescript/array/README.md)
 
