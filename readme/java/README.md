@@ -20,7 +20,8 @@ A data structure is a data organization, management, and storage format that is 
 
 <ul>
 <li>
-<code>B</code> Array
+<code>B</code> 
+<a href="/concepts/java/array/README.md">Array</a>
 </li>
 <li>
 <code>B</code> String
