@@ -20,8 +20,12 @@ Here are some basic operations that you can perform on strings:
 * Substring: Extract a portion of the string
 * Comparison: Compare two strings for equality
 * Reversal: Reverse the order of characters in the string
+
+More operations
+
 * Uppercase: Convert all characters in the string to uppercase
 * Lowercase: Convert all characters in the string to lowercase
+* Letters & Numbers: Check if characters in the string are letters or numbers
 
 ## 🔗 Further Reading
 
