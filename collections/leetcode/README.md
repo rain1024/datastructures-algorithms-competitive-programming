@@ -2839,7 +2839,7 @@
 <td>2571</td>
 <td>2572</td>
 <td>2573</td>
-<td>2574</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2574'>2574</a></td>
 <td>2575</td>
 <td>2576</td>
 <td>2577</td>
