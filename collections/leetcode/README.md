@@ -233,7 +233,7 @@
 <td>202</td>
 <td>203</td>
 <td>204</td>
-<td>205</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode205'>205</a></td>
 <td>206</td>
 <td>207</td>
 <td>208</td>
