@@ -1,7 +1,7 @@
 # Linked List
 
 *See implementation in*
-C++,
+[C++](/concepts/cpp/linked-list/README.md),
 Java,
 [Python](/concepts/python/linked_list.md),
 [Typescript](/concepts/typescript/linked-list.md)
@@ -34,6 +34,12 @@ SEARCHING
 | Singly Linked List  | Double Linked List  |
 |---------------------|---------------------|
 | $O(n)$              | $O(n)$              |
+
+## Basic Operations
+
+* Initialization: Create a linked list with given values
+* Insertion: Insert a new element at the beginning, end or in the middle of the list
+* Deletion: Delete an element from the beginning, end or in the middle of the list
 
 ## 🔗 Further Reading
 
