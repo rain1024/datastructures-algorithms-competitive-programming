@@ -17952,7 +17952,7 @@
 </tr>
 <tr>
 <tr>
-<td>1795A</td>
+<td>🟢&nbsp<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/codeforces1795A'>1795A</a></td>
 <td>1795B</td>
 <td>1795C</td>
 <td>1795D</td>

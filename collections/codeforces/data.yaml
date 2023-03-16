@@ -71,6 +71,9 @@ problems:
 - name: 492B
   languages: cpp
   score: 1200
+- name: 1795A
+  languages: cpp
+  score: 800
 - name: 1796A
   languages: cpp
   score: 800
