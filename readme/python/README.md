@@ -56,7 +56,7 @@ Priority Queue
 </li>
 <li>
 <code>A</code>
-<a href="/concepts/python/tree.md">Tree</a>
+<a href="/concepts/python/tree/README.md">Tree</a>
 <ul>
 <li><code>A</code> Binary Search Tree</li>
 <li><code>A</code> AVL Tree</li>
