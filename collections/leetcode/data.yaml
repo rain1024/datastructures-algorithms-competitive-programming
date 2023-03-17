@@ -5,6 +5,10 @@ problems:
 - name: 20
   languages: cpp
   level: easy
+- name: 21
+  languages: cpp
+  level: easy
+  tags: linked-list, recursion
 - name: 23
   languages: cpp
   level: hard
@@ -44,6 +48,10 @@ problems:
 - name: 205
   languages: cpp
   level: medium
+- name: 206
+  languages: cpp
+  level: medium
+  tags: linked-list, recursion
 - name: 208
   languages: cpp
   level: medium

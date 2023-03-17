@@ -31,7 +31,7 @@
 <td>19</td>
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode20'>20</a></td>
 <tr>
-<td>21</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode21'>21</a></td>
 <td>22</td>
 <td>🔴&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode23'>23</a></td>
 <td>24</td>
@@ -234,7 +234,7 @@
 <td>203</td>
 <td>204</td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode205'>205</a></td>
-<td>206</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode206'>206</a></td>
 <td>207</td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode208'>208</a></td>
 <td>209</td>
