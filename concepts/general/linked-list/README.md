@@ -44,6 +44,7 @@ SEARCHING
 ## Problems
 
 * [Leecode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [Leecode 206](https://leetcode.com/problems/reverse-linked-list/)
 
 ## 🔗 Further Reading
 
