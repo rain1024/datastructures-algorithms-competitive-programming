@@ -2,6 +2,12 @@ problems:
 - name: 1
   languages: cpp
   level: easy
+- name: 11
+  languages: cpp
+  level: medium
+- name: 15
+  languages: cpp
+  level: medium
 - name: 20
   languages: cpp
   level: easy
