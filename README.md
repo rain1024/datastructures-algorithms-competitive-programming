@@ -351,6 +351,11 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Sorting ======== -->
+<!-- ======== Begin Two Pointers ======== -->
+<li>
+<b><a href="/concepts/general/two-pointers/README.md">Two Pointers</a></b>
+</li>
+<!-- ======== End Two Pointers ======== -->
 <!-- ======== Begin Linked Lists ======== -->
 <li>
 <b>Linked Lists</b>
@@ -583,11 +588,6 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 </ul>
 </li>
 <!-- ======== End Greedy ======== -->
-<!-- ======== Begin Two Pointers ======== -->
-<li>
-<b><a href="/concepts/general/two-pointers/README.md">Two Pointers</a></b>
-</li>
-<!-- ======== End Two Pointers ======== -->
 <!-- ======== Begin Divide and Conquer ======== -->
 <li>
 <b>Divide and Conquer</b> - divide the problem into a number of subproblems that are smaller instances of the same problem
