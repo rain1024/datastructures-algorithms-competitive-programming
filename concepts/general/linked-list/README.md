@@ -41,6 +41,10 @@ SEARCHING
 * Insertion: Insert a new element at the beginning, end or in the middle of the list
 * Deletion: Delete an element from the beginning, end or in the middle of the list
 
+## Problems
+
+* [Leecode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+
 ## 🔗 Further Reading
 
 * [Linked Lists in Python](https://realpython.com/linked-lists-python/), realpython.com
