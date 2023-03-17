@@ -18,6 +18,14 @@ Here are some basic operations that you can perform on binary search trees:
 * Deletion: Delete a node from the tree
 * Searching: Search for a node in the tree
 
+**Insertion**: To insert a new node into a binary search tree, you start at the root node and compare the value of the new node with the value of the root node. If the new node's value is less than the root node's value, you recursively insert the node into the left subtree. If the new node's value is greater than the root node's value, you recursively insert the node into the right subtree. Once you reach a leaf node, you insert the new node as a child of that leaf node.
+
+**Deletion**: To delete a node from a binary search tree, you first search for the node to be deleted. Once you've found the node, you need to decide how to reorganize the tree to maintain the binary search tree property. If the node has no children, you simply remove it. If the node has one child, you replace the node with its child. If the node has two children, you find the node with the next largest value (i.e. the smallest value in its right subtree), replace the node to be deleted with that node, and then delete the replacement node.
+
+**Searching**: To search for a node in a binary search tree, you start at the root node and compare the value of the node you're searching for with the value of the root node. If the values are equal, you've found the node. If the value you're searching for is less than the root node's value, you recursively search the left subtree. If the value you're searching for is greater than the root node's value, you recursively search the right subtree. If you reach a leaf node without finding the value, then the value is not in the tree.
+
+
+
 ## 🔗 Further Reading
 
 * [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
