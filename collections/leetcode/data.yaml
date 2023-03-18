@@ -121,3 +121,6 @@ problems:
 - name: 2593
   languages: cpp
   level: medium
+- name: 2594
+  languages: cpp
+  level: medium
