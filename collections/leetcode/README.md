@@ -37,7 +37,7 @@
 <td>24</td>
 <td>25</td>
 <td>26</td>
-<td>27</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode27'>27</a></td>
 <td>28</td>
 <td>29</td>
 <td>30</td>
