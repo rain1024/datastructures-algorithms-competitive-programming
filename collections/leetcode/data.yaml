@@ -112,3 +112,15 @@ problems:
 - name: 2589
   languages: cpp
   level: hard
+- name: 2591
+  languages: cpp
+  level: easy
+- name: 2592
+  languages: cpp
+  level: medium
+- name: 2593
+  languages: cpp
+  level: medium
+- name: 2594
+  languages: cpp
+  level: medium
