@@ -21,7 +21,7 @@ print(f"Solve {len(solved_problems)} problems")
 
 table = ""
 table = "<table>\n<tr>"
-for i in range(1, 2589+1):
+for i in range(1, 2700+1):
     if i % 10 == 1 and i > 1:
         table += "<tr>\n"
     if i not in solved_problems:
