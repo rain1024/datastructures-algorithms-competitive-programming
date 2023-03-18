@@ -2860,7 +2860,7 @@
 <tr>
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2591'>2591</a></td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2592'>2592</a></td>
-<td>2593</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2593'>2593</a></td>
 <td>2594</td>
 <td>2595</td>
 <td>2596</td>
