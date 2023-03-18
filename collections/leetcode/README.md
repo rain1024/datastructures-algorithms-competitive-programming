@@ -1627,7 +1627,7 @@
 <td>1470</td>
 <tr>
 <td>1471</td>
-<td>1472</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode1472'>1472</a></td>
 <td>1473</td>
 <td>1474</td>
 <td>1475</td>
