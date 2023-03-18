@@ -53,7 +53,7 @@
 <td>39</td>
 <td>40</td>
 <tr>
-<td>🔴&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode41'>41</a></td>
+<td>41</td>
 <td>🔴&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode42'>42</a></td>
 <td>43</td>
 <td>44</td>
