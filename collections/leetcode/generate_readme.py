@@ -17,7 +17,7 @@ for item in data['problems']:
     id = int(item['name'])
     problems[id] = item
     solved_problems.add(id)
-print(f"Solve {len(solved_problems)} problems")
+print(f"Leetcode: {len(solved_problems)} problems solved.")
 
 table = ""
 table = "<table>\n<tr>"
