@@ -1,5 +1,63 @@
 # History
 
+## 1.2.2 (2023-03-19)
+
+* GH-125: Release version 1.2.1 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/176
+* GH-169: Solve leetcode 23 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/177
+* GH-178: Update roadmap like "JavaScript Algorithms and Data Structures" Repository by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/179
+* GH-169: Solve leetcode 101 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/182
+* GH-169: Solve leetcode 129 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/183
+* GH-169: Solve problem leetcode 2589 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/184
+* GH-140: Solve leetcode 238 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/185
+* GH-125: Add Codeforces collection by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/186
+* GH-169: Solve codeforces 2A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/187
+* GH-169:  by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/189
+* GH-169: Solve codeforces 4A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/190
+* GH-169: Solve codeforces 5A, 6A, 7A, 8A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/191
+* GH-169: Solve codeforces 1796A, 1799A, 1800A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/192
+* GH-169: Solve leetcode 958 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/193
+* GH-194: Solve leetcode 1480, 724 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/195
+* GH-140: Solve leetcode 36, 128 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/196
+* GH-180: Big O in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/188
+* GH-41: Big-O in Python by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/197
+* GH-135: Big-O in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/198
+* GH-199: Array in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/200
+* GH-10: Big-O in Typescript by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/201
+* GH-202: Big-O in Java by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/203
+* GH-125: Change project description by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/204
+* GH-205: Introduction to Data Structures and Algorithms by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/206
+* GH-209: Choosing a Programming Language by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/210
+* GH-211: Array in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/212
+* GH-199: Array in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/213
+* GH-180: Big-O in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/214
+* GH-215: String in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/216
+* GH-217: String in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/218
+* GH-140: Solve leetcode 125, 167 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/219
+* GH-220: Two Pointers in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/221
+* GH-222: Two pointers in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/223
+* GH-217: String in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/224
+* GH-169: Solve leetcode 106 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/225
+* GH-194: Solve leetcode 205, 392 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/226
+* GH-169: Solve codeforces 1794A, 1795A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/227
+* GH-228: Linked List in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/229
+* GH-230: Linked List in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/231
+* GH-169: Solve leetcode 2574 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/232
+* GH-233: Array in Java by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/234
+* GH-169: Solve codeforces 1792A, 1793A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/235
+* GH-169: Solve leetcode 208 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/236
+* GH-194: Solve leetcode 21, 206 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/237
+* GH-140: Solve leetcode 15, 11 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/238
+* GH-239: Tree in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/240
+* GH-220: Two Pointers in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/241
+* GH-242: Binary Search Tree in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/243
+* GH-169: Solve codeforces 1790A, 1791A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/244
+* GH-169: Solve leetcode 1472 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/245
+* GH-194: Solve leetcode 876 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/246
+* GH-140: Solve leetcode 42, 155 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/247
+* Gh-169: Solve leetcode 2591, 2592, 2593, 2594 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/248
+* GH-169: Solve Leetcode 27 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/249
+* GH-169: Solve codeforces 1788A, 1789A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/252
+
 ## 1.2.1 (2023-03-12)
 
 * GH-169: Solve leetcode 142 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/170
