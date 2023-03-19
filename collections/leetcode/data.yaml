@@ -39,6 +39,9 @@ problems:
 - name: 106
   languages: cpp
   level: medium
+- name: 121
+  languages: cpp
+  level: easy
 - name: 125
   languages: cpp
   level: easy
@@ -86,6 +89,9 @@ problems:
   languages: cpp
   level: medium
 - name: 392
+  languages: cpp
+  level: easy
+- name: 409
   languages: cpp
   level: easy
 - name: 724
