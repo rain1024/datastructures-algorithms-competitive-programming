@@ -70,6 +70,9 @@ problems:
 - name: 208
   languages: cpp
   level: medium
+- name: 211
+  languages: cpp
+  level: medium
 - name: 217
   languages: cpp
   level: easy
