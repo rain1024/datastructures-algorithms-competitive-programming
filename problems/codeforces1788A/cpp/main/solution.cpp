@@ -10,8 +10,28 @@
 
 using namespace std;
 
-void solve() { 
-  cout << "Hi" << endl;
+void solve(){
+  int n;
+  cin >> n;
+  vector<unsigned long long> a(n);
+  int c = 0;
+  for (int i = 0; i < n; i++) {
+    cin >> a[i];
+    c += (a[i] == 2);
+  }
+  if(c % 2 == 1){
+    cout << "-1" << endl;
+    return;
+  }
+  int ci = 0;
+  for(int i=0; i<n-1; i++){
+    ci += (a[i] == 2);
+    if(ci == c / 2){
+      cout << i+1 << endl; // 1-based index
+      return;
+    }
+  }
+  cout << "-1" << endl;
 }
 
 int main() {

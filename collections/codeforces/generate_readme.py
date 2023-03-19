@@ -17,7 +17,7 @@ for item in data['problems']:
     id = item['name']
     problems[id] = item
     solved_problems.add(id)
-print(f"Solve {len(solved_problems)} problems")
+print(f"Codeforces: {len(solved_problems)} problems solved.")
 
 def get_level(problem):
     if "score" not in problem:
