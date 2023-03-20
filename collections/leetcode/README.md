@@ -120,7 +120,7 @@
 <td>100</td>
 <tr>
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode101'>101</a></td>
-<td>102</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode102'>102</a></td>
 <td>103</td>
 <td>104</td>
 <td>105</td>
@@ -655,7 +655,7 @@
 <td>586</td>
 <td>587</td>
 <td>588</td>
-<td>589</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode589'>589</a></td>
 <td>590</td>
 <tr>
 <td>591</td>

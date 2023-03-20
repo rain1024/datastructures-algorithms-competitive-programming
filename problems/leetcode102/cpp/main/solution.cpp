@@ -26,16 +26,19 @@ int main() {
   }
 
   // get input
-  int n;
-  cin >> n;
+  TreeNode* root = new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)));
 
   Solution solution;
-  vector<int> output = solution.solve(n);
+  vector<vector<int>> output = solution.levelOrder(root);
 
   // print output
-  for (auto e : output) {
-    cout << e << endl;
+  for (auto iter : output) {
+    for(auto i: iter){
+      cout << i << " ";
+    }
+    cout << endl;
   }
+  cout << endl;
 
   return 0;
 }
