@@ -673,7 +673,7 @@
 <td>602</td>
 <td>603</td>
 <td>604</td>
-<td>605</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode605'>605</a></td>
 <td>606</td>
 <td>607</td>
 <td>608</td>
