@@ -655,7 +655,7 @@
 <td>586</td>
 <td>587</td>
 <td>588</td>
-<td>589</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode589'>589</a></td>
 <td>590</td>
 <tr>
 <td>591</td>

@@ -3,11 +3,11 @@
 
 #include <algorithm>
 #include <cmath>
+#include <fstream>
 #include <iostream>
 #include <map>
 #include <string>
 #include <vector>
-#include <fstream>
 
 using namespace std;
 
@@ -26,16 +26,18 @@ int main() {
   }
 
   // get input
-  int n;
-  cin >> n;
+  string line;
+  getline(cin, line);
+  Node* root = parse_nary_tree<Node>(parse_line(line));
 
   Solution solution;
-  vector<int> output = solution.solve(n);
-
+  vector<int> v = solution.preorder(root);
+  
   // print output
-  for (auto e : output) {
-    cout << e << endl;
+  for (auto i : v) {
+    cout << i << " ";
   }
+  cout << endl;
 
   return 0;
 }

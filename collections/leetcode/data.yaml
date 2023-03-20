@@ -100,6 +100,9 @@ problems:
 - name: 409
   languages: cpp
   level: easy
+- name: 589
+  languages: cpp
+  level: easy
 - name: 605
   languages: cpp
   level: easy
