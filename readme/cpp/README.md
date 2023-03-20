@@ -55,7 +55,9 @@ A data structure is a data organization, management, and storage format that is 
 <code>A</code> 
 <a href="/concepts/cpp/tree/README.md">Tree</a>
 <ul>
-<li><code>A</code> Binary Search Tree</li>
+<li><code>A</code>
+<a href="/concepts/cpp/binary-search-tree/README.md">Binary Search Tree</a>
+</li>
 <li><code>A</code> AVL Tree</li>
 <li><code>A</code> Red-Black Tree</li>
 <li><code>A</code> Segment Tree</li>

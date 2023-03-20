@@ -1,7 +1,7 @@
 # Binaray Search Tree
 
 *See implementation in*
-C++,
+[C++](/concepts/cpp/binary-search-tree/README.md),
 Java,
 Python,
 Typescript
