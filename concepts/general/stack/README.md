@@ -1,7 +1,7 @@
 # Stack
 
 *See implementation in*
-[C++](/concepts/python/stack/README.md),
+[C++](/concepts/cpp/stack/README.md),
 Java,
 [Python](/concepts/python/stack.md),
 [Typescript](/concepts/typescript/stack.md)
