@@ -2590,7 +2590,7 @@
 <td>2345</td>
 <td>2346</td>
 <td>2347</td>
-<td>2348</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2348'>2348</a></td>
 <td>2349</td>
 <td>2350</td>
 <tr>
