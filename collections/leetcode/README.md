@@ -313,7 +313,7 @@
 <td>275</td>
 <td>276</td>
 <td>277</td>
-<td>278</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode278'>278</a></td>
 <td>279</td>
 <td>280</td>
 <tr>
