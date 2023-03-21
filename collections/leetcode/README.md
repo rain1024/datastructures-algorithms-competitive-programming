@@ -782,7 +782,7 @@
 <td>701</td>
 <td>702</td>
 <td>703</td>
-<td>704</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode704'>704</a></td>
 <td>705</td>
 <td>706</td>
 <td>707</td>
