@@ -130,6 +130,9 @@ problems:
 - name: 1319
   languages: cpp
   level: medium
+- name: 1466
+  languages: cpp
+  level: medium
 - name: 1472
   languages: cpp
   level: medium
