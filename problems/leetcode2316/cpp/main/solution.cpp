@@ -30,13 +30,21 @@ int main() {
   int n;
   cin >> n;
 
+  int e;
+  cin >> e;
+
+  vector<vector<int>> edges(e, vector<int>(2));
+  for (int i = 0; i < e; i++) {
+    for (int j = 0; j < 2; j++) {
+      cin >> edges[i][j];
+    }
+  }
+
   Solution solution;
-  vector<int> output = solution.solve(n);
+  int output = solution.countPairs(n, edges);
 
   // print output
-  for (auto e : output) {
-    cout << e << endl;
-  }
+  cout << output << endl;
 
   return 0;
 }

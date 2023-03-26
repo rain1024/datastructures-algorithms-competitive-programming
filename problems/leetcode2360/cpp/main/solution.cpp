@@ -30,13 +30,16 @@ int main() {
   int n;
   cin >> n;
 
+  vector<int> edges(n);
+  for (int i = 0; i < n; i++) {
+    cin >> edges[i];
+  }
+
   Solution solution;
-  vector<int> output = solution.solve(n);
+  int output = solution.longestCycle(edges);
 
   // print output
-  for (auto e : output) {
-    cout << e << endl;
-  }
+  cout << output << endl;
 
   return 0;
 }

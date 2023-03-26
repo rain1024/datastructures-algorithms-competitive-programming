@@ -1,14 +1,15 @@
 #include "solution.h"
 #include "helpers.h"
 
-#include <algorithm>
 #include <cmath>
+
 #include <iostream>
 #include <map>
 #include <string>
 #include <vector>
 #include <fstream>
 #include <filesystem>
+
 
 using namespace std;
 
@@ -30,13 +31,20 @@ int main() {
   int n;
   cin >> n;
 
+  int r;
+  cin >> r;
+  vector<vector<int>> roads(r, vector<int>(3));
+  for (int i = 0; i < r; i++) {
+    for (int j = 0; j < 3; j++) {
+      cin >> roads[i][j];
+    }
+  }
+
   Solution solution;
-  vector<int> output = solution.solve(n);
+  int output = solution.minScore(n, roads);
 
   // print output
-  for (auto e : output) {
-    cout << e << endl;
-  }
+  cout << output << endl;
 
   return 0;
 }
