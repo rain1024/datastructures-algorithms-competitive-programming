@@ -31,11 +31,11 @@ A data structure is a data organization, management, and storage format that is 
 </li>
 <li>
 <code>B</code> 
-<a href="/concepts/cpp/stack/README.md">Stack</
+<a href="/concepts/cpp/stack/README.md">Stack</a>
 </li>
 <li>
 <code>B</code> 
-<a href="/concepts/cpp/queue.md">Queue</a>
+<a href="/concepts/cpp/queue/README.md">Queue</a>
 </li>
 <li>
 <code>B</code> 
