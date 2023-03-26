@@ -1458,7 +1458,7 @@
 <td>1316</td>
 <td>1317</td>
 <td>1318</td>
-<td>1319</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode1319'>1319</a></td>
 <td>1320</td>
 <tr>
 <td>1321</td>
