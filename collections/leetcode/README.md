@@ -2749,7 +2749,7 @@
 <td>2490</td>
 <tr>
 <td>2491</td>
-<td>2492</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2492'>2492</a></td>
 <td>2493</td>
 <td>2494</td>
 <td>2495</td>
