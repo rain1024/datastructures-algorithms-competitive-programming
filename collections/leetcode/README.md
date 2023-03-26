@@ -2603,7 +2603,7 @@
 <td>2357</td>
 <td>2358</td>
 <td>2359</td>
-<td>2360</td>
+<td>🔴&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2360'>2360</a></td>
 <tr>
 <td>2361</td>
 <td>2362</td>
