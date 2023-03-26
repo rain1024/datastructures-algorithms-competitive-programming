@@ -80,10 +80,8 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/general/stack/README.md">Stack</a>
 </li>
 <li>
-<code>B</code> Queue
-<a href="/concepts/cpp/queue.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/queue.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/queue.md"><code>ts</code></a>
+<code>B</code> 
+<a href="/concepts/general/queue/README.md">Queue</a>
 </li>
 <li>
 <code>B</code> Set

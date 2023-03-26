@@ -50,7 +50,7 @@ Output
 ## 🔗 Further Reading
 
 * [std::queue](https://en.cppreference.com/w/cpp/container/queue), cppreference.com
-* [Queue (abstract data type)](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)), wikiepdia
+* [Queue (abstract data type)](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)), wikipedia
 * ▶️ [Queue Introduction](https://www.youtube.com/watch?v=KxzhEQ-zpDc&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=11&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
 * ▶️ [Queue Implementation](https://www.youtube.com/watch?v=EoisnPvUkOA&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=12&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
 * ▶️ [Queue Code](https://www.youtube.com/watch?v=HV-hpvuGaC4&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=13&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017

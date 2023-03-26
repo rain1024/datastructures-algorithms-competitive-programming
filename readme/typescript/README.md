@@ -36,7 +36,7 @@ A data structure is a data organization, management, and storage format that is 
 </li>
 <li>
 <code>B</code> 
-<a href="/concepts/typescript/queue.md">Queue</a>
+<a href="/concepts/typescript/queue/README.md">Queue</a>
 </li>
 <li>
 <code>B</code> 
