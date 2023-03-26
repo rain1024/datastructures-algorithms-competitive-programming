@@ -139,6 +139,9 @@ problems:
 - name: 1480
   languages: cpp
   level: easy
+- name: 2316
+  languages: cpp
+  level: medium
 - name: 2348
   languages: cpp
   level: medium
