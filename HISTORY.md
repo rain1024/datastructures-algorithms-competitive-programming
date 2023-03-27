@@ -1,5 +1,30 @@
 # History
 
+## 1.2.3 (2023-03-26)
+
+## What's Changed
+
+Concepts
+
+* GH-250: Binary Search Tree in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/261
+* GH-264: Stack in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/265
+* GH-266: Stack in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/267
+* GH-277: Queue in general by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/278
+
+Problems
+
+* GH-169: Solve leetcode 211 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/255
+* GH-194: Solve leetcode 121, 409 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/256
+* GH-140: Solve leetcode 22, 150 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/257
+* GH-169: Solve leetcode 605 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/258
+* GH-194: Solve leetcode 589, 102 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/259
+* GH-169: Solve codeforces 1787A, 1785A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/260
+* GH-169: Solve leetcode 2348 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/262
+* GH-169: Solve codeforces 1782A, 1783A by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/263
+* GH-194: Solve leetcode 704, 278 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/268
+* GH-169: Solve leetcode 2492 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/273
+* GH-169: Solve leetcode 2360, 2492, 1319, 1466, 2316 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/276
+
 ## 1.2.2 (2023-03-19)
 
 * GH-125: Release version 1.2.1 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/176
