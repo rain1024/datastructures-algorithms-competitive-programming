@@ -39,6 +39,9 @@ problems:
 - name: 67
   languages: python
   level: easy
+- name: 69
+  languages: python
+  level: easy
 - name: 78
   languages: cpp
   level: medium

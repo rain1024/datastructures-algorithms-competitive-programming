@@ -83,7 +83,7 @@
 <td>66</td>
 <td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode67'>67</a></td>
 <td>68</td>
-<td>69</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode69'>69</a></td>
 <td>70</td>
 <tr>
 <td>71</td>
