@@ -65,10 +65,11 @@ class CodeforcesGenerator(CodeGenerator):
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Boilderplate to generate workspace for solving problem.\n")
-        print("Usage: python craft.py domain problem_id\n\n")
+        print("Usage: python craft.py domain problem_id language\n\n")
         print("Examples:\n")
         print("\tpython craft.py codeforces 100A")
         print("\tpython craft.py leetcode 217")
+        print("\tpython craft.py leetcode 217 python")
         print("\tpython craft.py aoc 2022day2")
         print("\tpython craft.py codejam 2022PunchedCards")
         print("\tpython craft.py dsas _aog_week1_graph_decomposition1_1_finding_exit_from_maze")
