@@ -1,0 +1,9 @@
+{
+  "name": "Leetcode 78. Subsets",
+  "link": "https://leetcode.com/problems/subsets/",
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ]
+}

@@ -977,7 +977,7 @@
 <td>879</td>
 <td>880</td>
 <tr>
-<td>881</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode881'>881</a></td>
 <td>882</td>
 <td>883</td>
 <td>884</td>
