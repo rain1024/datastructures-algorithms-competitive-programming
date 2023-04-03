@@ -39,7 +39,7 @@ Competitive Programming<br/>
 
 ---
 
-⭐ [New Version 1.2.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
+⭐ [New Version 1.3.0 is released.](https://github.com/rain1024/datastructures-algorithms-competitive-programming/releases)
 
 ## ⚛ Introduction
 
