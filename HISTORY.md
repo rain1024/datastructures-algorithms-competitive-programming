@@ -1,8 +1,19 @@
 # History
 
-## 1.2.3 (2023-03-26)
+## 1.3.0 (2023-04-02)
 
-## What's Changed
+Concepts
+
+* GH-282: Set in General by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/283
+
+Problems
+
+* GH-125: Release version 1.2.3 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/279
+* GH-169: Solve Leetcode 67, 69 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/280
+* GH-169: Solve leetcode 881 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/281
+
+
+## 1.2.3 (2023-03-26)
 
 Concepts
 
