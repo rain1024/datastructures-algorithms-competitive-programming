@@ -12,7 +12,6 @@ Problems
 * GH-169: Solve Leetcode 67, 69 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/280
 * GH-169: Solve leetcode 881 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/281
 
-
 ## 1.2.3 (2023-03-26)
 
 Concepts
