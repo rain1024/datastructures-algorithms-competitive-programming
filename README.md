@@ -84,10 +84,8 @@ A data structure is a data organization, management, and storage format that is 
 <a href="/concepts/general/queue/README.md">Queue</a>
 </li>
 <li>
-<code>B</code> Set
-<a href="/concepts/cpp/set.md"><code>cpp🐀</code></a>
-<a href="/concepts/python/sets.md"><code>py🐍</code></a>
-<a href="/concepts/typescript/set.md"><code>ts</code></a>
+<code>B</code>
+<a href="/concepts/general/set/README.md">Set</a>
 </li>
 <li>
 <code>B</code> Hash Table
