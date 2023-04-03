@@ -6,21 +6,21 @@ Java,
 [Python](/concepts/python/set/README.md),
 [Typescript](/concepts/typescript/set/README.md)
 
-In computer science, a queue is an abstract data type that serves as a collection of elements, with two main operations: `Enqueue`, which adds an element to the collection, and `Dequeue`, which removes the least recently added element that was not yet removed.
+In computer science, a set is an abstract data type that can store certain values, without any particular order, and no repeated values, with two main operations: `Add`, which adds a value to the set, and `Contains`, which checks if a value is in the set.
 
-## Stack Operations 
+## Set Operations 
 
-Here are some basic operations that you can perform on stacks:
+Here are some basic operations that you can perform on set:
 
-* `Enqueue`: Add an element to the end of the queue.
-* `Dequeue`: Remove the first element of the queue.
-* `Peek`: Get the value of the first element of the queue without removing it.
-* `IsEmpty`: Check if the queue is empty.
-* `Size`: Get the number of elements in the queue.
+* `Add`: Add a value to the set
+* `Contains`: Check if a value is in the set
+* `Remove`: Remove a value from the set
+* `Union`: Return a new set that contains all the elements of the first set and the second set
+* `Intersection`: Return a new set that contains only the elements that are present in both sets
+* `Difference`: Return a new set that contains only the elements that are present in the first set and not in the second set
+
 
 ## 🔗 Further Reading
 
-* [Queue (abstract data type)](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)), wikipedia
-* ▶️ [Queue Introduction](https://www.youtube.com/watch?v=KxzhEQ-zpDc&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=11&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
-* ▶️ [Queue Implementation](https://www.youtube.com/watch?v=EoisnPvUkOA&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=12&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
-* ▶️ [Queue Code](https://www.youtube.com/watch?v=HV-hpvuGaC4&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=13&ab_channel=WilliamFiset), Data structures playlist, WilliamFiset, 2017
+* [Set (abstract data type)](https://en.wikipedia.org/wiki/Set_(abstract_data_type)), wikipedia
+* ▶️ [Set in C++ STL](https://www.youtube.com/watch?v=4FJrP6aAwSs&ab_channel=Codevolution), GeeksforGeeks
