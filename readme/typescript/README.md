@@ -40,7 +40,7 @@ A data structure is a data organization, management, and storage format that is 
 </li>
 <li>
 <code>B</code> 
-<a href="/concepts/typescript/set.md">Set</a>
+<a href="/concepts/typescript/set/README.md">Set</a>
 </li>
 <li>
 <code>B</code> Hash Table
