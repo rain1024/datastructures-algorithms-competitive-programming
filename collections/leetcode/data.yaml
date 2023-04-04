@@ -157,6 +157,9 @@ problems:
 - name: 2360
   languages: cpp
   level: hard
+- name: 2405
+  languages: cpp
+  level: medium
 - name: 2492
   languages: cpp
   level: medium

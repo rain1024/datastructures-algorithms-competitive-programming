@@ -2653,7 +2653,7 @@
 <td>2402</td>
 <td>2403</td>
 <td>2404</td>
-<td>2405</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode2405'>2405</a></td>
 <td>2406</td>
 <td>2407</td>
 <td>2408</td>
