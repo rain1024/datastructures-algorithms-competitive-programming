@@ -1607,7 +1607,7 @@
 <td>1451</td>
 <td>1452</td>
 <td>1453</td>
-<td>1454</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode1454'>1454</a></td>
 <td>1455</td>
 <td>1456</td>
 <td>1457</td>
