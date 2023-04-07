@@ -1,7 +1,7 @@
 # Graph
 
 *See implementation in*
-[C++](/concepts/cpp/graph/README.md),
+C++,
 Java,
 Python,
 typescript
