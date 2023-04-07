@@ -113,7 +113,8 @@ A data structure is a data organization, management, and storage format that is 
 </ul>
 </li>
 <li>
-<code>A</code> Graph
+<code>A</code>
+<a href="/concepts/general/graph/README.md">Graph</a>
 </li>
 <li>
 <code>A</code> Prefix sum (Range queries)
