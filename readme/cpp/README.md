@@ -66,7 +66,8 @@ A data structure is a data organization, management, and storage format that is 
 </ul>
 </li>
 <li>
-<code>A</code> Graph
+<code>A</code>
+<a href="/concepts/cpp/graph/README.md">Graph</a>
 </li>
 <li>
 <code>A</code> 
