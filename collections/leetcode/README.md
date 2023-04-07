@@ -1129,7 +1129,7 @@
 <td>1017</td>
 <td>1018</td>
 <td>1019</td>
-<td>1020</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode1020'>1020</a></td>
 <tr>
 <td>1021</td>
 <td>1022</td>
