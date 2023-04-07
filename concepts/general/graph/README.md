@@ -15,7 +15,7 @@ In computer science, a graph is a data structure that consists of the following 
 
 Graph representation can be done in two ways:
 
-* Adjacency Matrix: A two-dimensional array of size V x V where V is the number of vertices in a graph. Let the 2D array be adj[][], a slot adj[i][j] = 1 indicates that there is an edge from vertex i to vertex j. Adjacency matrix for undirected graph is always symmetric. Adjacency Matrix is also used to represent weighted graphs. If adj[i][j] = w, then there is an edge from vertex i to vertex j with weight w.
+* Adjacency Matrix: A two-dimensional array of size V x V where V is the number of vertices in a graph. Let the 2D array be `adj[][]`, a slot `adj[i][j] = 1` indicates that there is *an edge* from vertex `i` to vertex `j`. Adjacency matrix for undirected graph is always symmetric. Adjacency Matrix is also used to represent weighted graphs. If `adj[i][j] = w`, then there is an edge from vertex `i` to vertex `j` with weight `w`.
 
 The following graph can be represented using an adjacency matrix.
 
@@ -40,7 +40,7 @@ Adjacency Matrix:
 ```
 
 
-* Adjacency List: An array of lists is used. The size of the array is equal to the number of vertices. Let the array be array[]. An entry array[i] represents the list of vertices adjacent to the ith vertex. This representation can also be used to represent a weighted graph. The weights of edges can be represented as lists of pairs. Following is the adjacency list representation of the above graph.
+* Adjacency List: An array of lists is used. The size of the array is equal to the number of vertices. Let the array be `array[]`. An entry `array[i]` represents the list of vertices adjacent to the `ith` vertex. This representation can also be used to represent a weighted graph. The weights of edges can be represented as lists of pairs. Following is the adjacency list representation of the above graph.
 
 The following graph can be represented using an adjacency matrix.
 
