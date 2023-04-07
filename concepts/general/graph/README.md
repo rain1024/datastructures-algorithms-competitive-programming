@@ -6,7 +6,7 @@ Java,
 Python,
 typescript
 
-In computer science, a graph is a data structure that consists of the following two components:
+A graph is a data structure that consists of the following two components:
 
 * A finite set of vertices also called as **nodes**.
 * A finite set of ordered pair of the form `(u, v)` called as **edge**. The pair is ordered because `(u, v)` is not same as `(v, u)` in case of a **directed graph(di-graph)**. The pair of the form `(u, v)` indicates that there is an edge from vertex u to vertex v. The edges may contain weight/value/cost.
