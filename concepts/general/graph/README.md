@@ -63,3 +63,7 @@ Adjacency List:
   6: [5]
 ```
 
+## References
+
+* [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type)), wikipedia
+* ▶️ [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&ab_channel=freeCodeCamp.org), freeCodeCamp.org
