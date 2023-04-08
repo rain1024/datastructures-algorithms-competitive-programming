@@ -154,7 +154,7 @@
 <tr>
 <td>131</td>
 <td>132</td>
-<td>133</td>
+<td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode133'>133</a></td>
 <td>134</td>
 <td>135</td>
 <td>136</td>
