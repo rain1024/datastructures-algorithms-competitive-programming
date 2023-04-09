@@ -1,0 +1,9 @@
+{
+  "name": "141. Linked List Cycle",
+  "link": "https://leetcode.com/problems/linked-list-cycle/",
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ]
+}
