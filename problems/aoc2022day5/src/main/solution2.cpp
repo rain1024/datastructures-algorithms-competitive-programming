@@ -1,24 +1,22 @@
-#include <algorithm>
 #include <cmath>
-#include <filesystem>
-#include <fstream>
-#include <iostream>
-#include <map>
-#include <string>
 #include <vector>
-
-#include "helpers.h"
+#include <map>
+#include <algorithm>
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <filesystem>
 
 using namespace std;
 
-int main(int argc, char* argv[]) {
+int main(int argc, char* argv[]){
   string input = argv[1];
   string line;
   fstream f(input);
   long long sum_c = 0;
   vector<long long> v;
-  while (getline(f, line)) {
-    if (line.size() == 0) {
+  while(getline(f, line)){
+    if(line.size() == 0){
       v.push_back(sum_c);
       sum_c = 0;
     } else {
