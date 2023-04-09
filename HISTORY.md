@@ -1,5 +1,22 @@
 # History
 
+## 1.3.1 (2023-04-09)
+
+Concepts
+
+* GH-290: Graph in General by @rain1024 in #291
+* GH-292: Graph in C++ by @rain1024 in #293
+
+Problems
+
+* GH-285: Solve leetcode 2405 by @rain1024 in #286
+* GH-285: Solve leetcode 2439 by @rain1024 in #287
+* GH-285: Solve leetcode 1254 by @rain1024 in #288
+* GH-285: Solve leetcode 1020 by @rain1024 in #289
+* GH-285: Solve leetcode 133 by @rain1024 in #294
+* GH-285: solve Leetcode 141, 283 by @quang-ph in #295
+* GH-96: Solve aoc2022 day 5, day 6, day 7 by @rain1024 in #296
+
 ## 1.3.0 (2023-04-02)
 
 Concepts
