@@ -1,3 +1,25 @@
+<!-- BEGIN HEADER -->
+<h1 align="center">
+Data Structures & Algorithms <br/>
+Competitive Programming<br/>
+</h1>
+<!-- END HEADER -->
+
+<h5 align="center">
+
+```
+ <Hello!>
+-|DaS.Algo|-
++Pr0bl3m5!
+`Comp::Ete`
+{Solve~Fun}
+ ^Join_us^
+```
+
+<h5>
+
+---
+
 <h4 align="center">
   Programming Languages: <br/>
   <a href="/readme/python">Python</a>, 
