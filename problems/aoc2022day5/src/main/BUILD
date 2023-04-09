@@ -8,6 +8,6 @@ cc_binary(
 
 cc_binary(
     name = "solution2",
-    srcs = ["solution2.cpp"],
-    visibility = ["//visibility:public", "helpers.h"]
+    srcs = ["solution2.cpp", "helpers.h"],
+    visibility = ["//visibility:public"]
 )
