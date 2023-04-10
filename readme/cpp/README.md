@@ -354,7 +354,8 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 <code>A</code> Prim’s Algorithm
 </li>
 <li>
-<code>A</code> Topological Sorting
+<code>A</code>
+<a href="/concepts/cpp/topological-sorting/README.md">Topological Sorting</a>
 </li>
 <li>
 <code>A</code> Articulation Points

@@ -1,7 +1,7 @@
 # Topological Sorting
 
 *See implementation in*
-C++,
+[C++](/concepts/cpp/topological-sorting/README.md),
 Java,
 Python,
 typescript
@@ -38,3 +38,4 @@ Topological Soring using DFS
 
 * [Topological Sort Algorithm | Graph Theory, WilliamFiset](https://www.youtube.com/watch?v=eL-KzMXSXXI&t=308s&ab_channel=WilliamFiset)
 * [Topological Sort | GeeksforGeeks](https://www.geeksforgeeks.org/topological-sorting/)
+* https://cp-algorithms.com/graph/topological-sort.html
