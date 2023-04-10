@@ -26,3 +26,15 @@ Topological sorting is a linear ordering of vertices in a directed acyclic graph
 
 ## Algorithm
 
+Topological Soring using DFS
+
+1. Create a recursive function that takes the index of node and a visited array.
+2. Mark the current node as visited.
+3. Recur for all the vertices adjacent to this vertex.
+4. Store the vertex to result array once all of its adjacent vertices (and their adjacent vertices and so on) are visited.
+5. Print contents of result array.
+
+## References
+
+* [Topological Sort Algorithm | Graph Theory, WilliamFiset](https://www.youtube.com/watch?v=eL-KzMXSXXI&t=308s&ab_channel=WilliamFiset)
+* [Topological Sort | GeeksforGeeks](https://www.geeksforgeeks.org/topological-sorting/)
