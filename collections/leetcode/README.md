@@ -386,8 +386,8 @@
 <td>341</td>
 <td>342</td>
 <td>343</td>
-<td>344</td>
-<td>345</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode344'>344</a></td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode345'>345</a></td>
 <td>346</td>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode347'>347</a></td>
 <td>348</td>

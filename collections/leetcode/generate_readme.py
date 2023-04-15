@@ -1,11 +1,12 @@
-import yaml
 import os
 from os.path import join
 
+import yaml
+
 wd = os.path.dirname(os.path.realpath(__file__))
 # read template file
-with open(join(wd, 'README.template.md'), 'r') as f:
-    tempalte = f.read()
+with open(join(wd, 'README.template.md'), 'r', encoding='utf-8') as f:
+    template = f.read()
 
 # read data.yaml
 with open(join(wd, 'data.yaml'), 'r') as f:
@@ -39,6 +40,6 @@ for i in range(1, 2700+1):
         table += td
 table += "</table>"
 
-with open(join(wd, 'README.md'), 'w') as f:
-    content = tempalte.replace('<!-- table -->', table)
+with open(join(wd, 'README.md'), 'w', encoding='utf-8') as f:
+    content = template.replace('<!-- table -->', table)
     f.write(content)
