@@ -1,5 +1,17 @@
 # History
 
+## 1.3.2 (2023-04-19)
+
+Concepts:
+
+* GH-300: Topological Sorting by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/301
+* GH-117: Topological Sorting in C++ by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/302
+
+Problems:
+
+* GH-285: Solve leetcode 1857 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/299
+* GH-285: solve Leetcode 344, 345 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/303
+
 ## 1.3.1 (2023-04-09)
 
 Concepts
