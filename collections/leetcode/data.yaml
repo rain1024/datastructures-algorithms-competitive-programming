@@ -84,6 +84,9 @@ problems:
 - name: 167
   languages: cpp
   level: medium
+- name: 168
+  languages: python
+  level: easy
 - name: 169
   languages: cpp
   level: easy
