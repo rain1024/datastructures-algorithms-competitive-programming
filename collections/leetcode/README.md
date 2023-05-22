@@ -17,7 +17,7 @@
 <td>6</td>
 <td>7</td>
 <td>8</td>
-<td>9</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode9'>9</a></td>
 <td>10</td>
 <tr>
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode11'>11</a></td>
