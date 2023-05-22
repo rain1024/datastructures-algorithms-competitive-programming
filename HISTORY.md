@@ -1,5 +1,14 @@
 # History
 
+## 1.4.0 (2023-04-22)
+
+Problems:
+
+* GH-285: solve leetcode 168, 925 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/306
+* GH-285: solve leetcode 88 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/307
+* GH-285: solve Leetcode 100 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/308
+* GH-309: Solve leetcode 9 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/310
+
 ## 1.3.2 (2023-04-19)
 
 Concepts:
