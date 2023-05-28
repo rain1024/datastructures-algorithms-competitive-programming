@@ -157,7 +157,7 @@
 <td>🟡&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode133'>133</a></td>
 <td>134</td>
 <td>135</td>
-<td>136</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode136'>136</a></td>
 <td>137</td>
 <td>138</td>
 <td>139</td>
