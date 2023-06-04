@@ -435,7 +435,7 @@
 <td>386</td>
 <td>387</td>
 <td>388</td>
-<td>389</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode389'>389</a></td>
 <td>390</td>
 <tr>
 <td>391</td>
