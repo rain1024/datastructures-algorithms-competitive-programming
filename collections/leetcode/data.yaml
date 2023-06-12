@@ -5,6 +5,9 @@ problems:
 - name: 11
   languages: cpp
   level: medium
+- name: 13
+  languages: cpp
+  level: easy
 - name: 15
   languages: cpp
   level: medium
