@@ -30,6 +30,9 @@ problems:
 - name: 27
   languages: python
   level: easy
+- name: 28
+  languages: python
+  level: easy
 - name: 35
   languages: python
   level: easy
