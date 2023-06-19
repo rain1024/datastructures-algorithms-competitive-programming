@@ -1,5 +1,11 @@
 # History
 
+## 1.5.1 (2023-06-19)
+
+* GH-313: Solve Leetcode 118 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/317
+* GH-313: Solve leetcode 28 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/318
+
+
 ## 1.5.0 (2023-06-12)
 
 Problems:
