@@ -262,7 +262,7 @@
 <td>229</td>
 <td>230</td>
 <tr>
-<td>231</td>
+<td>🟢&nbsp;<a href='https://github.com/rain1024/datastructures-algorithms-competitive-programming/tree/main/problems/leetcode231'>231</a></td>
 <td>232</td>
 <td>233</td>
 <td>234</td>
