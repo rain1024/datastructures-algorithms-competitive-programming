@@ -160,6 +160,9 @@ problems:
 - name: 392
   languages: cpp
   level: easy
+- name: 405
+  languages: python
+  level: easy
 - name: 409
   languages: cpp
   level: easy
