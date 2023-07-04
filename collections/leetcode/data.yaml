@@ -130,6 +130,9 @@ problems:
 - name: 217
   languages: cpp
   level: easy
+- name: 231
+  languages: python
+  level: easy
 - name: 238
   languages: cpp
   level: medium
@@ -156,6 +159,9 @@ problems:
   level: easy
 - name: 392
   languages: cpp
+  level: easy
+- name: 405
+  languages: python
   level: easy
 - name: 409
   languages: cpp
