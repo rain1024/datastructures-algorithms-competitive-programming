@@ -1,0 +1,5 @@
+solution
+solution1
+solution2
+*.dSYM
+python/main/__pycache__
