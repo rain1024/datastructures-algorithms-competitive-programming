@@ -737,7 +737,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 **Competitive Programming Events**
 
-* 🎄 Advent of Code ([2022](collections/advent-of-code-2022/))
+* 🎄 Advent of Code ([2015](collections/advent-of-code/2015/), [2022](collections/advent-of-code/2022/))
 * 🔰 Google Code Jam ([2022](collections/codejam-2022/))
 
 **Coding Problems Website**
