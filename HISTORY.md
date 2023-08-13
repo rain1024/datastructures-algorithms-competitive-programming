@@ -1,10 +1,15 @@
 # History
 
+## 1.6.0 (2023-08-13)
+
+* GH-313: Solve Leetcode 313 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/320
+* GH-321: Solve aco2015day1 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/322
+* GH-321: Solve aoc2015day2 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/323
+
 ## 1.5.1 (2023-06-19)
 
 * GH-313: Solve Leetcode 118 by @quang-ph in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/317
 * GH-313: Solve leetcode 28 by @rain1024 in https://github.com/rain1024/datastructures-algorithms-competitive-programming/pull/318
-
 
 ## 1.5.0 (2023-06-12)
 
