@@ -7,3 +7,6 @@ bazel-testlogs
 bazel-*
 *.md2
 test_data
+.DS_Store
+MODULE.bazel.*
+MODULE.bazel
