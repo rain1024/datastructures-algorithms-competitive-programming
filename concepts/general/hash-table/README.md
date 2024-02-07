@@ -25,7 +25,7 @@ The process involves:
 
 ## Advantages of Hash Tables
 
-- **Efficiency**: Provides O(1) average time complexity for search, insert, and delete operations.
+- **Efficiency**: Provides $O(1)$ average time complexity for search, insert, and delete operations.
 - **Dynamic Resizing**: Many implementations resize automatically to handle more elements.
 - **Direct Key-Value Mapping**: Facilitates efficient data access and retrieval.
 
