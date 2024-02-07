@@ -256,3 +256,6 @@ problems:
 - name: 2594
   languages: cpp
   level: medium
+- name: 2932
+  languages: cpp
+  level: easy
