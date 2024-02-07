@@ -1,9 +1,9 @@
 # Hash Table
 
 *See implementation in*
-[C++](../cpp/hash_table.md),
+[C++](../../cpp/hash_table.md),
 Java,
-[Python](../python/hash_table.md),
+[Python](../../python/hash_table.md),
 Typescript
 
 A hash table, also known as a hash map, is a fundamental data structure used to store key-value pairs. It uses a hash function to compute an index into an array of slots or buckets, from which the desired value can be found. This mechanism allows for efficient data retrieval, making hash tables an essential component in the implementation of associative arrays.
