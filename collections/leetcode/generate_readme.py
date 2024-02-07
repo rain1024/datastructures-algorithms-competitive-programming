@@ -22,7 +22,7 @@ print(f"Leetcode: {len(solved_problems)} problems solved.")
 
 table = ""
 table = "<table>\n<tr>"
-for i in range(1, 2700+1):
+for i in range(1, 3000+1):
     if i % 10 == 1 and i > 1:
         table += "<tr>\n"
     if i not in solved_problems:
